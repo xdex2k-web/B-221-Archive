@@ -1,0 +1,56 @@
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in “BUS 221 – Business Decision Making,” Ted Rogers School of Management
+Posting, copying, or distribution without permission is forbidden.
+ct4biz2022
+----------------------------
+1
+Critical Thinking and Memo Writing
+What is a Memo?
+The word “memo” is short for “memorandum.” A memo is a short, targeted piece of business writing. The word “memorandum” is an old Latin word that means “to be remembered.” This points to the fact that a memo is, in a sense, a reminder of something to keep in mind—especially something to be done in the future.
+It is important to note that a memo is a brief piece of writing. Typically, a memo is less than a page long, though they are sometimes longer. But a memo should be thought of as quite different from other, longer kinds of business communications, such as policies (though a memo might mention a policy) or business plans or discussion papers.
+It is also important to note that a memo is a targeted piece of communication. That is, it is always addressed to someone in particular—typically some individual or group within your own organization. In this sense, a memo is quite different from a blog entry. A blog entry is typically posted online in a way that makes it readable by literally anyone with an Internet connection. Memos, on the other hand, are for insiders, and typically aim to make some point that is important to both sender and reader.
+In modern business, many memos take the form of an email. (And, as we’ll see below, the structure of modern email has been heavily influenced by traditional memo formatting.) But not all emails are memos—even emails sent in a business context. A short email saying merely, “Hey Colin, would you like to attend our meeting at 2pm?” is not a memo.
+Aims of a Memo
+Memos in real life can have many purposes, because there are many messages that one member of an organization may need to transmit to others within the organization. In modern business, a memo might be used to remind staff to turn off lights when leaving the office, or to remind people about an upcoming event, or to encourage greater effort in making sales, or to propose a new method of routing paperwork through the office.
+In this course, however, memos will always be written with a single kind of purpose in mind, namely to encourage the reader to take some sort of action. A memo will never be used simply to stimulate thought, but to encourage something to be done.
+Structure of a Memo
+There are no universally accepted rules about how to structure a memo. Some organizations may have their own internal way of doing things, but beyond that, memos can take many forms. It is important, however, that a memo is structured in a way that helps to efficiently communicate its purpose. Having a clear structure is one of the main things that separates a good memo from a bad one. In this course, we will teach you a
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in “BUS 221 – Business Decision Making,” Ted Rogers School of Management
+Posting, copying, or distribution without permission is forbidden.
+ct4biz2022
+----------------------------
+2
+simple, standard format that you will be expected to adhere to. This is not the only way to write a memo, but it is one very clear, reliable method.
+In our method, which we will follow closely and consistently throughout the remainder of this course, a memo has two key parts: a header and a body.
+Header
+The header of a memo is very similar to the header of an email. It includes the following four elements, in this order:
+• “To” – If the memo is to an individual, provide that person’s name and job title. If it is to a group, name the group (for example, “All sales staff”).
+• “From” – Provide the sender’s name and job title.
+• “Date” – Provide the complete date on which the memo is being sent (in email this is automatic, of course).
+• “Subject” – Provide a few words that tell the reader what the memo will be about. This should be brief, but descriptive. A single word—such as “sales”—is not very effective. Better would be: “New plan to improve sales.”
+Here’s an example of a good header:
+To: Rajay Karunakaran, CEO
+From: Linda Hicks, Senior VP and CFO Date: January 17, 2022
+Subject: Financial projections for Q2, 2022
+Here’s an example of a bad header:
+To: Rajay [too informal; not enough information]
+From: L.H. [is it from Lisa Hicks, or Liam Harris?]
+Date: January 17 [of what year?]
+Subject: Finances [too vague!]
+Your header is crucial in setting the stage, and letting the reader know the purpose of your memo. Next, it is time to move on to the body of your memo.
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in “BUS 221 – Business Decision Making,” Ted Rogers School of Management
+Posting, copying, or distribution without permission is forbidden.
+ct4biz2022
+----------------------------
+3
+Body
+The three key parts of the body of our memo structure are: Introductory Paragraph, Explanatory Part, and Concluding Paragraph (“Call to Action”).
+Introductory Paragraph
+Every memo should start with a brief introduction telling the reader what the memo is about. The introductory paragraph of a memo is crucial. It should be clear and concise. It should help the reader understand how important the memo is. Keep in mind that in business today, a single individual might receive several dozen memos and emails in a single day, and many of them will be deleted rapidly after only a quick glance. A strong introductory paragraph is important for grabbing the reader’s attention.
+Explanatory Part
+The explanatory part is, where you explain your thinking. You will give key reasons for your recommended course of action, and explain how it achieves an important goal. Where appropriate, you will weigh pros and cons, costs and benefits of various alternative courses of action. Depending on the complexity of the subject matter you need to communicate, the explanatory part of a memo can span several paragraphs. That said, the memos we will ask you to write in this course will be quite simple. Thus, we expect that your explanatory part should be just one paragraph (unless explicitly advised otherwise).
+Concluding Paragraph (“Call to Action”)
+The final element in a memo is a concluding paragraph. This paragraph states the point that your memo has been driving towards, the conclusion of your argument. In this class in particular, the concluding paragraph must ask the reader to do something. Again, people are busy and receive a lot of communications. You want to be sure that your main point isn’t lost. So, it’s helpful to imagine that your reader is somewhat distracted when reading the memo, and skims over most of it. Your memo should finish in such a way that even a reader who only reads the last sentence would know exactly what they are now expected to do.
+In some cases, the writer of the memo may be the boss, in which case the call to action can be quite forceful: “Do this immediately!” (Of course, a wise boss will choose her words carefully, and will be as polite as the situation permits.) In other cases, the writer may be writing to her superiors, in which case a humbler approach will make sense: “Please let me know if you have a few minutes to review last year’s financials with me.” Either way, the reader should finish reading with a clear sense of what it is that the writer wants to happen next.
