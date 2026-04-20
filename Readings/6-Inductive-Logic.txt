@@ -1,0 +1,194 @@
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+1
+Logic, Part 2: Inductive Logic
+Introduction
+This class we continue our short introduction to logic by focusing on a second type of logic: inductive logic (as opposed to deductive logic covered last class). When an argument follows deductive logic, it means if the premises are true, the conclusion has to be true. If an argument follows inductive logic, it means that the premises, if acceptable, make their conclusion probable or likely. While deductive arguments - arguments that when well constructed make their conclusion absolutely certain— may be thought of as stronger, they are also less common in everyday argumentation. Inductive arguments, which are much more common in everyday usage, give us good reason to accept the conclusion but are always considered defeasible, that is, they are open to revision, or may be defeated, in light of new reasons or evidence.
+Inductive Logic
+The following argument types all follow inducive logic. That means that the premises we will see in these argument types offer some, and in many cases very strong, support for the conclusion, but no matter how strong, there is always at least a small theoretical chance the conclusion could be incorrect even if the premises are true. The first type of inductive argument we will look at are called Generalizations, which are often used while working with polls and surveys.
+Polls and Surveys
+For example, you may not have thought about them this way, but opinion polls and surveys are effectively arguments. In surveys, researchers ask a selection of individuals—typically 1,200 to 1,500 in high-quality polls—about their experiences, their habits, or (in opinion polls) their opinion on a particular topic. They might ask people, for instance, how much they spend at grocery stores each month, or how much wine they drink per week, or who they plan to vote for in an upcoming election. Then they offer a claim about how the surveyed individuals responded as a reason to believe something about a much broader group from which the individuals surveyed were drawn. The group that’s surveyed is called the sample. The broader group about which the conclusion makes a claim is called the target population or just population.
+Thus, a polling company might ask 1,000 Canadian adults whether they’ve ever smoked marijuana. Let’s imagine they find that 42% of the people they talk to say they have indeed smoked marijuana at some point. On that basis, they conclude that about 42% of all Canadian adults have at some point smoked marijuana. (In this case, let’s say they interpret “about 42%” to mean between 39% and 45% for reasons we’ll explain below.) The basic argument that results would have the following structure:
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+2
+Argument A:
+Premise: 42% of people we interviewed have smoked marijuana.
+Conclusion: Between 39% and 45% of Canadians have smoked marijuana.
+How strong is the logical support that the premise lends to this conclusion? In other words, how plausible is a scenario in which 42% of the sample have smoked marijuana while the percentage in the target population falls outside the range in the conclusion? The nice thing about polls is that statisticians have come up with formal methods to quantify the answer to this question (that’s why this is the first argument form we’re discussing). You’ll have noticed that the conclusion allows for some deviation between sample and population; more precisely, the conclusion allows for the percentage of people with experience smoking marijuana to be three percentage points higher or lower than the sample. This is known as the margin of error, and every respectable poll or survey will specify it. A related concept is the confidence level. The confidence level is the statistical probability that the sample represents the population within the specified margin of error. Typically, the confidence level that pollsters work with is 95%. In other words, such polls get it right nineteen out of twenty times. So it seems that the premise in example 1 provides fairly strong logical support for the conclusion. A scenario in which the premise is true but the conclusion is false would be an outlier—something that happens only once every twenty times.
+Note, however, that we’ve made a couple crucial assumptions. First, we’ve assumed the sample is large enough to reach the specified confidence level. Here we should note that confidence level, margin of error, and sample size are all related. The larger the sample size, the smaller the margin of error (assuming constant confidence level); the larger the margin of error in the conclusion, the higher the confidence level (assuming constant sample size); and the lower the confidence level you’re content with, the smaller the sample can be (assuming constant margin of error). As assumed in example 1, a sample size of 1,000 results in a margin of error of 3% at a confidence level of 95%. (For our purposes here, it’s not necessary to go into the math that explains why that sample size results in that margin of error at that confidence level. In a stats course, you’d learn how to do that calculation.)
+Second, the formulas statisticians provide regarding sample size, margin of error, and confidence level are all derived under the assumption that the sample is random. This means that everyone in the target population had the exact same chance of being part of the sample. In reality, a truly random sample is very hard to achieve. Pollsters try to approximate random sampling by selecting samples that are representative of the target population—that is, they try to ensure that the group of people they talk to resembles the larger group in relevant ways. We can best illustrate the idea of a representative sample by looking at examples of polls that are badly done. Imagine a poll that aims to study the drinking habits of Germans, but that did so by talking to people only at martini bars. Clearly, Germans who hang out at martini bars are quite unlikely to be like other Germans
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+3
+with regard to their drinking habits. Or imagine wanting to find out what Russians think about religion. Surveying only Russians seen leaving a church, mosque, or synagogue is unlikely to give a very reliable answer. Arguments relying on such biased samples aren’t reliable even if the sample size is quite large.
+The general form of argument that polls and surveys represent is this:
+Premise 1: Proportion X of our sample of size S has characteristic c.
+Premise 2: Our sample was random (or at least not biased). Conclusion: The proportion of the target population that has characteristic c is X ± Y (Y = margin of error).
+The logical strength of such an argument is equal to the confidence level (which is a function of S and Y).
+So, for example, a specific argument based on a poll or survey might say:
+Argument B:
+Premise 1: 22% of our sample of 1,000 Latvians own personal computers.
+Premise 2: Our sample was random (or at least not biased).
+Conclusion: The proportion of the Latvian population that owns a personal computer is 22% ± 5%.
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+4
+Generalizations
+While you may never have conducted a poll or survey yourself, you’ve certainly engaged in informal reasoning that follows the same pattern—that is, you’ve drawn conclusions about a target population by observing a sample. In fact, all of us do this all the time. Suppose you move to a new city and take the subway to work. If your train is late 50% of the time in the first month, you’ll probably come to believe that the subway runs on time only about half the time. Or imagine you take two courses with Professor Novickis and both are terrible; you’re likely to conclude that Professor Novickis’s courses are generally quite bad and try to avoid them in future. We use this pattern in our own private reasoning as well as when providing arguments to others. We might informally call this the argument from example: we show our audience specific examples—preferably instances they’re familiar with or ones they’ll readily believe in—in order to support some broader conclusion.
+Argument C:
+Premise 1: Jenna is a TMU grad, and she has terrific critical thinking skills.
+Premise 2: Ali graduated from TMU, and he has very good critical thinking skills.
+Conclusion: TMU grads are well trained in critical thinking.
+This form of argument is formally known as generalization: we generalize from a number of observed instances in order to reach a conclusion about a larger class of things. Polls and surveys
+How Reliable Are Polls, Really?
+2016 is considered to have been a very bad year for pollsters. Most opinion polls failed to predict the outcome of the referendums in the UK about “Brexit” and in Colombia about the peace treaty with FARC. And most pollsters thought Hillary Clinton, rather than Donald Trump, would win the presidential election in the US. This highlights that the art and science of polling is still evolving—we are still trying to figure out how to make opinion polls more accurate. But we should also remember that these polls were not all that far off. If we shift our focus from the prediction of who would win to the prediction of what percentage of voters would vote for each side, we can see that the polls were off by only a few percentage points. Thus, insofar as the pollsters predicted that those races would be close, they were right. Of course, these wouldn’t be the kinds of predictions that would sell many news stories, so predictions regarding who would win were made. But most pollsters were careful to point out that they weren’t very confident about these predictions. For example, while predicting that Clinton would become US president, Nate Silver from fivethirtyeight.com pointed out that Clinton was “only a normal polling error” away from losing. This should remind us of the importance of a point raised earlier in this book: our beliefs come with different levels of confidence, and so do the justifications for them (the strength of our reasons for belief). And the more important it is to get something right, the stronger the reasons we base our beliefs on should be. Thus, if a high-quality opinion poll predicts a close race with confidence, and predicts cautiously that candidate A is going to win, it would be unwise to make important decisions based on the belief that A is going to win.
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+5
+are a particular, formalized subspecies of generalization. You can think of generalization as getting its name from the fact that it involves observing, one by one, a set of particular instances, then arriving at a conclusion that’s more general. For instance, we might list a number of people we know who’ve had trouble with a particular brand of computer, and on that basis we might conclude that, generally, that brand of computers is low quality. Or we might list all the older customers we can think of who’ve been impressed by a particular characteristic of our product, and conclude on that basis that older customers are more likely to like that feature, in general, than younger customers are.
+When we generalize, whether informally or with a poll or survey, we use as premises our observations of just some members of the larger group about which we want to reach a conclusion. We talk to some Canadians in order to reach a conclusion about how Canadians in general will vote in an upcoming election. We look at a few items coming off our assembly line to reach a more general conclusion about the quality of the products coming off our production line. We talk to a few people who’ve gone to the restaurant that just opened and arrive at a conclusion as to whether it’s good or not. That’s the power of generalization: it allows us to use the evidence to reach a conclusion that goes beyond that evidence.
+Generalization often takes this form:
+Premise: Individuals 1, 2, 3 … n (or proportion P of them) have characteristic c.
+Conclusion: So, all individuals of this kind (or proportion P of them) have characteristic c.
+Of course, not every generalization is a good argument; in fact, many are very poor. How can we tell a strong generalization from a weak one? While we’re often not in a position to use the formal statistical methods discussed in the last section, they nevertheless provide a useful rule of thumb for evaluating arguments based on generalizations of all kinds. In reasoning by generalization, it’s important to make sure you have examined enough instances to warrant your conclusion. This is like checking to make sure a poll’s sample size is large enough. (Failure to do this means committing the fallacy known as hasty generalization.) It’s also important to make sure the instances relied upon to form the premises of your argument are representative of the larger group about which you’re trying to reach a conclusion. If you’re trying to arrive at a conclusion about how much consumers like your product, it’s probably not a good idea to base your reasoning entirely on feedback from customers standing in the returns line.
+Simple Induction
+While generalizations allow us to conclude something about a group based on evidence provided by individuals, we sometimes need to reach conclusions about individuals when all we initially have is information about the class or group they belong to. This is when we use simple induction.
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+6
+Simple induction proceeds from a premise about a group to a conclusion about an individual belonging to that group. For instance, if you know that buses in São Paulo are often late, you may conclude that a particular bus you’re waiting for is likely to be late. Or if you know that it rains only about three times a month in Las Vegas in July, you may conclude that there’s a very high chance you won’t need an umbrella on your way to the casino; most days in Las Vegas aren’t rainy, so you conclude that it’s unlikely that today will be rainy.
+The general form of simple induction is this:
+Premise 1: Proportion P of group G has characteristic c.
+Premise 2: Individual I is a member of G.
+Conclusion: The probability that I has c is P.
+Now, you may have noted that the “individuals” in these examples are not people but buses and days. We do use arguments like generalization, simple induction, and analogy to arrive at conclusions about people, but when we do, we need to be particularly careful for two reasons. One is purely internal to the logic of arguments: many similarities between people are rather superficial, so to group people together on the basis of those similarities introduces the risk of faulty categorization. The other reason is somewhat external to the logic of arguments, but nevertheless very important: using these types of arguments to reach conclusions about people may be a form of stereotyping, which runs the risk of disrespecting the dignity of individuals or groups of people.)
+Analogy
+Another important type of argument is the argument from analogy. An analogy is a comparison between two or more things. In an argument from analogy, the arguer contends that because two things are alike in several observable ways, they’re probably alike in some further, less obvious way. Imagine an advertising executive is talking about a marketing campaign she’s running for a new client:
+Argument A:
+This marketing campaign is just like the one we ran for another client last year. Both campaigns were for new magazines. Both were aimed at audiences between eighteen and thirty years of age. Both made extensive use of Facebook ads and sponsored search results on Google. Last year’s campaign went well, so I expect this new campaign will go well, too.
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+7
+In this argument, the executive is arguing that because the two campaigns are similar in important ways we know about, they’re likely to be similar in another important way we currently know less about—namely their success.
+The general form of arguments from analogy is this:
+Premise 1: P and Q are alike (or similar) with respect to characteristics a, b, c, and d.
+Premise 2: P has characteristic e.
+Conclusion: Q probably also has characteristic e.
+How should we judge the strength of an argument from analogy? In general, we can say that an argument from analogy is strong if it lists many significant similarities, and weaker if it lists very few similarities or if the similarities are not closely linked to the question at hand. The marketing campaign example above lists a relatively good number of similarities, which makes the analogy quite strong. In comparison, consider the following analogy:
+Argument B:
+You’re a graduate of Cambridge university, just like our top sales rep. So, I’m sure you’ll be great!
+This argument is rooted in very few similarities (just one) and so must be considered quite weak.
+An argument from analogy is also weakened if it ignores ways in which the things being compared are dissimilar. A relevant dissimilarity between two things can weaken an analogy. Imagine a colleague saying this:
+Argument C:
+There’s nothing wrong with copying off someone else during your accounting licensing exam. After all, we copy all the time in business settings. When one business sees other businesses doing something really well, they take advantage of that and copy them. Everyone wins. That’s how best practices evolve.
+There is, of course, an important difference left unsaid here, which has to do with the goals of the two activities being compared. One of the goals of business practice is to generally improve efficiency and do things better. The goal of licensing exams is to ensure the quality of accounting services by verifying that accountants actually have the knowledge necessary to competently perform their role. Copying is a way of promoting the goals of business, but it’s a threat to the goal of licensure. By far the most common strategy used to critique arguments by analogy is to look for
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+8
+dissimilarities between the two things being compared and explain why those differences undermine the conclusion.
+Reasoning by analogy can be tricky because in order for such arguments to work, both the arguer and the audience need to understand and agree upon the relevance of the various similarities and dissimilarities under consideration. Nonetheless, analogies remain an important form of reasoning, and an important tool in explaining complex matters related to business decision-making.
+Inference to the Best Explanation
+One of the most important forms of argument proceeds from premises about observable facts to conclusions that explain those facts. This is what’s called inference to the best explanation (IBE). Just like the forms of argument surveyed so far, IBE is an integral part of our everyday thinking. Suppose you wake up in the morning to find your lawn is wet, as are the sidewalk and street, and water is dripping from the leaves of the trees. You’ll likely immediately conclude that it rained during the night. This is IBE in action: you observe facts about your environment, you search for another fact that best explains those facts, then conclude that the further fact is true. Here’s another example:
+Argument D*:
+Premise 1: Four months ago, we hired Jonas to be our new sales manager.
+Premise 2: Our sales have been going down for four straight months.
+Conclusion: Jonas isn’t doing a good job.
+Here, again, the premises are facts we observe and the conclusion is a further fact that would explain the premises. The way the example is spelled out, however, masks the fact that it’s an IBE by leaving an important premise unstated (hence the asterisk). Here is the same example with the missing premise added:
+Argument D:
+Premise 1: Four months ago, we hired Jonas to be our new sales manager.
+Premise 2: Our sales have been going down for four straight months.
+Missing premise: The best explanation for premises 1 and 2 is that Jonas isn’t doing a
+good job.
+Conclusion: Jonas isn’t doing a good job.
+IBE is a celebrated form of argument because it’s an absolutely essential part of the scientific method. But it’s very important in business as well. Desirable and undesirable results in markets and organizations can often be observed but not directly influenced. To be able to make the right
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+9
+decisions moving forward, you need to know the reason why these results occur. This is where IBE can help.
+The general form of IBE arguments is this:
+Premise 1: Claim (or set of claims) X is true.
+Premise 2: Claim E is the best explanation as to why X is true.
+Conclusion: E is true.
+How strong or weak an IBE is depends on whether the explanation offered is in fact the best explanation and, if so, how much better it is than alternative explanations. Thus, whenever you make (or hear) an IBE it’s absolutely crucial to consider alternative explanations. Thinking back to argument D, you might think the argument is pretty strong. But you need to consider alternative explanations. Perhaps you’ll come up with the following list:
+Original explanation: Jonas is doing a bad job.
+Alternative explanation 1: The business has an annual cycle where sales peak in July and go down each month until picking up again in March; Jonas was hired in August, so the decrease in sales during his first four months is completely normal.
+Alternative explanation 2: The reason Jonas was hired was that sales were already going down and while he hasn’t been able to reverse the trend yet, he’s actually slowed it down considerably. He is in fact doing a great job tackling a difficult task.
+Alternative explanation 3: Jonas has many enemies. As soon as they realized he’d taken the new position, they organized a boycott of his company’s products to ensure he would fail. To make sure Jonas would be blamed, they’ve taken elaborate measures to ensure the boycott is kept a secret.
+Alternative explanation 4: The company’s fate is predetermined, and nothing humans do can alter the plans of the gods.
+The first step in evaluating an IBE is to make sure that alternative explanations have been considered. Once all reasonable explanations are on the table, we need to decide which of them is best. Unfortunately, there’s no magic formula for doing this, and to some degree we need to rely on common sense. There are, however, four important criteria we can use for guidance:
+1) An explanation must not conflict with any relevant background knowledge we have. Considering again argument D, if we know that Jonas’s business doesn’t have an annual cycle where sales go
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+10
+down every month after July, then alternative explanation 1 would conflict with relevant background knowledge, which would be a very strong reason to think it isn’t the best explanation.
+2) An explanation is better if it can explain more things rather than fewer. Ideally, it will even explain some things before they happen—that is, it will correctly predict events. For example, suppose it’s true that sales have been going down for a while and that the trend has slowed down. The original explanation (that Jonas is doing a bad job) can explain that the sales are going down, but not that the trend has slowed. Alternative explanation 2 can explain this and is thus somewhat stronger. Perhaps the alternative explanation 2 also predicts that Jonas will eventually turn things around so that sales will increase again. If that were to happen too, it would look much stronger than the original explanation.
+3) An explanation is better if it’s simpler. An explanation shouldn’t require us to believe a whole lot of new claims. This is the problem with alternative explanation 3. It requires us to believe that Jonas has many enemies (something we might not be in a position to confirm), that they hate him enough to organize a boycott (not very plausible), and that they’re able to keep it a secret (for a boycott to be effective, many people have to participate; the more people participate, the harder it is to keep it a secret).
+4) An explanation should be testable—that is, there should, in principle, be a way to refute it. Of course, if the explanation is correct, we won’t be able to actually refute it, but we need to at least be able to imagine what it would take to refute it. This criterion is alternative explanation 4’s downfall. Because we don’t know the plans of the gods, there’s no course of events that would refute the explanation, even in principle. The explanation isn’t testable, in which case we might say that it’s an extremely weak explanation. But it’s even more accurate to say that it isn’t an explanation at all.
+You can memorize the criteria for evaluating explanations with the acronym BEST:
+• Background knowledge
+• Explanatory power
+• Simplicity
+• Testability
+IBE and Argument Indicators
+We previously looked at indicator words that signal whether a claim is a premise or a conclusion. For example, claims following the word because are typically premises and claims following the word therefore are typically conclusions. However, when the argument is an IBE, these indicators become much less reliable. The reason is that the same words we use as argument indicators are also used to signal the direction of explanations. But in IBE the argument goes in
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+11
+Combined Arguments
+We’ve looked at four different inductive argument forms: generalization (including polls and surveys), simple induction, analogy, and IBE. In addition, we’ve looked at one class of deductive arguments, namely conditional ones. In real life, people often try to give you more than one reason to believe a conclusion (and that’s often not a bad idea), and they also use complex arguments that combine various of the forms we have discussed here (as well as some we don’t have space to discuss). Consider the following argument:
+Argument I:
+The new start-up company XYZ Ltd. will fail. After all, the company is very similar to ABC Inc., which went bankrupt within a year. Both XYZ and ABC were founded by celebrities without prior business experience, and both try to appeal to a target group that’s very different from the founder’s fan base. Moreover, XYZ hasn’t been able to attract any other investors. The best explanation for why they haven’t found other investors is that most new companies in this sector fail; so most new companies in that industry fail. So XYZ isn’t a good investment. For, if a company fails, then it is not a good investment.
+Clearly, this argument isn’t just one of the forms of argument we’ve discussed so far; rather, it’s a complex argument combining some of those forms. To analyze this argument, the first step is to mark it up then diagram it using the method learned we have already learned. Here’s how this argument looks marked up:
+1The new start-up company XYZ Ltd. will fail. After all, 2the company is very similar to ABC Inc., 3which went bankrupt within a year. 4Both XYZ and ABC were founded by celebrities without prior business experience, and 5both try to appeal to a target group that is very different from the founder’s fan base. Moreover, 6XYZ hasn’t been able to attract any other investors. 7The best explanation for why they haven’t found other investors is that most new companies in this sector fail; so 8most new companies in that industry fail. So 9XYZ isn’t a good investment. For 10if a company fails, then it is not a good investment.
+And here’s the corresponding diagram:
+the opposite direction of the explanation. Consider, for example, the link between rain and wet sidewalks. When we give an explanation, we may say the sidewalks are wet because it rained. But when we give an argument via IBE, we may say because the sidewalks are wet, it’s reasonable to believe that it rained. This is a prime example of the fact that many words get used in multiple ways in English. Words like so or because are often used as argument indicators, but not always.
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+12
+Now, if we want to examine the logical strength of this argument, we need to know what the arguer is trying to do in each part. At the top right of the diagram (claims 2 through 5) is an argument from analogy. Claims 4 and 5 are supposed to establish that XYZ and ABC are similar (claim 2). This, combined with the fact that ABC failed (claim 3), is offered as a reason to think that XYZ will also fail. To evaluate this part of the argument, then, we need to use the methods for evaluating an argument from analogy (by asking, for example, whether the similarities are relevant, whether there are important dissimilarities, etc.). At the centre left of the diagram we can see a simple induction from claim 8 (most companies in this industry fail) to the intermediate conclusion claim 1 (XYZ will fail). To evaluate this logical link, we need to ask, for example, what most means in this context, and whether XYZ is really a member of the relevant group of companies. The arrow from claims 6 and 7 to claim 8 represents an IBE. To evaluate this part of the argument we need to consider competing explanations and ask whether the one offered really is the best. Finally, as you can easily check, the argument from claims 1 and 10 to the conclusion (claim 9) is a valid categorical argument–a modus ponens.
+Conclusion
+We’ve now surveyed a number of ways in which claims provide logical support for other claims. The general idea is that a claim provides logical support to another claim when anyone believing the first claim also has reason to believe the second. The more unreasonable it becomes to believe a premise without also accepting the conclusion, the stronger the argument.
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+13
+One thing all inductive argument forms have in common is that it’s always possible that the conclusion is false even though the premises are true. In other words, the truth of the premises in such arguments makes the truth of the conclusion likely but not certain – they are defeasible. Good deductive arguments, by contrast, are structured such that if their premises are true, they absolutely guarantee the truth of the conclusion. There’s no general ranking of these argument forms—that is to say there’s no particular type of argument that reliably provides the best logical support. Each argument form has distinctive strengths, but also distinctive weaknesses. Understanding that different arguments take different approaches and being able to recognize those different approaches when you see them are essential steps towards assessing whether an argument is strong or weak.
