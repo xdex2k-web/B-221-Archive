@@ -1,0 +1,247 @@
+Textbook: Business Decision-Making, © 2023 Chris MacDonald
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, uploading, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+1
+Creating and Evaluating Arguments About Ethics
+Chapter outline
+In this chapter, we’ll discuss what ethics is, and why it is important. We’ll then examine 3 different perspectives on ethics. Then we’ll look at how those perspectives can conflict. Finally, we’ll talk about ethical arguments, and how and why we want to make our ethical views, and the reasons supporting those views, explicit.
+Why Ethics?
+Ethics and ethical decision-making are central to business. We spend a lot of our time and make many of our most important decisions in our jobs or chosen careers. If we want to live ethically good lives, we need to make ethically sound decisions in business. Apart from that, there are also instrumental reasons for being ethical in business. A commitment to doing the right thing is widely recognized as a central factor in building the kind of reputation for integrity that results in long-term, mutually profitable business relationships. And, from an individual point of view, working for a company that tries its best to do the right thing is an important part of job satisfaction, and in being able to sleep well at night.
+What is Ethics?
+Ethics, from a classroom point of view, is the systematic study of questions of right and wrong. From a business point of view, of course, ethics is not just a matter of how we think about ethics, but how we put our best ethical reasoning into action when we make decisions.
+Some people will tell you – without thinking about it very carefully – that ethics is all a matter of opinion. There is a grain of truth here: people’s opinions on ethical issues surely do differ.
+Rajay Karunakaran, CEO of Modus Biosystems, is in the company’s boardroom chairing a meeting of his executive team. They’re trying to figure out what to do. There are reports that a handful of used test kits – ones used in demonstrations – have accidentally been repacked and sent out for sale. Should the company spend the money to recall thousands of test kits, to try to find the contaminated ones? One member of the team says no: “Look,” he says, “The risk is very small. There’s very little chance of anyone being hurt.” Another executive shakes her head, “That’s not what it’s about. We have to be honest with the public, regardless, and keep the promises we’ve made to always put customer safety first.” Rajay shakes his head, and says, “In my mind, there’s only one question: What kind of company does Modus want to be? If we answer that question, we’ll know what is the right thing to do.”
+Textbook: Business Decision-Making, © 2023 Chris MacDonald
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, uploading, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+2
+Some people think it is bad to consume alcohol, while others think that it’s fine. Some people think that parents should be very strict with their children, while others think parents should put only as many constraints on their children as will keep them reasonably safe. Some people think the environment must be protected at all costs, whereas others believe that the environment is there for humans to use as we please. And in the world of business, some people think it is perfectly fine for a CEO to make 100 times as much as her secretary, whereas others think that’s immoral. But such disagreements may distract us from two important truths about ethics.1
+The first important truth is that people literally around the world agree on a large number of ethical ideas. People around the world tend to agree that children must be cherished and protected (although their particular approaches to doing so may differ). People in every society value truthfulness (although they may differ in terms of just how strict rules about truth-telling must be, and what the relevant exceptions are). And people everywhere agree that, when debts are owed, they should where possible be repaid.
+The second important truth is that the obvious disagreements may distract us from the fact that humans very frequently need to find at least partial agreement on matters of ethics. If two roommates can’t agree about what constitutes a fair division of the household chores, they are unlikely to stay roommates for very long. If you don’t agree with me that you are bound (even without a written contract) by the promises you make in business, then you and I are simply not going to be able to do business together. And a company that totally ignores the views of its society regarding how it should treat its workers may well face a range of serious difficulties - from difficulty in recruiting through employees “silent quitting” to consumer boycotts. This, of course, goes some way to explaining the widespread agreement on the basics of many ethical issues: we find agreement, sometimes through negotiating, because we need to. Ethics regulates our behaviour, so that we can live and do business alongside each other.
+How to Think About Ethics
+Ethical decision-making can be complicated, involving many factors such as the individuals involved, their relationships, the urgency of a given situation, and various historical factors. For our purposes here, it will be a good start to recognize that there are three main ways to think about ethics, although philosophers have come up with others over the centuries of thinking about this topic. For now, we’ll limit ourselves to the three “big” perspectives. These are drawn
+1 Note also, that the mere fact that there is lots of disagreement about ethics, doesn’t imply that ethics is all a matter of opinion (in the sense that there isn’t a right or wrong answer). After all, disagreement often arises because at least one of the disagreeing parties is just wrong. To see this, note that there is also wide-spread disagreement about whether there is extraterrestrial intelligent life. But this doesn’t mean there isn’t a correct answer to that question. If you wanted to make the case that ethics is all a matter of opinion, you would have to come up with a better argument than to just point at wide-spread disagreement about ethical questions.
+Textbook: Business Decision-Making, © 2023 Chris MacDonald
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, uploading, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+3
+from the “western” philosophical tradition, which has its roots in ancient Greek philosophy.2 However, there are parallels to these perspectives in other ways of thinking about ethics – from the teachings of various world religions, through to the wisdom embodied in belief systems such as Confucianism, through to the beliefs and practices of Indigenous groups around the world.
+Perspective 1: Utility and Thinking About Outcomes
+One perspective on ethics involves thinking about outcomes.3 It says, whenever you have to make a decision, you must think about the possible outcomes and make the choice that will result in the best ones.4 As it happens, we’ve already spent a lot of time in this course thinking about choosing based on outcomes: Expected Value and Expected Utility calculations are just fancy ways of saying, “Which type of choice is going to produce, on average, the best outcome?” Of course, so far, our consideration of outcomes has been relatively narrow. When we’ve calculated Expected Value, we’ve asked “Which of these outcomes leaves the decision maker or their company with the most dollars?” And when you’re hired to work for a company, that is going to be a big part of your job: to help the company make money. And when we’ve calculated Expected Utility, we’ve aimed at finding out which option will create the most utility for the decision maker or someone they are trying to make happy such as employees or customers. And, implicitly, we have assumed that decision makers try to generate utility for employees and customers because that is good for the company. Happy employees do better work, and happy customers keep coming back to spend money on products or services.
+But decision-making isn’t always about figuring out what will produce the best outcomes for you, or for your company. Dumping toxic chemicals in a lake might be cheaper than paying to have them disposed of properly, and so it might help you make bigger profits, but the interests of the kids who swim in that lake, and the fishers who fish in that lake, matter too. And in some cases, you might have an obligation to do something that is good for your employees, even beyond the company’s interest in having happy employees to generate bigger profits.
+But the mechanisms of Expected Value and Expected Utility can still be useful as ways of thinking about generating better, rather than worse, outcomes for whomever you are trying to take into consideration. Here’s a simple, non-business example. Imagine two friends are each inviting you out for tea Friday afternoon after class. One friend, Amin, would just like to hang
+2 Key ancient Greek philosophers were Socrates (470–399 BCE), his student Plato (423 – 348 BCE), and his student Aristotle (384-322 BCE).
+3 Philosophers refer to various versions of this point of view as Utilitarianism or Consequentialism, but you don’t need to know that for this class.
+4 The ethical importance of good outcomes is pretty broadly acknowledged. For example, one scholar has pointed out the importance of good outcomes in Islamic ethical teachings: “According to Islam, whatever leads to welfare of the individual or society is morally good and whatever is injurious is morally bad.” See “The Ethical System in Islam – Implications for Business Practices,” by Jawed Akhtar Mohammed, in Handbook of the Philosophical Foundations of Business Ethics. 2012.
+Textbook: Business Decision-Making, © 2023 Chris MacDonald
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, uploading, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+4
+out. The other friend, Bahar, really needs to ask your advice on an important decision (let’s say, whether to accept a particular job offer). You don’t have time to meet with both of them, so you need to decide.
+Whose interests are involved in this case? That is, who stands to have their utility affected by your decision? Clearly, it’s you and Amin and Bahar. Let’s look at your options, and the utility they might generate for each of you:
+What is Tea with Amin Like?
+Let’s imagine that the outcomes here are pretty certain. You like each other, and chatting over tea Is nice. It’s going to generate a reasonable bit of utility for each of you, perhaps 6 on a scale from 0 to 10.
+What is Tea with Bahar Like?
+This one is a bit more complicated, because there’s a variable: will your advice prove useful to Bahar? It’s nice to have tea with a friend, of course, but perhaps a little less fun when the meeting has a serious purpose than when it’s just a casual hangout. So let’s call this a 5 out of 10 for you. For Bahar, though, the utility depends on how good your advice is. Suppose there is a 40% chance that your advice helps her to make the right decision and this, combined with the pleasant experience of having tea with you makes this a 10 out of 10. There is a 50% chance that you have nothing useful to say, which would leave Bahar with the same utility from the meeting as you (5 out of 10). And then there is a 10% chance that you give bad advice causing her to make the wrong decision (3 out of 10).
+For calculations, we’ll introduce a new term, “Expected Social Utility,” or ESU, defined as the total utility received by all individuals affected by a decision.
+ESU of Tea With Amin
+This one is simple:
+ESUA = (utility for you) + (utility for Amin)
+= 6 + 6
+= 12
+ESU of Tea With Bahar
+ESUA = (utility for you) + (utility for Bahar)
+= (5) + ((0.4 x 10) + (0.5 x 5) + (.1 x 3))
+= 5 + (4 + 2.5 + .3)
+= 5 + 6.8
+= 11.8
+Textbook: Business Decision-Making, © 2023 Chris MacDonald
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, uploading, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+5
+As you can see, the difference here is not enormous, but it does suggest that more good will be done in the world if you meet with Amin. And since doing good (that is, creating utility or benefit) is an ethically good thing, this calculation provides support for the conclusion that the better thing to do, ethically, would be to go have tea with Amin.
+Admittedly, it seems a bit ridiculous to suggest that we need to do this kind of math every time we make an ethical decision. This is a very old criticism. Critics hundreds of years ago said that those who want ethical decision making based on outcomes are recommending a procedure that no one would use. But those who promoted the outcomes-based point of view5 had a ready response: the point is not that you need to sit down and do the math every time, because you often already know what the math will say. After all, whenever you face a decision, without doing any math you will likely be able very quickly to list the people who will be affected and to think through how they’ll be affected. So, you should choose on that basis. The kind of math shown above might illustrate the principle in a useful way, and in fact just might come in handy when ethical problems are more difficult and complicated than everyday ones.
+But, wait. The ESU calculations we just performed rested on the unstated assumption that the only people whose utility counts are the ones who end up having tea. But this is clearly wrong. Your decision who to have tea with will affect both of your friends; not just the one that you end up meeting. Plausibly, telling Amin you can’t hang out because you are giving advice to another friend will be something that won’t bother him much. He will find something else to do. But, equally plausibly, telling Bahar that you can’t give her advice because you would rather hang out with another friend is going to be somewhat hurtful. So, there is a “fixed cost” in terms of utility that comes with saying ‘no’ to one of your friends. That cost is likely higher for Bahar, and so it might very well turn out that the math will tell you to meet with her after all (performing the ESU calculations including all three affected people is a good exercise – do it!).
+Now, why would we make the error of excluding affected individuals from our ESU calculations only to correct that error two paragraphs later? Wouldn’t it be better to simply not make the error in the first place? Well, the thing is that this error is instructive. If we want to make ethical decisions by focusing on outcomes, it is important to really include everyone affected. Or rather, it is important to include everyone who is likely affected to a significant degree.6 There are two very common mistakes that happen at this stage that lead us to leave some of those who are affected out of our calculations. The first is that we are naturally self-centered and it’s easier to think of our own utility and that of our friends and family than of the utility of unrelated strangers. The second, and related, mistake is that we focus only on those who we end up interacting with while ignoring those who we may have interacted with had we chosen otherwise – that’s the mistake made above. In the business context this is a common problem.
+5 The philosopher John Stuart Mill (1806 – 1873) was a key promoter of this outcomes- based point of view.
+6 Because of what’s sometimes referred to as the Butterfly Effect, every living being could end up being affected by a decision you make. Clearly, it would be impossible to take every remote possibility into account.
+Textbook: Business Decision-Making, © 2023 Chris MacDonald
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, uploading, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+6
+For example, when a company has a monopoly over a product or service, they will be able to charge much higher prices than if they had competitors. Nevertheless, all the customers of a monopoly will prefer to have the product at the price charged than not to have it (otherwise they wouldn’t buy), and so the monopolist may tell themselves that charging the high price still leaves all affected parties with a pretty good deal. The problem with that line of thought is that it disregards all the people who would have liked to buy the product but can’t afford the prices the monopolist is charging.
+Before moving on, we need to make a note about the number of people involved. For the calculation above, it was important that, no matter what you chose, the same number of people were involved: in either case, just the same 3 people. That made the math simple, and meaningful. Adding up utility numbers the way we did makes pretty decent sense when the number of people is consistent, but it can have some weird, inconsistent implications if the different options involve different numbers of people. For example, imagine that, in the case above, you invited two other friends, Carmine and Dave, along to have tea with you and Amin. Imagine you know Carmine and Dave will be bored (they don’t like drinking tea), but it’s still better than sitting at home. Imagine we think they will get a utility of 3 out of 10 (compared to a 2 by sitting at home).
+ESU of Tea With Amin, Carmine, and Dave:
+ESUA+C = (utility for you) + (utility for Amin) + (utility for Carmine) + (utility for Dave)
+= 6 + 6 + 3 + 3
+= 18
+Suddenly this option looks a lot better, ethically, than having tea with Bahar—it would create more happiness. But Bahar really needs your advice, and so most people would think that tea with Amin, Carmine, and Dave, in this circumstance, would be a mistake. Why should adding some people to the equation shift things like this? And notice that the bigger the difference in the number of people, the weirder the math looks: if we just add up the utility numbers, without attention to the number of people, then we would conclude, for example, that 1 person having a good time (7 out of 10) is less good than 20 people having a lousy time (2 out of 10) because 20 x 2 is 40, which is a lot more than 1 x 7, which of course is just 7.7
+All of this means is that while Expected Social Utility can be a handy tool for thinking through who may benefit, how likely they are to benefit, and how much they may benefit, you need to use it cautiously. And, perhaps more to the point, it’s a mistake to think that math, on its own, can solve ethical questions.
+7 The philosopher Derek Parfit drew attention to this problem in the 1980s and spawned a whole subfield of philosophy called population ethics, which continues trying to come up with a good way of addressing it.
+Textbook: Business Decision-Making, © 2023 Chris MacDonald
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, uploading, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+7
+Perspective 2: Respect, and Rules and Principles
+A second way of thinking about ethics involves thinking about fixed rules or principles to guide our behaviour. People who are attracted to this perspective reason roughly as follows. While outcomes may be important (see above), they are often quite unclear. You may think you know what’s going to happen, but you really don’t. And even if you merely think in terms of probabilities, you may be more confident in your knowledge of the relevant probabilities than you should be. But one thing you are certain of – or should be certain of – is that you are a person who lives among other persons. And the important thing about persons (as opposed to mere inanimate objects like rocks, or mere tools like hammers or staplers) is that people deserve respect. Persons, as persons, are ethically significant in a way that rocks, hammers, and staplers aren’t.
+The fact that persons are ethically significant, and the fact that they deserve respect, means that there are some things that you simply must not do to them. That is, it means there are some rules we need to adhere to. So, for instance, you should not lie to them. When you lie to someone, you are trying to manipulate them in some way, by getting them to think something that is untrue, perhaps so they will act in a way that is good for you, but perhaps not good for them. And when you do that, you fail to show the proper respect. The same goes for stealing. Having respect for other people means having respect for the things they own: if I worked hard to earn enough money to buy a new pair of shoes, then if you steal them, you are implying that my interests don’t matter – in essence, that I don’t matter.
+So rather than focusing on finding good outcomes, this second perspective says we should focus on adhering to certain well-established rules that demonstrate respect. Although the exact list of rules is subject to plenty of debate, people who advocate this perspective are likely to recommend common rules like:
+•
+“Treat people the way you would like to be treated.”
+•
+“Don’t cause avoidable harm to others.”
+•
+“Tell the truth / don’t lie.”
+•
+“Respect other people’s right to control their own lives.”
+•
+“Don’t cheat.”
+•
+“Respect people’s property / don’t steal.”
+•
+“Help those in need.”
+•
+“Pay your debts (financial and otherwise).”
+•
+“Keep your promises.”
+Where do these rules come from? The answer to that is complicated and remains subject to debate. Some people think they come from God or another spiritual source, though that complicates things, and makes discussion of ethics across cultures quite tricky. Others think they can be established by reasoning, just by thinking through what kinds of behaviours demonstrate suitable respect for our fellow humans. Still others think that the list of rules
+Textbook: Business Decision-Making, © 2023 Chris MacDonald
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, uploading, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+8
+should be grounded in the need we have, as a social species, to live together in societies: after all, no society could likely survive long, let alone thrive, without agreeing that, in general, it is wrong to lie or to steal or break promises. But in the end, what differentiates this perspective from the first perspective above is its focus on relatively strict rules, rather than on the attempt to calculate the best outcomes on a case-by-case basis.
+One category of rule that deserves special mention is rights, including human rights. A right is an ethical or legal entitlement to be treated in a certain way. We’ll focus on ethical (or moral) rights here.8 When someone has a right, it means that other people must treat them in certain ways. The fact that I have a right to life means that it would be wrong (both legally and ethically) for anyone to take my life. The fact that I have property rights over my house and the land it sits on means that no one is allowed to enter my house without my permission. Rights are powerful kinds of ethical claims and imply powerful rules. One reason is that they can only be overridden in special circumstances. The police can override my property rights (by entering my house) but only if they have search warrant. And rights are not susceptible to being overridden by small improvements in utility: it might make you happy if your professor lied to you and told you that you did well on a test when you didn’t, but you have a right to know your grade, and that tends to be the overriding consideration. Some rights (such as property rights) do get embodied in laws, but other rights do not. For example, if you lie to a friend about liking their shirt, you may have violated their right to know the truth, but you haven’t violated any of their legal rights.
+Perspective 3: Character
+Finally, there is a third perspective on ethics that focuses not on outcomes, and not on rules, but on character.9 This perspective says, in effect, that you should always act the way a good person would act. Of course, that may seem vague. I’m a good person. Aren’t you? But when you think about it, we all know people who we think are really good – people we really admire in terms of their character, people who always seem to know the right thing to do. This perspective says that whenever we face an ethical dilemma, we should stop and think: What would someone who I truly admire do, in a situation like this?
+This perspective leads us to think not just about who we admire, but about who we want to be, ourselves. In choosing how to behave, we should ask: how would this choice reflect on my character? Who am I, and who do I want to become? This applies in obvious ways to personal choices, but it also applies to the behaviour of teams and entire companies. Organizations such as companies (and universities, and religious organizations, etc.) each have their own ‘character’ or reputation, based on how they operate. The perspective we are discussing here
+8 Legal rights are rights put in places by governments, and so they vary from place to place. In Canada, for example, children have a legal right to be provided with free education up through high school. That’s not true everywhere.
+9 This tradition is most closely associated with the thinking of the ancient Greek philosopher, Aristotle (384-322 BCE).
+Textbook: Business Decision-Making, © 2023 Chris MacDonald
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, uploading, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+9
+suggests that, when taking action on behalf of a company we work for, we ought to ask, “Is this the kind of company we want to be?” or “What would the kind of company we all admire do in a situation like this?”
+Scholars who focus on this perspective have emphasized the role that the choices we make have on determining the kind person we are, or who we will become. A simple example: each time you tell a lie, it is easier to tell another lie the next time. Over time, telling lies repeatedly has the tendency to build you into a certain kind of person, namely a liar. Is “a liar” the kind of person you look up to, and the kind of person you want to be?
+Some versions of this perspective get more specific and attempt to list the kinds of character traits. For instance, among the positive personality traits often listed are things such as:
+•
+Honesty
+•
+Bravery
+•
+Integrity
+•
+Justice
+•
+Temperance (or self-restraint)
+•
+Wisdom
+•
+Etc.
+The specific list of positive character traits, or virtues, thought up by specific thinkers varies considerably. But the focus, overall, is consistent: what matters is not doing specific good things or following specific rules but being a good person.
+Beyond these 3 Perspectives
+Many books have been written about each of these perspectives. These books often focus on why one particular perspective is the best, and why the other two are deeply flawed. The philosophical debate has been raging for centuries. In everyday life, though, most people recognize that all three play an essential role in the decisions we make. We all know that the outcomes of our actions matter. And we all know that there are important rules that should shape our behaviour. And, finally, we all recognize that character matters, both in terms of who deserves our respect and whether we deserve, in turn, to be respected. So, while you may find one or another of the perspectives outlined above particularly attractive (or not!) the most useful way to think about this all is to recognize that each of these factors – outcomes, rules, and character – matters to our ethical decision making, and to try to take them all into consideration.
+Textbook: Business Decision-Making, © 2023 Chris MacDonald
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, uploading, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+10
+One challenge, of course, is that once you have three separate frameworks, or guides, it is possible that they will point you in different directions. A classic example has to do with the conflict between a focus on good outcomes, on one hand, and a focus on the rules of justice, on the other. For example, think back to the example above regarding who to have tea with. A calculation of best outcomes might point you toward having tea with Bahar. But what if you had previously promised to have tea with Amin that morning? Most people think that promises
+Anishinaabe Virtue Ethics The Anishinaabe are an Indigenous people traditionally living on the land around the Great Lakes, in part of what is now known as Canada and the United States. Like other peoples across the globe, the Anishinaabe have their own way of thinking about the right way to act. In particular, the Anishinaabe often seek guidance from what are known as the Seven Grandfather Teachings, which explain how we are to relate to each other, and to nature. Each Teaching is summed up in a single word, representing what Western philosophers would call a ‘virtue’ – a word describing a positive characteristic that would be possessed by the kind of person we all admire and should all strive to be.
+Here are the Seven Grandfather Teachings, as explained in the words of the Seven Generations Education Institute:
+Debwewin To speak only to the extent, we have lived or experienced. Commonly referred to as Truth.
+Dabasendiziwin To think lower of oneself in relation to all that sustains us. Commonly referred to as Humility.
+Manaaji’idiwin To go easy on one another and all of Creation. Commonly referred to as Respect.
+Zaagi’idiwin Unconditional love between one another including all of Creation, humans and non-humans. Commonly referred to as Love.
+Gwayakwaadiziwin To live correctly and with virtue. Commonly referred to as Honesty.
+Zoongide’ewin To live with a solid, strong heart. Commonly referred to as Bravery or Courage.
+Nibwaakaawin To live with vision. Commonly referred to as Wisdom.
+*Adapted from “Seven Grandfather Teachings,” Seven Generations Education Institute, February 3, 2021. https://www.7generations.org/seven-grandfather-teachings/ (Accessed October 29, 2022)
+Textbook: Business Decision-Making, © 2023 Chris MacDonald
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, uploading, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+11
+are ethically important, and that when you make a promise you really should keep it unless a true emergency arises. So, a focus on outcomes, here, points you in one direction, and a focus on rules points you in another.
+Here’s a slightly more complicated example. Imagine you are considering spending some money on an employee morale-boosting effort: your company is big enough that you’ve got a substantial budget for this. You’re not thinking of a one-time thing like a party for employees, but something that will provide ongoing benefit to them. You are considering two possibilities. One is starting an on-site daycare facility for your employees who have children. The other is to add a fitness centre. You estimate that the cost for the two initiatives would be similar. Imagine that you survey 200 of your employees, asking them to rate the two plans on a scale from 0 to 10. About half of your employees complete the survey, and the results suggest that, on average, employees rate the daycare at 7.3 out of 10, and rate the fitness centre idea at 8.3 out of 10. Clearly, both ideas are pretty popular. Which one should you choose?
+The survey results can be taken, at least roughly, as representing the amount of utility that your workers, as a group, would receive from each of the two options. Based on that information, you might conclude that more utility will result from the fitness centre.
+Next, imagine you now realize that you have two fairly distinct groups of workers in your office, based on two large hiring phases that have happened in your company’s history: you have ‘older’ workers who were hired more than 10 years ago, and ‘younger’ workers who were hired more recently. And, of course, their needs are different: younger workers tend to have children (and some of them will benefit greatly from having an on-site daycare). For the younger workers, a daycare would be not just a nice thing, but a really tremendous benefit. In particular, some of your younger women employees regard it as essential: without access to daycare, they may need to interrupt their careers in order to have families. Seen this way, access to daycare looks like a matter of justice, especially given the historical reality of women traditionally bearing a much higher percentage of the burden of childcare. How come this strong preference doesn’t tilt the math in favour of these young parents? Well, the issue is that people who don’t have kids won’t derive any personal utility from the daycare, which brings the average down by a lot. And, so, we see that the issue is not quite as simple as looking at the outcomes – other factors, such as justice, matter too, and may point you in a different direction.
+As hinted above, there is no easy way to resolve things when faced with a conflict between outcomes, rules, and character (or, indeed, even when faced with a conflict between two rules – such as the one requiring fairness and the one requiring equal respect come into conflict).
+The key, here, is to see that the perspectives provided above enrich our ethical thinking. The risk, in a situation like the one discussed just above, is that we may accidentally focus only on outcomes or only on principles. Once we recognize that multiple factors are at play, we need to
+Textbook: Business Decision-Making, © 2023 Chris MacDonald
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, uploading, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+12
+slow down, think it through, and do our best to find a wise path forward. Very often, that is going to involve discussing the issue with others – other decision-makers, and others who may be affected by your decision. And that, in turn, requires the ability to make your ethical reasoning explicit. We turn to that issue next.
+Making Our Ethical Arguments Explicit
+Often, ethical decision making is fast, even subconscious.10 When someone asks you a basic question, you answer truthfully, automatically. You probably don’t even think about whether stealing the $5 that you see a classmate accidentally drop on the floor would be the ethical choice. This is just another way of saying that, for most of us, the right thing to do is obvious most of the time.11
+But sometimes, resolving ethical challenges – especially in the world of business – requires discussion with others. Team members need to decide together how to divide up fairly the work required to complete a big project. Bosses need to explain to employees what the rules and expectations are in terms of use of company time and resources. CEOs need to engage with local communities regarding how to balance the jobs that would come from building a new factory against the possible environmental damage that factory might cause.
+As we have seen throughout this course, discussing your reasoning with others requires making your reasoning clear. This involves stating both your conclusion (in a matter of ethics, your conclusion will almost always be a normative claim, and very often one that states what you think should be done) and the reasons, or premises, that you think support your conclusion. Of course, as we’ve also seen, sometimes in regular conversation you’ll leave one or more of those parts unstated – typically because you think they’re too obvious to bother saying. But, once again, we’ll focus on making even the “obvious” parts clear, by writing them down.
+Let’s look back at the case that opened this reading: the question of whether Modus should spend a lot of money to do a product recall, in order to make sure a bunch of possibly-contaminated test kits don’t get used by consumers.
+Here, written out formally, is the ethical argument being made by one of the executives:
+Premise 1: We are only ethically obligated to do a recall if there is a high probability of serious harms to customers.
+Premise 2: There’s very little chance of anyone being hurt by possibly-contaminated test kits.
+Conclusion (claim 3): So, we aren’t ethically obligated to spend money on a recall.
+10 That is, it is handled efficiently by System 1!
+11 We can, of course, be wrong about this: System 1 is far from perfect.
+Textbook: Business Decision-Making, © 2023 Chris MacDonald
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, uploading, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+13
+Here is the diagram of that argument:
+This diagram will look familiar, because you’ve seen ones just like it before. The fact that the argument above is an ethical argument doesn’t matter much, here: what’s important is that the diagram above explains the structure of the argument the executive is making. The argument has two premises, offered in support of a conclusion. And note that – as you can see from the diagram – the premises being offered are joint premises. That is, they need each other. Why do they need each other? Because Premise 1 offers a general claim about the circumstances under which a recall is ethically mandatory. And Premise 2 makes a descriptive claim about whether these circumstances are present in the current situation. Notice also that Premise 1 is serving as a bridge principle.
+This is the underlying structure of many simple ethical arguments. You provide some general normative (ethical) claim, and you make a descriptive claim about the present situation. And then, based on those, you reach a conclusion (legal reasoning works like that as well). Of course, ethical arguments can be much more complex. And indeed, one of the key features of a really strong ethical argument is that it considers multiple factors, some of which (as noted above) may point in different directions.
+The fact that different factors may point in different directions poses a problem for the very simple diagramming method used in this course. In our diagramming method, all premises ultimately point at the same conclusion. But this is not always how things play out. For example, a candidate being very experienced might be a reason to hire them, while the fact that they are not a good team player is a reason not to.
+What can we do when the premises of an argument appear to point in different directions? One option would be to simply ignore considerations that don’t support our favoured conclusion. But this would be counterproductive, if the goal is to arrive at the best answer. Relatedly, we might consider all factors when deliberating by ourselves, but then leave out anything not supporting our conclusion when making arguments to an audience. But this would be somewhat dishonest, and also run the risk that the audience will think of these considerations themselves and conclude that we haven’t properly thought things through – which may undermine our credibility. A better approach is to acknowledge that there are
+Textbook: Business Decision-Making, © 2023 Chris MacDonald
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, uploading, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+14
+reasons pointing in different directions and to make the argument that one set of reasons is stronger.
+For example:
+1Customers have a right to full, honest information about our products. 2Keeping the information about the contaminated test-kits secret would save the company money. So, 3there is a conflict between our obligations to our customers and our goal of making the company money.
+4Making the company money is not as important as what we owe consumers. Therefore, 5we should be honest with our customers in the present case.
+Here’s the diagram:
+Premises 1 and 2 point in different directions regarding what Modus should do. Taken together, then they establish that there is a conflict between two legitimate considerations. Claim 3 simply states that this conflict exists. Claim 4, then, is a principle about how to resolve conflicts of this kind. And thus 3 and 4 together support the conclusion. Of course, people might disagree with 4. In that case, 4 would not be common ground, and we’d have to produce an argument for it.
+Conclusion
+Ethical argumentation is complicated, and often feels open-ended, as if debate could go on forever and never be resolved. In some cases, that may be true. But that is also true in other matters, such as business strategy or optimal financial arrangements for a company. In all of these areas, we may never find perfect answers to our questions. But quite often with a bit of work we can find better, rather than worse answers, and that means answers that are supported by better, rather than worse, reasoning.
+Textbook: Business Decision-Making, © 2023 Chris MacDonald
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, uploading, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+15
+Questions to Consider
+1.
+Go back to the scenario (text box) that opened this reading. Can you spot, in that short scenario, the three ethical perspectives described in this reading?
+2.
+Can you think of some claims (or types of claims) that are commonly offered when people debate ethics, but which should not be considered acceptable?
+3.
+Think of an ethical tradition with which you are familiar – perhaps from your own culture or religion. Does that tradition tend to focus on outcomes, or strict rules, or character, or some combination?
+4.
+What would be the result, in a complex team environment, of engaging in ethical reasoning based solely or primarily based upon the ethical reasoning of your own culture or religion?

@@ -1,0 +1,95 @@
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+1
+Decision Theory, Part 2: Compound Probabilities and Insurance
+Introduction
+In this chapter we continue the discussion of the basic model of decision theory. First, we look at situations where the States of Affairs (SoAs) in our calculation are compounded. We will then look at how to apply the model of expected value to insurance policies.
+Complex States of Affairs and Compounded Probabilities
+Sometimes the states of affairs leading from an action to an outcome are complex and can be usefully broken down into discrete events each with their own probability. Unfortunately, this slightly complicates the maths of calculating the expected value of an action. There are two ways the SoAs for some action may be compounded. First, one SoA may be conditional upon another. That is, one SoA can obtain only if another SoA also does.
+Imagine, for example, that a business relationship has gone sour and you think that your former partner owes you $50,000, but they are not willing to pay. You are now considering litigation—that is, taking them to court. This, of course, is risky. It’s possible that you may lose in court, and it’s also possible that you win but are awarded only partial damages. Suppose when you threaten litigation, your former partner offers to settle the matter for $10,000. Should you accept the offer or go to trial? We know the expected value of accepting the settlement: $10,000. What about the expected value of going to trial? Suppose, after reviewing the case, your legal counsel says the following:
+“You have a pretty strong case, I’d say there is an 80% chance we will win in court. However, even if you win I’m a little doubtful that any judge is going to give you the full $50,000. I’d say that, if we win, there is only a 10% chance of getting the full amount. Most likely, say 75%, we will get $25,000. And there is a 15% chance that we will get only the $10,000 that we’re being offered as a settlement.”
+Going to trial has four possible outcomes then: you lose and get no money, you win and get $10,000, you win and get $25,000, and you win and get $50,000. How probable are these events? The numbers you got from your legal counsel add up to more than 100%, and so you cannot simply use them. What is important to recognize in this scenario is that the probabilities the legal counsel gave you for the last three outcomes are conditional probabilities. They apply only if you win in the first place. We deal with such conditional probabilities by multiplying them with the probability of the event that they are conditional on.
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+2
+So, in this case, when the counsel says that there is an 80% chance that we win, and a 10% chance that we get the full $50,000 if we win, we have to multiply 10% with 80% to get the probability of recovering the full $50,000. For multiplication purposes it is easiest to write probabilities as decimals. So, 80% x 10% becomes 0.8 x 0.1 which equals 0.08 or 8%. We now do the same with the other two possible awards, as they are also conditional on winning the case in the first place. The chance of getting $25,000 is 0.8 x 0.75, which equals 0.6 (or 60%). The chance of getting $10,000 is 0.8 x 0.15 which equals 0.12 (12%). Then there is the chance of losing which is 20% (since there is an 80% chance of winning and you will either lose or win). Now we have all we need to calculate the expected value of going to trial.
+EV(trial) = (8% × $50,000) + (60% × $25,000) + (12% x $10,000) + (20% x $0)
+= $4,000 + $15,000 + $1,200 + $0
+= $20,200
+In this case, the expected value of going to trial is considerably higher than what your former partner has offered. (Of course, we haven’t talked about your legal fees yet).
+The process of multiplying probabilities we just went through is called compounding probabilities. We do that when we are interested in the probabilities of states of affairs who are conditional on other SoAs (as in the example above).
+Sometimes the SoAs we’re dealing with are probabilistically independent (that is, one of them coming about doesn’t influence the probability of the other one coming about.) This is important when an outcome we are interested in depends on two or more SoAs coming about separately. Imagine, for example, that you are wondering whether to invest in a new business that focuses on selling electric cars in Australia and you think that it is a good investment only if two things happen: the Australian government needs to approve incentives for buying electric vehicles, and the business you’re looking at has to find a way to increase the range of their cars from currently 300km to 600km. You think that there is a very good chance that the government is going to approve the incentives: 90%. But you are less optimistic about the increase in range: 30%. What is the chance that both of these states of affairs will come about and make your investment worthwhile? You can find the answer by compounding the probabilities: 0.9 x 0.3 = 0.27 (or 27%).
+Note here that we do not see the important word “if” like we did when calculating conditional compound probabilities. Instead, for independent compound probabilities, we are looking at a situation where x AND y have to happen (e.g., the government approves incentives AND the
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+3
+range of the vehicles increases). Looking for this difference can help you determine if you are dealing with conditional compound probabilities of independent compound probability.
+Insurance
+A fairly straightforward application of the concept of expected value is the problem of deciding whether to buy insurance, and, if you do decide to buy, choosing between different policies. Businesses face decisions about whether to buy various kinds of insurance, and which insurance policy to buy, and the expected value of various insurance policies should inform that decision.
+The significance of insurance for modern businesses simply cannot be overstated. Insurance allows companies to engage in activities that, while profitable, also bring the risk of disaster. For instance, it might be very profitable to build and operate a car dealership. But what if a hail storm hits your town, and the hail damages all of the cars on your lot? This could mean millions in damage to your inventory, damage you might not be able to fix if you had to pay out of your company’s bank account. The fact that you can buy insurance against such an outcome makes it reasonable to operate such a business. It’s no exaggeration to say that insurance makes modern commerce possible.
+Insurance helps businesses (and consumers) manage risk in two ways. First, insurance lets consumers transfer risk to those (typically large insurance corporations) that can better bear it—that is, those that can better afford to lose the gamble. Second, insurance allows consumers to spread risk among a pool of people in similar situations.
+When you buy an insurance policy from an insurance company, you pay a premium—the price of the policy—typically on a yearly basis. In return, the insurance company promises to reimburse (indemnify) you for costs you incur if some specific misfortune happens. For instance, a policy might say We (the insurer) will repair your car if you get in an accident or We will replace your house if it burns down. Under such a policy, the insurance company is the one “at risk” of the bad thing happening: they are the ones that will have to pay if it happens. Sometimes, insurance contracts stipulate that the policy holder (the consumer) must pay a small fixed amount if the misfortune happens, and then the insurance company will pay the rest. This small fixed amount is called a deductible. So, for instance, the collision insurance policy for your car might say that if you are in an accident, you must pay for the first $1,000 in repairs, and the insurance company will pay the rest of the bill.
+How can we use the tools of expected value to assess the importance—the value—of an insurance policy? Imagine you operate a warehouse, and the warehouse and its contents are
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+4
+worth a total of $1,000,000. If that warehouse were to burn down, you would lose $1,000,000. Imagine you believe that there is a 1 in 100 chance, per year, that your warehouse will burn down.1 That might sound like a very small chance, but the prospect of losing $1,000,000 might simply be unthinkable. That kind of loss could easily ruin your business. But what if you bought insurance? Let’s imagine you find a company willing to offer 100% coverage against loss by fire for a premium of $1,000 per year. That is, if you pay them $1,000, they will assume the risk, and pay you the $1,000,000 for the warehouse if it burns down. Is that a good deal or not? What’s the expected value?
+To begin, what’s the expected value of buying the insurance policy? Note that if you buy the policy, the probability of a fire simply doesn’t matter anymore for your expected value. In fact, that’s just what insurance is for: allowing you to stop worrying about the probability of unfortunate SoAs.
+EV(buy insurance) = 100% × −$1,000 = −$1,000
+In other words, the expected value of buying insurance is simply the cost of the insurance premium. You will pay $1,000 no matter what happens. (So, in this case, the expected value is also the actual value of the policy.)
+Now let’s look at the expected value of not having the policy:
+Expected value(no insurance) = (99% × −$0) + (1% × −$1,000,000) =−$0 + (−$10,000) = −$10,000
+In this case, the insurance policy is a very good deal. Its expected value is negative, but it’s still much higher (that is, much less negative) than the expected value of operating without insurance. Of course, you might well buy the insurance even if it were much more expensive. Imagine that rather than $1,000, the premium (the price) for this policy were $11,000. In that case, the expected value of the premium would be lower (−$11,000) than the expected value of not having insurance (−$10,000). That’s not unusual. An insurance policy will almost always have a value less
+1 Note that even though 1 in 100 sounds like a small probability, in reality (unless you have made enemies among arsonists) this is an unrealistically high number, which we’re using here just to keep the math simple. It’s very unlikely that the risk of fire would be that high anywhere outside of a war zone!
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+5
+than the expected value of not having insurance. This is for the same reason that lottery tickets are usually a bad deal—this is the way the insurance company makes money.
+However, you might still choose to buy the insurance. Why? Because you can’t afford to lose your warehouse! Recall that we need to think of expected value in terms of what you could reasonably expect, on average, if you chose a particular strategy many times in a row. But a case like this is an exception. You probably don’t own many warehouses, so you won’t be making this decision many times. This is therefore a situation in which simply taking the option with highest expected value may be unwise.
+However, we can make good use of expected-value calculations when it comes to comparing two insurance policies. Imagine your small company owns a delivery truck worth $50,000 and you want to insure it against damage by collision. Imagine your insurance agent finds two insurance policies for you to choose between.
+Policy 1 will cost you $1,000 per year, and has a $5,000 deductible.
+Policy 2 is more expensive. It will cost you $2,000 per year, but it has a much lower $1,000 deductible. This means that the insurance company charges you more “up front,” but they will cover more damage in case of accident (you’ll only have to pay the first $1,000, instead of the first $5,000).
+Let’s imagine that both policies will cover up to the total value of the truck ($50,000). And let’s imagine that you think there is a 0.5% chance, per year, of an accident that totally destroys your truck.2
+Let’s calculate the expected value of policy 1:
+EV(policy 1)= -$1000 + (99.5% × $0) + (0.5% × −$5,000) = −$1000 + 0 + (–$25) = −$1,025
+2 We are of course simplifying here. In reality, your truck might also get in a very minor accident, or a major but not catastrophic one. We’re keeping things simple here to illustrate the key ideas.
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+6
+Now let’s calculate the expected value of policy 2:
+EV(policy 2)= -$2,000 + (99.5% × $0) + (0.5% × −$1,000) = −$2,000 + 0 + (−$5) = −$2,005
+So, you see that the expected value of policy 1 is much higher. It’s negative (the expected value of an insurance policy is always negative) but it’s substantially less negative than the expected value of policy 2. Policy 2 has two disadvantages. First, it has a lower expected value. And it costs more up front. But it also has an important advantage. It exposes you to less risk, in that it has a lower deductible (just $1,000) in case of accident, and (depending on your business’s cash flow) you might not be able to afford more than that. So even if the premium for policy 1 were much lower—say, low enough to make the policy’s expected value very attractive—it might be unwise to buy it if your company couldn’t possibly afford to pay the $5,000 deductible.
+“Should I Buy the Extended Warranty?”
+Imagine you’re buying a small digital camera for $200. When you get to the checkout counter, the sales clerk asks whether you’d like to buy, for “just $50,” an extended warranty that would go beyond the manufacturer’s basic one-year warranty. Under the extended warranty, if the camera dies in year two or year three, the store will repair or replace it. Should you buy the extended warranty? Is it a good deal? Let’s ask that question in terms of what we’ve learned about expected value.
+Let’s assume the chance of the camera dying in year two or year three is quite high—say, 10%. If you buy the warranty, you pay $50 but you don’t have to pay anything else in the event that the camera dies during year two or three. If you don’t buy the warranty and the camera dies, you’ll need to buy a new one at a cost of $200.
+EV(buying the warranty) = 100% × −$50 = −$50
+EV(not buying the warranty) = (90% × $0) + (10% × −$200) = −$20
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+7
+In this case, the expected value of buying the warranty is much lower than the expected value of not buying it. As long as you could afford to buy a new camera if this one breaks, you absolutely should not buy this warranty.
+In fact, extended warranties are almost never worthwhile. You’ll make many purchases of small electronics in your lifetime. The long-term value-maximizing attitude to adopt is that such warranties should be avoided. In addition, it’s worth considering the impact of the rapid pace of technological change: you may decide to buy a new and improved camera in a couple of years, which reduces the value of that extended warranty even more.
+Insurance decisions also highlight the importance of understanding compound probabilities. In most real-life contexts, something bad will happen to your business only if two or more things happen at the same time: your top salesperson resigns, and you are unable to quickly find a replacement. You accidentally leave the factory door unlocked, and someone dishonest happens to try the door that night. Here’s an example based on our warehouse fire example above. Imagine you have a sprinkler system installed in your warehouse. Assume again that there is a 1% chance of a fire. We also need an estimate of how reliable your sprinkler system is. Let’s imagine that it is 90% effective — that is, in 90% of cases, the sprinkler system puts out a small fire before it can do any damage (which implies that there’s a 10% chance of failure, in which case the fire gets out of control and the sprinkler system is unable to stop it before it becomes unstoppable.) In this scenario, the chance of a catastrophic loss would be 1% (chance of fire) x 10% (chance that IF there is a fire the sprinkler does not work), which is 0.1%. As you can see, taking this compound probability into account will have a substantial effect on the relevant EV calculation for your insurance policy.
+Conclusion
+In this chapter we have seen how expected value can become slightly more complex when dealing with independently or conditionally compounded probabilities. We have also seen how expected value is important for thinking about and deciding on insurance – a financial product nearly ubiquitous in the business world.

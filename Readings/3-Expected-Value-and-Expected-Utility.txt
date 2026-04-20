@@ -1,0 +1,192 @@
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+1
+Decision Theory, Part 1
+Introduction
+Businesses thrive or fail depending on whether they make good decisions. Making good decisions, in business as in life, means choosing wisely among the available alternatives. Ultimately, choosing wisely often means balancing an enormous number of factors, having to do with making profits, building market share, managing human resources, and the need to act in a socially responsible manner. And the information that goes into a wise decision can come from a similarly broad range of sources, including corporate financial data, national economic statistics, advice from professionals, and your own “gut” instincts. Making good decisions isn’t always easy.
+Decision theory is another way to approach the study of rational decision-making. The concept of rationality in play here is what’s sometimes called instrumental rationality. Instrumental rationality is the ability, and the tendency, to choose among options in a way that maximizes achievement of our goals. Choosing rationally in this sense requires us to consider the likely result of each possible action we may take, and how well each possible result would fulfill our goals. Thus, our goals, combined with the facts of the situation, give us reason to choose one way or the other. So, decision theory is the study of how to combine multiple factors to make the best choice given the available options. It asks which of the available options offers the best path to the decision-maker’s goals?
+Decision theory provides a set of tools that allows us to break down complex problems into simple calculations. Of course, decision theory can’t make the complexity of the business world go away—nothing can! But we can shed a lot of light on complicated decisions by using the tools of decision theory to turn a small but important part of a larger picture into a simple result. Importantly, the tools of decision theory can’t tell us what we should do. When we say that rationality requires us to choose the option most likely to help us reach our goal, this doesn’t imply anything about what that goal ought to be. In particular, it doesn’t at all imply that our goals must be selfish or self-interested to count as rational. And sometimes the instrumentally rational choice isn’t the best or wisest one. Tools are just tools, and what matters is how we use them. But these tools can provide important perspective if we know how to use them well.
+Thinking about Lottery Tickets
+Consider a relatively simple decision, namely whether to buy a lottery ticket. Picture yourself at the corner store, staring at all those “million dollar” lottery tickets in the display on the counter. Should you buy one? Would you like to have one of those tickets? It’s often tempting. After all,
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+2
+the big poster on the wall nearby reminds you of the potential those tickets represent: you could be a millionaire! But you’re not going to decide just based on advertising—you want to use your head. Is buying the lottery ticket a good decision? Is there good value in such a purchase? What is the ticket really worth?
+The question of the ticket’s worth is a complicated one. If you ask the sales clerk, she’ll tell you that she’ll give you the ticket if you pay her $5. That’s all it’s worth to her (or rather to the store). But if you ask the lottery corporation, they’ll tell you this ticket could be worth $1,000,000. That’s a very different story. And they’re right. It could be worth that much, but probably not. After all, the lottery corporation prints a lot of tickets, and those tickets are all identical, as far as you, the potential customer, can tell. And only one of them is the million-dollar ticket. You have no way of knowing whether this ticket is that ticket, and chances are it isn’t. If you buy the ticket and it’s a loser, you won’t be able to resell it. Most likely you will dispose of it in the next trash can. Thus, it seems that the ticket is actually worth nothing at all. How can we reconcile this tension between the fact that the ticket costs $5 (if you buy it, you will certainly have to give up $5), the fact that it could be worth $1,000,000, and the fact that it’s most likely worth nothing at all?
+The Expected Value of a Lottery Ticket
+The strategy suggested by decision theory is this: given that you simply don’t, and can’t, know the value of this ticket, you should ask yourself what is reasonable to expect in situations of this kind. And based on what is reasonable to expect in situations of this kind, you should formulate a strategy that makes sense in the long run. Then you should make a decision today that makes sense in terms of that long-term strategy.
+What is reasonable to expect of this lottery ticket, if you buy it? Is it guaranteed to win? No, so it isn’t reasonable to expect to end up with $1,000,000. Is it guaranteed to lose? Well, no. Not quite. The situation is slightly more complicated than that. This really could be the winning ticket. The problem is that this ticket is very unlikely to be the winner. But just how unlikely is it?
+This brings us to the need, in any decision, to understand (or at least approximate) the probability of various events. Probability is a way of expressing how likely an event is, typically expressed in terms of long-term frequency. How often would a given event occur if we did the same thing over and over again? For example, if you flip a coin, what’s the probability of it coming up heads? On any particular occasion, we won’t be able to predict whether it’s going to come up heads or tails. But we do know that if we flip a coin many, many times, it’s very likely to come up heads about 50% of the time. And it will come up tails about 50% of the time. Today, it has to be one or the other—not a bit of both! But since we don’t know which, we express the probability of it coming
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+3
+up heads this time as 50% (or in one of the mathematically equivalent ways of saying the same thing, such as 1 in 2 or 0.5).
+So, what is the probability of this lottery ticket being the winning one? The probability is likely very low. Lottery companies may well be required to tell customers the probability (or odds) of winning, as a way of making it more likely that people understand what they’re buying when they buy a ticket. Sometimes, this simply takes the form of informing customers how many tickets have been printed. If only 100 tickets are printed, then the chance of any one of them being the winning ticket is 1 in 100. (Most actual lotteries are, of course, more complicated, with multiple winning tickets winning prizes of different sizes, but for now we’ll stick to simplified examples.)
+What, then, is the value of a particular ticket? The ticket, let’s imagine, has a 1 in 100 chance of being a winning ticket, and a 99 in 100 chance of not winning. If it wins, you’ll have invested $5 and won $1,000,000 (a gain of $999,995). But if it loses, you’ll simply have lost your $5.
+The expected value of an action (such as the action of buying a lottery ticket) is the sum of the values of each possible event, multiplied by its probability.
+So, for buying this lottery ticket, the expected value can be calculated like this:
+Expected value = (1% × $999,995) + (99% × −$5) = $9,999.95 − $4.95
+= $9,995
+This lottery ticket is a terrific value! You might win, and you might lose, but if you bought tickets like this as a habit, you could reasonably expect to make nearly $10,000 every time—that’s the amount that, on average, you’d gain per ticket bought. Of course, no real lottery ticket has such a high expected value (if it did, the lottery corporation would quickly go out of business).
+A more realistic example would look like this:
+Price of ticket: $5
+Prize: $1,000,000
+Probability of winning: 1 in 1,000,000
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+4
+And the math would look like this:
+Expected value = (0.000001 × $999,995) + (0.999999 × −$5) = $0.999995 − $4.999995 = −$4
+That is, you can reasonably expect to lose $4 each time you buy such a ticket. It’s possible that you may someday win, but it’s unlikely, and the expected value we’ve calculated of −$4 is a way of expressing just how much you can reasonably expect to gain on any given occasion—in this case, less than zero!
+In a case like this one, where the initial cost of the action (in this case ‘buying the ticket’) is certain, you can simplify the math, by first determining the expected value of your winnings (i.e., how much you can expect to be paid out at the end of the day), then subtracting the expected cost of the ticket. Because the probability that the ticket will cost $5 is 100%, the expected cost of buying the ticket is the same as the actual cost of the ticket.
+Expected winnings = (0.000001 × $1,000,000) + (0.999999 × $0)
+= $1 + $0
+= $1
+Expected cost = 1 × $5
+= $5
+Expected winnings − expected cost = $1 − $5 = −$4
+The expected value of buying a lottery ticket is (almost) always negative. Buying lottery tickets, in other words, is a losing strategy if your intention is to make money. If you make a habit of buying lottery tickets, you’ll almost certainly lose money in the long run. This should be obvious from the fact that lotteries are a way for lottery corporations (and various charities) to make money. If lotteries weren’t generally a losing strategy for consumers, they wouldn’t generally be a winning strategy for lottery corporations. (It’s important to note that this isn’t true for other kinds of businesses. In most kinds of commerce, customers don’t have to lose in order for companies to win. Commerce, in standard cases, is a win-win proposition.)
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+5
+As you can see in the textbox, many people unfortunately don’t have the sophistication to realize just how bad an investment lottery tickets really are. (This has led many people to cynically joke that lotteries—often supported by government organizations—are effectively a “tax on the inability to do math.”)
+Lottery as Retirement Strategy?
+In 2014, the CBC reported that an alarming 34% of Canadians were relying on winning a lottery to finance their retirement. The survey was conducted by BMO. The BMO employee responsible for the survey was quoted as saying, “To those hoping to win the lottery to fund their retirement, the odds of actually winning are approximately one in 14 million. A much better bet would be to develop a personal retirement savings and investing plan and to start contributing as early and as often as possible to your RRSP." See: “Lottery win is retirement plan for 34% of poll respondents,” CBC News, January 30, 2014, http://www.cbc.ca/news/business/lottery-win-is-retirement-plan-for-34-of-poll-respondents-1.2517046.
+The General Model
+Lottery tickets are a nice way of illustrating the concept of expected value because both the probability and the value of winning and losing are easy to understand and (comparatively) easy to ascertain. This isn’t true for most of our actions, but the general principle still applies. Every action we take will result in certain outcomes with a certain probability. Knowing whether acting in a certain way is a good idea requires a sense of how good or bad, and how likely, the possible results are.
+Notice also that in the last section we assumed buying the lottery ticket was the only option in front of you. But there was a second option: not buying the ticket! And in decision-making, we are by definition always deciding between two or more options. What’s the expected value of not buying the ticket? That’s easy: $0! You neither gain nor lose anything at all if you simply don’t buy a ticket. Implicitly, we compared these two options when we said that buying lottery tickets is a losing strategy. But we could imagine a situation in which your only two options would be to buy a lottery ticket or to simply throw your $5 away. The latter action has an expected (and actual) value of −$5. Compared to that, buying a lottery ticket would actually be a winning strategy.
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+6
+So, in situations where you have several options (which is almost always the case), you need to do expected-value calculations for each option in order to compare them.
+Let’s now generalize from the lottery examples and add some technical terminology. In decision theory, we define choices in terms of three key characteristics:
+1) Actions
+These are the possible actions that are open to you. In the lottery example above, the possible actions are buy a ticket and don’t buy a ticket.
+2) States of Affairs (SoAs)
+These are the ways that events could turn out that are beyond our control, but that make a difference to how successful our actions are. Each SoA has a probability attached to it. The probabilities of all relevant SoAs always add up to 1 (or 100%), since things will certainly turn out some way. In the simple lottery example, the two possible SoAs are (a) the ticket you buy (or decide not to buy) is the winner (with, let’s imagine, a probability of 1 in 1,000,000), and (b) the ticket you buy (or decide not to buy) is one of the many nonwinning tickets (with a probability of 0.999999).
+3) Outcomes
+An outcome is the result of you choosing a particular action followed by a particular SoA. Outcomes can be described in words (and quite often it’s most convenient to simply describe an outcome by naming the action and the SoA that led to the outcome). Each outcome has a value attached to it. (The value we’re interested in here is the value to the decision maker – these values are also sometimes referred to as payoffs). In the lottery example, the outcomes associated with buying a ticket are: (i) winning (worth $1,000,000 minus the $5 ticket price), and (ii) losing (worth −$5, which is the price you paid for the ticket). The outcome associated with not buying a lottery ticket would be that you gain and lose nothing (worth $0).
+To use decision theory to tackle problems of choice, we need to start by figuring out a list of actions. What choices do we actually have? Once we have that information, we next need to figure out, for each available action, what SoAs are relevant and how probable they are. Combining the two lists, we can then generate a list of possible outcomes, and figure out how valuable each is. Once we have all this information, we can calculate the expected value of each action and compare values to find out which one is the most instrumentally rational to choose.
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+7
+The formula for calculating the expected value for each action is:
+EV = (p1 × V1) + (p2 × V2) + … + (pn × Vn)
+where pi is the probability of outcome i and Vi is its value.
+Here is a schematic illustration of the process of choosing between two actions (Action 1 and Action 2):
+Action
+SoA: Probability
+Outcome: Value
+Expected Value
+(r): 50%
+(i): $2,000
+(0.5 × $2,000) + (0.3 × $4,000) + (0.2 × −$1,000)
+Action 1
+(s): 30%
+(ii): $4,000 = $1,000 + $1,200 − $200
+(t): 20%
+(iii): –$1,000
+= $2,000
+(r): 50%
+(iv): $10,000 (0.5 × $10,000) + (0.5 × −$8,000)
+Action 2
+(u): 50%
+(v): –$8,000 = $5,000 – $4,000
+= $1,000
+In this example, Action 1 has the higher expected value, despite the fact that Action 2 has the highest potential value [outcome (iv) at $10,000].
+(Note that the possible SoAs for Action 2 are different from the ones for Action 1. This isn’t always the case, but often is: depending on the choices we make, how different other events turn out can matter in determining whether our actions result in success.)
+Expected Utility
+So far, we have evaluated outcomes simply by looking at how much money the decision-maker ends up with. What about decisions that aren’t about money? Lots of decisions in life, and in business, aren’t about money. Of course, it may well be true in business that all decisions ultimately have some impact on profitability. A single hiring decision, for example, may have huge implications for profitability in the long run. But the connection won’t always be clear at the moment a decision needs to be made, and we often won’t have sufficient information to put dollar values on particular possible outcomes. Moreover, there are many cases in which money is involved but isn’t the only thing that determines how good or bad an outcome is.
+So we need a way to engage in instrumentally rational decision-making with regard to issues that can’t readily be reduced to dollars and cents. Decision theorists have come up with just such a
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+8
+mechanism, by relying on the concept of expected utility. Recall that expected value is understood as the dollar value that a particular action could be expected to return, on average, in the long run, if that action were selected many times. Expected utility, in turn, is the quantity of utility that a particular action could be expected to return, on average, in the long run, if that action were selected many times.
+What is utility? In general, the word utility is a slightly old-fashioned word that means, roughly, usefulness. A hundred years ago, you might have heard someone praising a useful tool in terms of its “wonderful utility.” We hear echoes of this old usage in the modern idea of electrical and communications utilities. When you pay your utility bills (your phone, electric, water, and gas bills), you’re paying for some useful stuff—stuff that makes your life better. ‘Utility’, then, is a general word for what we find useful or makes us happy. In the abstract, decision theorists use the notion of ‘utility’ as an abstract measure of value. Anything that helps us, makes us happy, or satisfies a need, desire, or preference is said to have utility for us.
+Importantly, decision theorists treat the notion of utility as being entirely personal. If a person likes something, we regard it as having utility for them, even if we happen to think that thing is silly, disgusting, or even harmful. If Sean likes death-metal music, we say that listening to it has utility for him, even if we think such music is dreadful. If Erika likes roller coasters, but we don’t like them ourselves, then we still need to acknowledge that riding roller coasters has value—utility—for Erika, even if we just can’t understand how she could possibly enjoy them. And if Zaid smokes, we need to appreciate that the experience of smoking brings him some satisfaction—some utility—even if we cannot appreciate it personally, and even if we know that smoking is doing long-term damage to Zaid’s health. Such an attitude helps us focus on understanding people’s behaviour and anticipating their decisions. We won’t get far at predicting Zaid’s behaviour if we are fixated on the fact that we think he should not smoke. It’s more useful, for this purpose, to focus on the fact that he likes to do so. With regard to utility, we generally don’t seek to criticize people’s preferences, but simply to know what they are.
+Mathematically, we perform expected-utility calculations in just the same way that we calculate expected value. We look at all the possible outcomes of a particular action, and we add up the utility of each outcome, multiplied by how likely or probable it is. The only difference (and it’s an important one) is that while expected value is expressed in terms of dollars, expected utility has no natural unit of measure. When the expected value of an outcome is $5, that means $5, and we should always remember to include the dollar sign for clarity. But when the utility of some outcome is 5, there’s no dollar sign and no other symbol reflecting a unit. It’s just 5 on some scale of comparative goodness.
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+9
+In most of what follows here, we will adopt this convenient convention: we will generally express utility on a scale of 0 to 10, where 0 means the outcome is quite bad, 5 represents an “OK” outcome, and 10 means the outcome is something really excellent. But we use this 0-to-10 simply as a matter of convenience. In principle, the scale you use doesn’t matter, as long as you use the same scale for all parts of the problem you’re looking at. You could use a scale of 1 to 100, if you find that useful. It’s also worth keeping in mind that the endpoints you choose (such as 0 and 10) may not be written in stone. Imagine you’re considering going skiing, and you believe the 3 possible outcomes are that you could have a great time (utility of 10), an OK time (utility of 5) or you could break a leg (and you assign that a utility of 0). But then a friend of yours mentions a worse possibility: some people have died skiing. The utility of that would clearly be way, way lower than the utility of a mere broken leg. To reflect this, you need to allow for the possibility that there are outcomes that are outside of the range you originally used to define your scale. In the example we’re considering, you would then perhaps say that dying on the trip would be of negative utility (since it’s clearly worse than breaking a leg, which you defined as 0), and assign that outcome a negative number well below your original low of zero.
+Here’s an example of what it looks like to calculate expected utility. Imagine you’re trying to choose which of two restaurants to go to for lunch. One restaurant (called Decent Diner) is very consistent—consistently mediocre, that is! The food is always decent, but it’s very rarely better than decent, in your opinion. The other restaurant (The Hit-or-Miss Café) is sometimes really, really good, but also sometimes quite bad. You have been to both restaurants enough times to have a rough idea of how likely a good, bad, or mediocre meal is at each place, and you have pretty settled feelings about how much you’ll enjoy a good, bad, or mediocre meal. A decision theorist would make some assumptions, assign some numbers, and look at your decision this way:
+Decent Diner
+Probability of a bad meal: 10%
+Probability of a mediocre meal: 80%
+Probability of a great meal: 10%
+Hit-or-Miss Café
+Probability of a bad meal: 40%
+Probability of a mediocre meal: 20%
+Probability of a great meal: 40%
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+10
+Estimate of how much utility you gain from each possible type of experience:
+Bad meal: 3 out of a possible 10 (after all, it still provides some nutrition!)
+Mediocre meal: 7 out of 10
+Great meal: 10 out of 10
+Note that the estimates for how much utility you will gain from these meals are just a set of assumptions—an estimate. The numbers might look different for different people, depending on how much the quality of a meal matters to them.
+Based on the numbers above, the calculation would then look like this:
+Expected Utility(Decent Diner) = (10% × 3) + (80% × 7) + (10% × 10)
+= 0.3 + 5.6 + 1
+= 6.9
+Expected Utility(Hit-or-Miss Café) = (40% × 3) + (20% × 7) + (40% × 10)
+= 1.2 + 1.4 + 4
+= 6.6
+So the expected utility of going to the Decent Diner is higher—but only slightly higher—than the utility of going to the Hit-or-Miss Café. If you’re interested in maximizing expected utility, you’ll rationally choose to go to the Decent Diner. Or rather, you’ll do so as long as these are really your only two options. It’s also useful to make another comparison here, namely between the expected utility of going to these restaurants (6.9 and 6.6 respectively) and how you rate a mediocre meal (which we’ve estimated at 7). What the calculations above show, in other words, is that you can expect on average a meal that isn’t even mediocre—and so maybe it’s time to scout out some new lunch places.
+Other People’s Expected Utility
+Deciding which restaurant to go to isn’t exactly a business decision. And it may be tempting to think that when it comes to business decision-making, what we’re usually interested in is money anyway, which means expected value not expected utility. That’s probably not always true, but even if it were, the concept of utility would still be important in the world of business, as most ways of making money in business require making other people happy. Thus, we often need to
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+11
+know which of our possible actions would best accomplish this goal. In other words, in business we’re often interested in the utility and expected utility of others. Perhaps the clearest example of this lies in what’s often called customer satisfaction—that is, in the utility your customers get from interacting with you.
+Suppose you’re running a small sandwich shop and you wonder whether you should add more options to your menu. You suspect customers would like the increased choice, but you worry that wait times will also increase (because your staff would have to prepare a greater variety of sandwiches) and you think that customers would not appreciate that at all. So, on balance is it worth it to change your menu? The answer depends on the customers. Would they rather have the dining experience you currently offer, or would they prefer more choice in spite of the longer wait they might experience? Which option will give them more utility, on average? You need to figure that out, because if you make the change and your customers’ utility drops, you may lose business. Alternatively, you may gain business if they like the change and word of the improvement gets around.
+So how can you get the information you need? You could survey your current customers, as well as some of the people who always go to the competition at the next corner, to get a sense of how they view the utility of a menu offering more choice, and of leaving the menu as is. You may ask them to rate on a scale from 0 to 10 both the experience you currently offer, and the experience you could offer with the new menu. Suppose that, on average, customers rate the current experience a 5.6 out of 10, and the experience under the new menu (more options but longer wait) as a 3.4. This would suggest that your customers value the experience you currently offer more than they would value adding as few more choices on the menu. So you should probably stick with the current menu.
+But now suppose you think the longer wait times that could result from expanding your menu will only affect some but not all customers—say, 1 in 4. In other words, for each customer who walks in, there would be a 25% chance that they’d have to wait longer than they do now, but a 75% chance that their wait would be the same as it currently is. In this case, you can calculate the expected utility a customer would gain from coming to your shop after you switch to the new menu. To do this, you need a slightly more complex survey. In addition to the two outcomes you previously asked customers to rate, you now need to ask them how they would feel about having more options with no additional wait time, since that’s one of the possible outcomes. Suppose the survey comes back saying that customers like that outcome very much. On average, they rate it as an 8.8 out of 10. Now you’re in a position to calculate the expected utility for the customer (or expected customer satisfaction) for the new menu, based on the knowledge that for each
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+12
+customer there will be a 25% chance of a longer wait (for an overall experience valued at 3.4) and a 75% chance of a “normal” wait (valued at 8.8).
+Here’s the calculation:
+Expected Utility(new menu) = (0.25 × 3.4) + (0.75 × 8.8)
+= 0.85 + 6.6
+= 7.45
+Note that the expected utility of the expanded menu (7.45) is higher than the (expected) utility the average customer gets from your current menu (5.6) and so it might be worth making the switch after all. Some customers will end up waiting longer, but not all of them, and the math here suggests that on average customer experience will be improved.
+Conclusion
+Decision theory provides a way of thinking about decisions in which our own actions are only part of what determines how good or bad the resulting outcomes will be. The key idea, illustrated most easily in the context of lottery tickets, is to think of an individual decision as part of a long-term strategy and figure out what the average value would be if you made the same decision many times over. That’s what we refer to as expected value. You can see that the method for calculating expected value and expected utility are very similar. Both put the possible states of affairs into brackets, and each SoA has a probability within the bracket expressed as a decimal or percentage. The main difference is that whereas expected value calculations multiply the probability against an anticipated dollar value, expected utility calculates the probability against a measure of utility, for our purposes, measured on a scale of 0-10. We have thus seen how to calculate the expected value of an action if we know the financial implications of each outcome and the probabilities of the SoAs leading to them. We have also seen how to calculate the expected utility of an action in cases where money isn’t the only thing that counts.

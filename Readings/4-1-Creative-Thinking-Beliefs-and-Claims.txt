@@ -1,0 +1,395 @@
+Textbook: Business Decision-Making, © 2025 Michael Baumtrog, Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, uploading, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+1
+Beliefs and Claims
+Introduction
+In this chapter we will begin by exploring the creation of claims. We will then look at the
+connection between claims and beliefs. We’ll conclude this chapter by spending some time
+explaining why the justification of our beliefs and the acceptability of claims is the right
+standard for evaluating premises. Building on that foundation we’ll discuss how various
+types of claims can meet the standard of acceptability. ‘
+Claims and Creative Thinking
+Where do claims come from? In this class, the claims you analyze and evaluate are often
+created by your instructor. You see claims presented in class, or claims placed in tests and
+assignments, all of which originated in the mind of your instructor. In other words, claims
+are created.
+To create a claim, or anything else, requires a seldom discussed skill: creativity. Like any
+other skill, you can improve your creativity with practice, and it can fade if neglected for
+too long. In this section, we will briefly discuss how creativity can be applied to reasoning
+and argumentation as we have discussed it this far in the course.
+Recall that a claim is a statement regarding some matter of fact. Or, to put it a slightly
+different way, a claim is an attempt at describing some part of the world, and that in an
+argument both premises and conclusions are claims. This means that both the conclusions
+we believe and the reasons we believe them need to come from somewhere.
+In the business context, you will often be the person responsible for creating claims when
+you prepare arguments about what to do. For example, you may need to provide direction
+to your department regarding the activities they will undertake for the next quarter. This
+would require you to provide them with a conclusion about what to do, which is supported
+by reasons/premises for why they should be doing those things. But, how can we come up
+with reasons and conclusions?
+There are many methods available for improving your creative thinking, several of which
+involve activities like brainstorming and discussing with other people. In this class, we will
+provide one such simple activity called the ECO approach to creating claims. We use
+“ECO” as an acronym to bring forward three very common considerations.
+1. What Evidence for the topic should be considered?
+2. What would a Community of experts have to say?
+Textbook: Business Decision-Making, © 2025 Michael Baumtrog, Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, uploading, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+2
+3. What Objections can you anticipate?
+These questions can be asked in almost any decision-making context. When thinking about
+the direction your department should take next quarter, considering the first question about
+the available evidence might have you looking at spending levels from previous quarters,
+and coming to claims such as “We spent less than our budget last quarter”. Considering
+question 2 might have you come to claims such as “Experts suggest hiring when the best
+candidates are available.” And considering question 3 might have you come to a an
+argument like “Even though no one else is hiring right now, we should because it means
+the best candidates are unexpectedly available now.”
+As you can see from these examples, the third consideration takes an extra step. It asks you
+first to anticipate an objection someone might make toward your thinking and then provide
+your response. The idea is that doing so allows you to come to a reason to present before
+any one actually makes the objection in real life. In this way, you can give a reason that
+prevents them from ever coming to the objection.
+Taken together, using all three claims just mentioned, we may come the following
+argument
+P1. We spent less than our budget last quarter.
+P2. Experts say we should hire when the best candidates are available.
+P3. The best candidates are unexpectedly available now.
+C. We should focus on hiring next quarter.
+This is just one example, but try using the ECO approach for any decision you are
+pondering, and you will see it provides a quick and easy way to start generating
+considerations and claims applicable to your decision making. Should you study this
+weekend? What evidence do you have to suggest you should or shouldn’t? What would the
+best students say? Why might some people say you shouldn’t study and how would you
+respond?
+While the ECO approach provides a quick and easy method for generating reasons, you
+may have noticed that it is founded on a more basic strategy that when developed can help
+you far beyond the ECO approach. That strategy is coming up with good questions.
+The ECO approach provides you with 3 strong questions for generating reasons because of
+the way the questions are designed. But what makes a question stronger or weaker for this
+purpose?
+Textbook: Business Decision-Making, © 2025 Michael Baumtrog, Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, uploading, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+3
+Contemporary scholars studying questions tend to divide them into two broad categories:
+1) exam questions, and 2) inquiry questions. Both question are very important but have
+notably difference characteristics making them best fit to serve different purposes.
+Exam questions are questions that test a person's knowledge. They are often questions that
+seek confirmation about a fact, can be in a true-or-false format, multiple choice, or if open
+ended be seeking a specific answer. These kinds of questions can be very important when,
+for example, you are determining whether someone should be given a driver’s licence.
+Before someone gets behind the wheel of a car, you want to be sure that they know enough
+about the rules and laws of driving, as well as how to operate a motor vehicle to be able to
+start driving safely.
+Inquiry questions, on the other hand, are typically open-ended, stimulate thinking, and spur
+further questions and discussion. These questions do not seek to test or confirm knowledge,
+but to inspire further thinking, which is what makes them great for inspiring the creation
+of reasons. If you look back at the questions posed in the ECO approach, you will see that
+they take the shape of inquiry question rather than exam questions. Our point here is that
+you don’t have to be limited to the ECO questions – coming up with your own inquiry
+questions based on your decision-making situation can help you generate even more and
+better reasons for that context so it is worth practicing asking good inquiry questions
+Beliefs
+Whether true or false, we all have countless beliefs, which we express in many different
+ways. Sometimes, we express them as quite formal claims, I believe it is true that X.
+Sometimes, we say I think X. Sometimes, we simply say X is true or even just X! The
+following sentences, for example, all express the same belief:
+• I believe it’s true that Apple will be profitable next year.
+• I believe that Apple will be profitable next year.
+• I think Apple will be profitable next year.
+• Apple will be profitable next year.
+In many cases, we have beliefs we don’t express at all; we don’t put them into words but
+simply act on them. When you step out of the way of an oncoming car, you do so because
+you believe that the car is a danger to you, even if you never explicitly say or think That
+car is dangerous. You don’t think it, but you do believe it.
+Textbook: Business Decision-Making, © 2025 Michael Baumtrog, Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, uploading, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+4
+In fact, you have many beliefs you’ve never thought about. For example, you believe
+298,678 is a bigger number than 142,901, don’t you? Of course you do—now that we
+mention it—even though you’ve never given the question a moment’s thought. And surely
+you believe that it will be dark in Vilnius at two o’clock in the morning (local time) on
+January 12, 2039, although you’ve never thought about it or said it out loud. And you
+believe that you’ve never been to Neptune, even though the thought has probably never
+occurred to you (until now). These are things you’d agree are true, but you haven’t had
+reason to think about them before. The list of beliefs we hold is endless. And at least
+sometimes, the quality of those beliefs matters a lot. Some of those beliefs will affect
+whether you succeed or fail in business. Others could even save your life. So, it’s important
+to think critically about just what you believe, and about whether those beliefs are
+reasonable. And that means thinking it through and considering the evidence. It doesn’t
+make sense to believe things automatically, or by default.
+If believing something doesn’t require saying it out loud or even consciously thinking about
+it, what exactly is involved in believing something? Simplifying somewhat, we can say
+that to believe X is to be disposed to think that X is true. In other words, if you were to ask
+yourself whether X is true, you’d think Yes, X is true. For now, this will be our working
+definition of belief. Next, we need to look at the content of our beliefs: What kinds of things
+can take the place of X in our formulas above (X is true, I believe X, and so forth)? The
+answer to this question is that X always stands for some claim.
+Claims
+We have been using the concept of a claim for a while now. But let’s look at it a bit more
+carefully. Whenever we think through a decision, or try to convince someone else of
+something, we generally make use of various claims. If I say, There are lots of Italian
+restaurants in Toronto, so it would be foolish to open a new one! I’ve put forward two
+different claims: first I’ve claimed that there are lots of Italian restaurants in Toronto, and
+then I’ve claimed that it would be foolish to open a new one. Claims are the essential
+components of arguments and decisions.
+Everyone has an intuitive understanding of what it means to make a claim, but here, we’ll
+get somewhat more technical about it.
+A claim is a statement regarding some matter of fact. Or, to put it a slightly different way,
+a claim is an attempt at describing some part of the world. These are all examples of claims:
+• Ishani has dark hair.
+• Canada is in North America.
+Textbook: Business Decision-Making, © 2025 Michael Baumtrog, Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, uploading, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+5
+• I’m in the Northern Hemisphere right now.
+• Riga is a beautiful city.
+• I’m hungry!
+• I’m not hungry!
+• Sanjiv doesn’t drink coffee.
+• Antonios is an accounting major.
+• It’s usually hot in Canada in February.
+Those are all claims, but note that the last claim about Canada is false. Most of Canada is
+typically quite cold in February. This highlights the fact that a claim doesn’t have to be
+true in order to count as a claim—it just has to be put forward as a statement of fact. The
+claim that It’s usually hot in Canada in February is a false claim—anyone making this
+claim is either joking, lying, or uninformed about Canadian weather—but it’s still a claim.
+Importantly, part of the definition of a claim is that while it might be either true or false, it
+must be capable of being one or the other. So, while Water is blue is a claim, the question
+Is water blue? isn’t a claim. A question is neither true nor false; the answer to a question
+can be either true or false, but the question itself is neither. Similarly, a command like Get
+out of my way! is neither true nor false, so it doesn’t count as a claim. The same goes for
+exclamations that express an attitude, like Booooo! or Yay! When someone says Yay! it
+might be based on a belief that’s either true or false, but Yay! itself simply expresses
+happiness. It’s not a claim about anything at all.
+Note also that you can consider or express a claim without actually asserting it yourself—
+that is to say, we may mention a claim without intending to present it as true. This is, in
+fact, an essential tool of critical thinking. Sometimes, we put forward a claim
+hypothetically, as part of a thought experiment. For example, you might ask, “If Martha
+says Dave isn’t qualified, then why did she hire him?” In such a case, you’re not asserting
+that Dave isn’t qualified; rather, you’re reporting what Martha asserted, and asking why,
+given what she said about him, she still hired him.
+Consider, too, that we quite often make claims in which other claims are embedded, and
+those embedded claims aren’t being asserted by the speaker themselves. For instance, you
+might say, “If our market research indicates significant consumer demand, then we will be
+ready to move forward.” In that case, you aren’t asserting that your market research will
+indicate significant consumer demand, or that you will be ready to move forward; rather,
+you’re making a claim about how these two other claims are related to each other. As
+another example of a claim within a claim, one might say, “My friend Dominic thinks
+Montreal is the prettiest city in Canada.” Dominic’s claim (that Montreal is Canada’s
+Textbook: Business Decision-Making, © 2025 Michael Baumtrog, Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, uploading, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+6
+prettiest city) is mentioned, but not asserted by the speaker themselves. The speaker’s claim
+says nothing about Montreal; rather, it says something about Dominic. So, if it turns out
+that Montreal isn’t the prettiest city in Canada, the speaker hasn’t said anything wrong. If,
+on the other hand, it turns out that Dominic never made this claim about Montreal, then the
+speaker’s claim about Dominic would be false.
+In evaluating premises, we’re generally interested in the claims the arguer themselves is
+asserting. So, when we find embedded claims that aren’t being asserted, we’ve not yet
+identified the correct target of our scrutiny. We need to figure out which claims the arguer
+actually wants us to believe to be true. It’s those claims (however complex) that constitute
+the arguer’s premises.
+Evaluating Claims
+Once we have our claims, it often matters a great deal whether a particular claim is true.
+As an entrepreneur, for example, you can’t make a smart decision about investing your
+time and energy inventing or designing a new product—say, an iPhone app, an electric
+bicycle, or a new kind of waterproof fabric—without a clear and accurate understanding of
+the potential demand for that product. As a manager, you can’t make good decisions about
+whom to hire without knowing about the skills and experience of the various candidates.
+As a consumer, you can’t make a smart decision about buying an extended warranty on a
+new piece of electronics without knowing approximately how likely the product is to break
+down within the first few years you own it. For that matter, you can’t make good decisions
+about your own education and career if you don’t have accurate information, including
+information about yourself. What are your strengths and weaknesses? Do you like
+numbers? Are you good at math? Do you have a special talent for finance? For marketing?
+For leadership? In order to answer any of these questions, you need to evaluate various
+claims that might be offered as potential answers.
+It’s important to think critically about what you know—or rather about what you think you
+know—because at least some of the things you “know” aren’t actually true. You believe
+them, but you don’t know them. Many people thought, in 2010, that BlackBerry had a
+bright future as a manufacturer of smartphones. That turned out not to be the case. Maybe
+you believe, as many people do, that cutting body-hair makes it grow faster (not true). Or
+perhaps you believe that drinking “oxygenated” water is especially good for you (there’s
+no evidence of this). Or that bats are blind (not true at all!).
+Thus, we need to be able to evaluate claims, whether they are our own claims or claims put
+forward by someone else. And when we evaluate a claim, we aren’t evaluating its beauty,
+or whether it makes us happy, or whether the underlying belief is firmly held. Instead, when
+Textbook: Business Decision-Making, © 2025 Michael Baumtrog, Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, uploading, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+7
+we evaluate a claim, we’re asking whether we are (or would be) justified in believing it. If
+you believe a claim, you accept it (as a potential reason for action, or a premise in an
+argument, for example). But what makes a claim acceptable?
+Justification and the Standard of Acceptability
+A particular claim is acceptable, if it’s reasonable to believe it. In other words, one is
+justified in believing that claim. But why should this matter? After all, what’s important is
+that we base our decisions and opinions on claims that are true, regardless of whether we’re
+justified in believing them. And, clearly, there are cases where we can reasonably believe
+something even though it turns out to be false. Imagine that on the first day of a new job,
+two of your new colleagues tell you that the whole office usually breaks for lunch at noon.
+You believe them, but it turns out to be part of a prank. This is a case where you justifiably
+believed a false claim. The opposite is also possible: Consider that, prior to the 2014 FIFA
+World Cup semi-final between Brazil and Germany, there were a handful of people who
+predicted that Germany would win 7-1 (some even put money on it). This turned out to be
+true, but there is no way that these people were justified in their belief.
+However, while truth is ultimately the standard that matters, it’s not a practical standard to
+use, since we cannot directly pursue truth. If I were to advise you to believe only and all
+true claims, I wouldn’t be offering any concrete guidance. Justification, on the other hand,
+can be pursued. Telling you to believe only when your belief is justified does tell you what
+to do: seek out reliable sources, weigh the evidence carefully, etc.
+An additional worry is that truth is a big word. It can imply such a high standard that it’s
+not clear we could ever meet it. After all, how could we ever be really certain—absolutely
+certain—that a claim is true? One could almost always think up a skeptical scenario that
+would invalidate even the most commonplace certainties. For example, if you own a car,
+you probably think you know where it is parked right now. But to know this with absolute
+certainty, you’d have to rule out that it has been stolen—and you wouldn’t know if it had
+been, so how can you be sure? Or how do you know that parking your car where you think
+you did wasn’t part of a dream you’re still dreaming? Or that you’re not hooked up to an
+entirely artificial reality, like the characters in the movie The Matrix? All of these are
+worthy questions for a philosophy class or a quiet moment of reflection, but they’re best
+put aside while conducting your daily affairs. When you see a car rushing towards you, it’s
+not wise to occupy yourself with philosophical reflections. You need to jump out of the
+way now.
+Another advantage of thinking in terms of acceptability instead of truth is that the question
+of whether a claim is acceptable can be refined by specifying the context in which this
+Textbook: Business Decision-Making, © 2025 Michael Baumtrog, Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, uploading, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+8
+question is to be answered. Suppose you’re wondering whether to use a particular claim as
+a premise in an argument. Whether this is a good idea depends, in part, on the audience
+you’re presenting your argument to. Are the people you’re trying to convince
+knowledgeable about the topic? If so, you can assume they’ll readily believe bits of
+specialized knowledge that you’d have to argue for in front of a lay audience. Or are you
+facing an audience that’s known to be extremely skeptical of certain claims you need for
+your argument? In that case, you should be prepared to offer additional reasons for
+accepting those claims. So, unlike the question of whether a claim is true, the question of
+whether a claim is acceptable can be refined by specifying to whom it would be acceptable.
+When we engage others in argument or deliberation, our starting point doesn’t have to be
+just truth, it has to be common ground—a claim, or set of claims, that everyone involved
+finds acceptable.
+Note also that, in making arguments, it’s not always necessary to establish your own
+claims. Sometimes, you may be content if you’ve shifted the burden of proof. Imagine
+you’re trying to convince your boss to start a promotion by giving free merchandise to
+students enrolled at the local college. Your boss may demand you prove that the increased
+publicity would outweigh the costs of the campaign. Since you can’t predict the future, this
+will be difficult to do. But you may argue that three other companies have done similar
+campaigns with great success and that even your own company reaped great rewards from
+such a campaign ten years ago. Of course, this doesn’t prove that the suggested campaign
+will be successful. But it does shift the burden of proof. You’ve provided enough evidence
+to make it reasonable to accept your claim. Now, instead of you having to show that the
+campaign absolutely will be a success, your boss is the one who needs to show how this
+proposed campaign is different from all the successful ones that came before. Either that
+or your boss should accept your point of view.
+Strictly speaking, every claim is either true or false, but this isn’t always the most useful
+way to think about claims. Sometimes, it’s better to ask how close to the truth a claim is—
+in other words, how accurate it is. For example, suppose your car’s speedometer says
+you’re going 95 km/h. That’s probably not your true speed—not exactly. Speedometers in
+most cars only measure speed plus or minus a few percent, so when it says you’re going
+95 km/h, you may really be going 93 or 97 km/h. But there’s not much point in calling the
+95 km/h reading false in a case like this (of course, if it says 95 when you’re parked, then
+the reading is clearly false!). It’s more useful to think in terms of degrees of accuracy, to
+recognize that every gauge or measuring device has some margin of error, and to use the
+information in a way that recognizes this.
+Textbook: Business Decision-Making, © 2025 Michael Baumtrog, Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, uploading, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+9
+This brings us to the question of the efficiency of information gathering, and how much
+effort you should expend in improving the accuracy of your information. Why do
+speedometers only measure speed to within plus or minus a few percent? Car
+manufacturers could engineer more precise speedometers, so why don’t they? The answer
+is that no one really needs to know with that much precision just how fast they’re going.
+You just need to know that you’re going a safe speed and aren’t deviating too much from
+the posted speed limit, and the speedometers in today’s cars are accurate enough to do that.
+More precise measurement would likely be more expensive, and the added accuracy
+wouldn’t be useful enough to justify the cost. Thus, spending more resources to gather
+more accurate information would be inefficient.
+This line of thought applies in many situations. Imagine you need to know how many eggs
+are in the fridge. A quick glance tells you that there are a bunch, maybe ten or so. That’s
+not very precise, but it’s close enough to tell you that you don’t need to go to the store
+before starting to make omelets for two people. So you don’t need to stop to do a careful
+count. “Ten or so” is good enough. Of course, not all cases turn out that way. Sometimes,
+increasing the accuracy of our information is important enough to justify substantial efforts.
+Suppose your company is developing a new pregnancy-test kit and the scientists say that
+in its current stage, the kit has an accuracy rate of “about 99%.” This won’t do. Most
+existing test kits have an accuracy rate of at least 99%. So before you submit your kit for
+approval to the relevant authorities (which tends to be a very costly process), you need to
+be sure that the accuracy is at least that high. If it turns out that the actual figure is 97%,
+that would be disastrous. No will want a pregnancy test that’s merely 97% accurate.
+A final advantage of talking about acceptability and justification instead of truth is that it
+makes it easier to see that, to a very significant extent, we’re responsible for what we
+believe—that is, if we believe things we have no justification for believing, we’re to blame.
+There are several reasons why this is important. At one level, we might say that believing
+a claim for which there is no good justification is both lazy and wasteful. We humans have
+truly amazing brains capable of contemplating claims in the abstract, considering all the
+evidence for and against, and coming to conclusions. We may well be the only species on
+the planet capable of that. Letting that power go to waste is a shame. In other cases, a failure
+to look for justification can be downright dangerous. Relying without justification on a
+claim such as This vaccine can prevent Ebola could have horrific consequences. And
+unjustifiedly relying on the claim This investment is guaranteed to pay off big! could be
+financially devastating. To believe claims like these without looking at them very carefully
+is seriously unwise.
+Textbook: Business Decision-Making, © 2025 Michael Baumtrog, Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, uploading, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+10
+In still other cases, failure to look for justification is ethically irresponsible, constituting a
+failure to do your duty or to live up to other people’s reasonable expectations. If a
+company’s balance sheet claims a particular level of income, and if you, as a financial
+auditor, don’t verify the details carefully, the investing public could be misled and you are
+guilty of failing in your professional obligations. If you’re responsible for purchasing new
+computers for your employer, and the computer company’s claims about the capacity of
+those computers turn out to be false, you can fairly be accused of having let your employer
+down in a significant way. In both cases, doing what’s right requires that you question the
+claims that have been put before you and that you do some work to establish whether
+they’re acceptable.
+Having established the importance of measuring the premises of an argument against the
+standard of acceptability and justification, we will now take a closer look at various ways
+in which claims can be justified.
+Justification by Argument
+One crucial way a claim can be justified is by being the conclusion of a strong argument.
+It’s difficult to overstate the importance of this way of justifying claims. This whole course
+is effectively about how we use good arguments to justify our beliefs, especially when
+those beliefs ground our decisions. But, of course, every argument relies on premises that
+are themselves claims. And how are those claims justified? One possibility would be to
+provide (or find) arguments for each premise. We would then have what we call a layered
+argument – basically, an argument in which the premises that support our main conclusion
+are themselves supported by further premises. This is an important practice, and we should
+be prepared to do it more often than we do. We all unthinkingly accept plenty of claims
+we’d be hard-pressed to justify in the face of someone who genuinely didn’t believe them.
+(That’s what often makes political disagreements seem so intractable). However, even if
+we provide an argument for each claim, the claims that provide the premises for those
+arguments may themselves need to be argued for. We can’t go on like that forever; at some
+point, we need to rely on some claims as premises to start with. We’ll call premises that
+aren’t argued for from further premises basic premises. There are various ways that basic
+premises can be justified; these are basic sources of justification. We will look at those in
+detail in the next reading.

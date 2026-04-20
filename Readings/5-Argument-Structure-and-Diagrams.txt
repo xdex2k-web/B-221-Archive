@@ -1,0 +1,384 @@
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+1
+Argument Structure and Diagrams
+Introduction
+In the context of business decision-making, getting others to agree with you is crucial. This step is necessary as business is always a cooperative activity. You can’t conduct business by yourself—there’s always somebody you need to convince, whether it’s your boss, your team, your customers, etc. There are many ways you can (try to) convince others; some are more effective than others, and some are ethically problematic (such as brainwashing, deceiving, or bullying). In this course, we focus on what might be considered the gold standard of persuasion techniques: arguments. One major advantage of arguments over most other persuasion techniques is that they can be used not only to convince others when you’ve already made up your mind, but also to help you find the best answer to a question in cooperation with those to whom you present your arguments. In other words, arguments are useful in both stages of business decision-making: finding the best course of action, and convincing others of it. We’ll begin, this week, with argument analysis: a basic account of what an argument is, what its parts are, a simple visual method for understanding its ‘shape’.
+What Is an Argument?
+In everyday language, the word argument often refers to a dispute of some sort: a verbal debate or a heated exchange of opinions. An argument in that sense is something you have with someone. But the word argument also has a second, related meaning, which is what we’re interested in here. In this second sense, an argument is an attempt to convince someone of the truth of some claim or point of view. Thus understood, an argument is something you give someone else. It’s in this sense of the word that arguments are the most important tool of critical thinking. More formally, we can define the word argument this way:
+Argument: A set of claims, some of which are intended to provide support for another of those claims.
+Here’s a simple example:
+Walter has very strong skills. He also works very hard. So, he’s definitely a valuable employee.
+The terms claim and support in the definition above are very important. A claim is a statement that can be either true or false. A true claim is roughly the same as what we ordinarily refer to as a fact. Knowing which claims actually are true is essential in all aspects of life, including in the business world, where getting the facts wrong can lead to serious and costly mistakes. When
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+2
+someone presents us with a new claim related to how we should do business, should we immediately adopt that claim as a belief of our own? Clearly not. We need to ask what support there is for that claim—what reasons there are to believe it. In other words, we need an argument. What an argument does is take one or more claims that are already accepted and use them as reasons for accepting another claim. This brings us to two further terms, used for the two main parts of any argument:
+Premise: A claim used within an argument to support the argument’s conclusion.
+Conclusion: A claim that constitutes the main point of an argument, the thing the arguer is trying to convince his or her audience of.
+Every argument must have at least one premise and one conclusion. Without a conclusion, an argument literally has no point. And a “conclusion” without at least one premise—one reason to believe the conclusion—really wouldn’t be a conclusion at all, but rather just a bare claim, an undefended assertion or a mere opinion. (It’s important to point out, though, that in some cases an arguer will leave either the premise or conclusion unspoken. We’ll return to the issue of “missing” premises or conclusions below.) But generally, someone who’s trying to make an argument will at least tell you what their point (i.e., conclusion) is, and give you some reason to believe it (i.e., provide one or more premises).
+Some arguments can, of course, be very long. There’s no limit, in principle, to how many premises an argument can have. Indeed, complex arguments can even have more than one conclusion, another point we will return to later in this chapter. So, while the examples used here are quite short, arguments can, in principle, be lengthy. Many non-fiction books, for example, are essentially long, complex arguments trying to convince the reader of some overarching conclusion.
+Here are some simple examples of arguments, with their premises and conclusions labelled:
+Argument A:
+Premise: There’s a large, untapped market for maple syrup in Florida.
+Conclusion: So, we should look for a way to export our syrup to Florida.
+Argument B:
+Premise 1: Our engineers say our product functions well.
+Premise 2: Focus groups say they love our product.
+Conclusion: Our product is ready to be sold.
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+3
+Argument C:
+Conclusion: We need to advocate for hiring additional full-time accountants.
+Premise 1: The complexity of our business has been increasing lately.
+Premise 2: Our current accounting team is overworked.
+Argument C illustrates that while the conclusion of an argument is often provided last, that need not be the case. Very often, we state our point of view and then provide reasons—premises—in support of that point of view.
+Keep in mind that all we’re doing here is illustrating what arguments look like and describing their structure. We’re not yet worried about whether any particular argument is a good argument. We’ll save that challenge for later.
+Constructing and Reconstructing Arguments
+One of the key challenges faced by anyone attempting to evaluate arguments is the flexibility of language. There are typically many ways to make a given point and to support it with reasons, and different people may express the same fundamental thought in very different ways. Considerations of style and efficiency can result in two different people making the same argument in different ways. That flexibility results in wonderful opportunities for creativity, but it also poses challenges to interpreting what exactly a person’s argument is.
+In this chapter, we aim to develop the ability to clarify the structure of arguments. This is essential both in constructing our own arguments and in reconstructing the arguments of others. Most of us don’t always think in the most structured, logical way about the issues we want others to agree with us on. As a result, if we simply tell them what’s on our mind, we won’t produce a strong argument. We can discipline our thinking to produce a coherent argument, but this takes time and effort. But by practising the techniques introduced here, we can learn to cut down on the time and effort needed to structure our thoughts. Similarly, when we’re confronted with an argument made by somebody else, it usually doesn’t come out in the most structured, logical way either. They’ll say some things that are ambiguous or irrelevant, and will leave some relevant things out.
+So, we need to learn to construct our own arguments and to reconstruct the arguments of others. The discussion in this chapter will mainly focus on argument reconstruction, as it’s simpler, in a book, to demonstrate the techniques by applying them to arguments encountered in writing. But the same techniques can be applied in constructing your own arguments. Indeed, one useful thing to do when constructing an argument is to write down a first draft and then reconstruct it in a way that makes it stronger, like you would with somebody else’s argument.
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+4
+Argument reconstruction involves three basic tasks: identifying the claims in the argument, determining the status of each claim in the argument, and determining the relations between the claims in the argument. Roughly corresponding to these three tasks are three steps required in our diagramming language: numbering claims, underlining conclusions, and drawing a diagram. A diagram is a kind of technical drawing, in which we show the main parts of a thing in order to understand it better. Think of how useful human anatomical diagrams are in learning about anatomy, for instance. It’s crucial to see that, in diagramming an argument, we’re not attempting to include every aspect of the argument. Any diagram (of anything) is a simplification, and diagrams of arguments are no different. This chapter will guide you through the process of argument reconstruction, while simultaneously introducing our method for diagramming arguments.
+Identifying (and Numbering) the Claims in an Argument
+The first step in reconstructing an argument is to make sure you understand everything that’s been claimed. This can involve considerable challenges, especially when the argument is delivered in spoken form—you might not be able to hear the speaker very well, or they might be talking too fast for you to remember or write down everything they said. Speakers might be prone to tangents or have unclear diction, transmission equipment may be faulty (in the case of remote conversations), or the argument may be presented in a language you aren’t entirely fluent in. But let’s set these concerns aside and focus instead on cases where the argument is presented in reasonably well-written English. In such cases, identifying the claims made in the argument is a fairly straightforward task. But doing so is an essential step in reconstructing the argument, and there are a couple of potential hiccups.
+Here’s one of our examples from above:
+Argument A:
+There’s a large, untapped market for maple syrup in Florida. So, we should look for a way to export our syrup to Florida.
+In order to get this argument ready for diagramming, we number the claims made in the argument, in the order in which they appear, and write the number at the start of each statement. The results look like this:
+Argument B:
+1There’s a large, untapped market for maple syrup in Florida. So 2we should look for a way to export our syrup to Florida.
+And here is another:
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+5
+Argument C:
+1We need to advocate for hiring additional full-time accountants. 2The complexity of our business has been increasing lately and 3our current accounting team is overworked.
+This second example demonstrates a potential problem in identifying claims: it’s not the case that every sentence in English (or any other language) contains exactly one claim. It’s quite common for sentences to contain more than one claim, or to contain no (complete) claims at all. And, importantly, not every claim that appears in an author’s argument is something that the author actually asserts (or claims): in other words, some claims are embedded. Imagine Mario saying, “Ryba says Jim’s car was stolen. But she is a pathological liar.” Now, Mario has uttered the claim Jim’s car was stolen, but he clearly doesn’t mean to assert this claim. What he really claims isn’t about Jim’s car, but about what Ryba said. If Jim’s car hasn’t been stolen, it would be unfair to call Mario a liar (Ryba is the liar in that case). By contrast, if it turns out that Ryba never said anything about Jim’s car, that would make Mario a liar. Relaying claims made by somebody else is one important category of claim that an arguer may make without asserting that claim themself.
+Another such category appears in conditional statements. For example, imagine Mario saying, “If Italy wins the World Cup this year, I’ll win a million dollars.” There are two claims in this statement—one about Italy winning the World Cup, and one about Mario winning a million dollars—but Mario isn’t asserting either of them. What he’s asserting is something about the relationship between these two claims—specifically, that if the first is true, then so is the second (Mario’s claim is a conditional claim, a type of claim we will discuss in more detail in chapter 10). Again, what he said would not be false if Italy didn’t win the World Cup, or if he didn’t win a million dollars. The reason we’re harping on this here is that when numbering claims in an argument, you should only number claims that the arguer themself means to assert. So, suppose Mario makes the following argument:
+Argument D:
+The betting-odds on an Italy World Cup win on BetBoys.sx are 10:1. I’ve placed a $100,000 bet with them. So, if Italy wins the World Cup this year, I’ll win a million dollars.
+It might be tempting to number this argument’s claims like so:
+Argument D:
+1The betting-odds of Italy winning the World Cup are 10:1. 2I’ve placed a $100,000 bet with them. So, if 3Italy wins the World Cup this year, 4I’ll win a million dollars.
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+6
+But that would be incorrect because Mario didn’t assert either of the claims labelled 3 and 4. He didn’t say that Italy is going to win, and he didn't’ say he really is going to win a million dollars. Instead, the right way to label the claims is as follows:
+Argument D:
+1The betting-odds of Italy winning the World Cup are 10:1. 2I’ve placed a $100,000 bet with them. So, 3if Italy wins the World Cup this year, I’ll win a million dollars.
+Another problem with identifying and numbering the claims in an argument is that, fairly often, the person making the argument leaves some important claims unsaid (or unwritten). This problem is important enough to deserve its own section. We need to postpone this discussion briefly, however, because usually we’re in a better position to look for unstated claims once we’ve done the work of determining the status of the claims that are there.
+Determining the Status of Claims (and Underlining Conclusions)
+Once we’ve identified the claims advanced in an argument, it’s time to figure out which claims are playing which role—that is, which are premises and which are conclusions. With short arguments, we’ll often be able to immediately see which role each claim plays. When it comes to longer, more complex arguments, one good rule of thumb is to begin by figuring out what the argument’s main conclusion is. Once we identify an argument’s main point, we can go on to figure out what reasons—premises—are being offered in support of that point, and we can also begin to consider whether, for example, we need to fill in any missing premises.
+One way we can begin to figure out the status of claims in an argument is to look for what are called indicator words. The English language makes use of a number of different words that help listeners understand the flow of an arguer’s logic, by indicating whether a particular claim is being put forward as a premise or as a conclusion. The word therefore is a good example. Whenever you hear the word therefore, you know the speaker is about to arrive at a conclusion. We’ll refer to words like therefore as conclusion indicators.
+There are literally dozens of conclusion indicators in the English language. Some of them are single words (like therefore or so) and some are short phrases (like and so we may conclude that). Here are just a handful of common conclusion indicators:
+• therefore
+• thus
+• so
+• consequently
+• hence
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+7
+• it follows that
+• we may conclude that
+Here are a couple of examples of conclusion indicators in action:
+Argument E:
+Mr. Hudson is no longer really able to manage his team. So we need to consider hiring someone new to replace him.
+Argument F:
+The telecom market is already crowded. It follows that a new telecom start-up is unlikely to succeed.
+In both examples, the bolded words indicate that the claim that immediately follows them is the conclusion of the argument. This is very useful because we can’t always tell from the order of the claims in an argument which one is the argument’s conclusion. In the cases above, the conclusion happens to be stated last, but that won’t always be the case. Consider this example:
+Argument G:
+We can safely conclude that the government is unlikely to develop new regulations governing our product. The relevant government ministry is facing a budget freeze. And besides, they haven’t expressed any concerns about our product.
+Notice that in argument G, the conclusion comes at the beginning of the argument. The conclusion indicator We can safely conclude that suggests that the author’s conclusion—the thing he or she is trying to give reasons for—is the claim that the government is unlikely to develop new regulations governing our product. This author is beginning with his or her conclusion, then moving on to provide reasons to believe that conclusion. As we noted earlier, that’s not unusual. The conclusion can appear literally anywhere in an argument. For that reason, it can sometimes be difficult to tell what an arguer’s main point is. A conclusion indicator can make things clearer.
+Similarly, there are words and phrases that act as premise indicators. They indicate that whatever the speaker is about to say next is functioning as a premise for some conclusion.
+Here are just a handful of common premise indicators:
+• since
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+8
+• for
+• because
+• as indicated by
+• given that
+• inasmuch as
+Here are a couple of premise indicators in action:
+Argument E:
+Since Mr. Hudson is no longer really able to manage his team, we need to consider hiring someone new to replace him.
+Argument F:
+Given that the telecom market is already crowded, a new telecom start-up is unlikely to succeed.
+Argument G:
+The government is unlikely to develop new regulations governing our product, because the relevant government ministry is facing a budget freeze. And besides, they haven’t expressed any concerns about our product.
+In each of these examples, the premise indicator suggests that the claim immediately following is being offered as a reason to believe the argument’s conclusion. And in argument G, the use of the premise indicator because also strongly suggests that the claim right before it—The government is unlikely to develop new regulations governing our product—is the argument’s conclusion.
+(Naturally, we need to be careful when looking for conclusion and premise indicators as a way of figuring out the structure of an argument. The English language is enormously complex and flexible, and many words have multiple meanings. So, a particular word might work as an indicator in one context but play a different role in another. The word since, for example, is sometimes a premise indicator, but sometimes used instead to refer to the passage of time, as in the sentence I’ve been here since seven o’clock this morning.)
+For diagramming purposes, we’ll underline the overall conclusion of an argument, like so:
+Argument A:
+1There’s a large, untapped market for maple syrup in Florida. So 2we should look for a way to export our syrup to Florida.
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+9
+Sometimes, an argument will not only have an overall conclusion, but also intermediate conclusions (we’ll return to that issue later, when we discuss layered arguments). Such intermediate conclusions will be underlined with a dashed line, as in the following example:
+Argument A:
+1There’s a large, untapped market for maple syrup in Florida. So 2we should look for a way to export our syrup to Florida. Therefore, 3we need to look into the logistics of importing into the United States.
+Once we’ve identified the claims in an argument and determined their status, we’re in a position to figure out whether any essential claims are missing from the argument. Discussing this will also give us the opportunity to introduce two important principles of argument reconstruction.
+Missing Parts and Hidden Assumptions
+Why do we sometimes read or hear arguments that seem to be missing premises or missing a conclusion? Why do people leave pieces of their argument unstated? There are many reasons. In some cases, the arguer is simply trying to be brief, and leaves out something that she or he assumes the audience will understand as taken for granted. And in many contexts, that assumption is entirely fair. Indeed, it’s often the case that stating all the parts of an argument that are commonly accepted would be laborious. (Imagine a manager who, every time she explains a new strategy to her team, rehearses everyone’s roles and responsibilities, as well as reminding everybody that the company is trying to turn a profit, et cetera.) In making arguments, as in all other parts of life, we’re relying on myriad assumptions about how we know the world works. There’s no need to mention all of them.
+So, there isn’t necessarily anything wrong with leaving something out of your argument. But in other cases, the omission happens by mistake, as when an arguer thinks he or she has provided a full set of reasons in support of some conclusion, but fails to recognize that an important piece of the argument is missing. In still other cases, an arguer may leave part of her or his argument unstated for less noble reasons; perhaps he or she knows that the audience will find one particular premise unacceptable, so leaving it unstated may make it easier to gain the audience’s approval. Or the person relies on a premise that, though accepted by one part of their audience, isn’t something they want to be held accountable for by the public (think of a politician who makes arguments that rely on premises about the inferiority of some subset of the population).
+Missing Parts and the Principles of Argument Reconstruction
+Remember that we’re attempting to reconstruct arguments and translate them from the natural language in which they’re presented into diagrams that lay bare their logical structure. Like any
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+10
+process of translation, this requires a fair amount of interpretation, which doesn’t lend itself to any easily described formula. What we have instead are two guiding principles of argument reconstruction: the principles of fidelity and charity.
+The easiest way of demonstrating the principles of argument reconstruction is to apply them to the problem of missing argument parts. One of the key variables in how an argument is expressed verbally lies in what’s said versus what’s left unsaid. An arguer might leave out certain parts of their argument; the piece left out might be either a premise or a conclusion.
+Consider this exchange:
+Tim: I don’t know what to think of the new interns we’ve hired, overall. I’m not sure they’re up to snuff.
+Rafiq: They seem to have good skills. And for the most part, they seem pretty hard-working.
+Notice that Rafiq hasn’t stated his conclusion here. He hasn’t actually said I think the new interns are actually pretty good. But his view is very clear, based on the premises he has provided, and given the conversational context of what he’s said. He has definitely provided an argument, though for purposes of casual conversation he’s left out his conclusion.
+Here’s another example:
+Steffi: Do you think the Annual Report is ready to be distributed?
+Samantha: No. The CEO still hasn’t signed off on it.
+Samantha’s argument here is entirely clear. She doesn’t think the Annual Report is ready to be distributed (that’s her conclusion). Why? Because the CEO still hasn’t signed off on it, and if the CEO still hasn’t signed off on it, it shouldn’t be distributed yet. But notice that Samantha didn’t bother to say that last part. She didn’t say A report that hasn’t been signed by the CEO can’t be distributed, even though that premise is a necessary part of the logic of her argument. Were it not for that rule, the fact that the CEO hadn’t signed off wouldn’t, by itself, be enough to support the conclusion that the report shouldn’t be distributed—it would simply be one more interesting fact about the document (after all, lots of people probably haven’t signed off on this document, and most of them are irrelevant). In this context, Samantha likely left that out because she knows that Steffi, a member of her team, is perfectly aware of that rule. Steffi didn’t need to be reminded of the general principle in order to be convinced; she only needed to know that the absence of the CEO’s signature made that general rule relevant to the current situation. But still, that rule is
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+11
+technically a necessary part of the logic of the argument leading to Samantha’s conclusion, and so we refer to it here as a missing premise.
+Missing premises and conclusions are perfectly natural elements of language use. People leave out parts of their arguments, for good reasons and bad, all the time, and we still generally understand their meaning (see the textbox titled Missing Parts and Hidden Assumptions). But in order to reconstruct and evaluate an argument you need to be aware of all of its parts, even the ones the arguer has for some reason left unstated. When faced with the need to evaluate someone’s argument, it’s your job as evaluator to try to determine what’s been left unstated and assess the acceptability of the unstated parts.
+Supplying the missing pieces of an argument is as challenging as it is important. But it’s not always clear what the missing pieces are. Sometimes, people put forward arguments that simply aren’t clear, either because they’ve used words in a way that’s unclear or because the thinking behind those words is itself muddy. And in some cases, the arguer gives us very little to go on—perhaps just a small fragment suggesting that there’s an argument—without clarifying what they really have in mind. Figuring out an argument’s meaning in such cases can be a challenge.
+So how do we fill in the missing pieces? There’s no straightforward formula for doing so. The key is to remember that, when filling in missing pieces, we are effectively “putting words into someone’s mouth,” so we need to be careful to do so in a way that is accurate and fair. This is why, in supplying missing pieces, we should follow the two principles of argument reconstruction:
+The principle of fidelity: First, we want to reconstruct the argument (by supplying missing pieces) in a way that’s faithful to the arguer’s intentions. We should try, to the best of our ability, to stick to what it is that the arguer is actually trying to argue.
+The principle of charity: If in doubt about an arguer’s meaning, we should reconstruct the argument (by supplying missing pieces) in a way that makes the arguer look smart, rather than foolish. If there is doubt, for example, as to which of two things an arguer might mean, we should assume that he or she means whichever thing would make the argument more reasonable.
+For example, consider this incomplete argument:
+John: Tina has been offered a promotion. So she’ll be our new boss.
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+12
+John has left at least one of his premises unstated, so if we want to evaluate his argument, we have to fill it in. Suppose we do it like so:
+Premise 1: Tina has been offered a promotion.
+Missing premise: Tina will be offended by the offered promotion and leave to start a new company that she’ll ask us to join.
+Conclusion: So Tina will be our new boss.
+Interpreting John’s argument this way violates the principle of fidelity, as this proposed conclusion clearly isn’t faithful to the argument John was trying to present. Nothing John said hinted at everyone leaving the current company, and it seems likely he would’ve mentioned such an important part of his argument, so to suggest that this is the premise he’s relying on is hardly credible.
+Alternatively, we might interpret John’s argument by supplying the following as the missing conclusion:
+Missing premise: Tina is always punctual.
+Interpreting John’s argument this way would violate the principle of charity. While this proposed premise is consistent with the rest of John’s argument (and hence satisfies the principle of fidelity), the conclusion doesn’t follow from those premises. If we were to interpret John as basing his claim that Tina will be the new boss on her always coming in on time and her having been offered a promotion, we’d be attributing to him a weak argument, one where the premises don’t support the conclusion very well.
+If we want to provide a suitable conclusion for John’s argument, we need one that (a) is faithful to the argument he seems to be advancing, and (b) doesn’t make John look silly. Of course, sometimes people do put forward foolish or silly arguments, and we’ll learn to spot those and explain their weaknesses. The point here is that it’s unfair, and unhelpful, to insert new weaknesses into someone else’s argument. If we’re sincere in wanting to understand and evaluate a particular argument, then we must do our best to focus on the argument as it actually is, rather than on a distorted version of that argument. In the case at hand, the best way to fill in the argument is probably to assume that John’s missing premise is Tina will accept the promotion.
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+13
+In diagramming arguments, we’ll treat missing parts as if they appeared at the end of the argument, after everything that was actually said or written down. This will often produce an ordering of claims that sounds awkward in natural language, but this need not concern us for the purposes of creating a diagram. So we would number the argument about Tina as follows:
+1Tina has been offered a promotion. So 2she’ll be our new boss. 3Tina will accept the promotion.
+Again, the principles of fidelity and charity are general principles of argument reconstruction. We’ve demonstrated their use in uncovering missing parts of arguments, but we need to adhere to them not only when searching for missing parts, but during the entire process of reconstructing an argument.
+Diagramming an Argument
+Once we’ve assigned numbers to each claim in an argument (including missing claims), and underlined intermediate and overall conclusions, we’re ready to draw a diagram of the argument.
+In our diagramming language, we’ll represent arguments by creating flow charts that flow down the page towards the conclusion. Each premise in our argument will be represented by a square, with the number associated with that premise written inside. The conclusion of our argument will be represented by a circle, again with its associated number written inside. We will use arrows to show the flow of logic from premises to conclusion.
+Here’s one of our examples from above, already prepared for diagramming:
+Argument A:
+1There’s a large, untapped market for maple syrup in Florida. So 2we should look for a way to export our syrup to Florida.
+This argument has just one premise (which we’ll represent in our diagram with a square) and one conclusion (which we’ll represent with a circle). The conclusion indicator so suggests that the flow of logic goes from claim 1 to claim 2. This suggests that the diagram for this argument should look like this:
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+14
+This diagram shows, in a very straightforward way, both the argument’s structure and its flow of logic. You can see at a glance that this argument includes just one premise. And you can see from the numbering that the premise is the first claim made in the argument.
+But the structure of this argument is so simple we hardly need a diagram to understand it. Diagrams become more useful for longer, more complex arguments. Let’s look at a slightly more complicated example:
+Argument H:
+The government is unlikely to develop new regulations governing our product, because the relevant government ministry is facing a budget freeze. And besides, they haven’t expressed any concerns about our product.
+Let’s begin by “marking up” the argument. There are three claims to be numbered, and the arguer’s conclusion seems to be that new regulations are unlikely. They’re providing two premises in support of that conclusion. The word because is a premise indicator, which helps confirm that the second claim is a premise. So our marked-up argument should look like this:
+Argument H:
+1The government is unlikely to develop new regulations governing our product, 2because the relevant government ministry is facing a budget freeze. 3And besides, they haven’t expressed any concerns about our product.
+To draw the diagram, we draw two squares, numbered appropriately to represent our two premises. Then we draw arrows to show the flow of logic pointing to a circle appropriately numbered to represent our conclusion. The result is this:
+A
+A conclusionconclusion isis
+represented by a circle.represented by a circle.
+A
+A premisepremise is is
+represented by a
+represented by a square.square.
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+15
+Note that this argument provides two entirely separate reasons to believe the conclusion. Claim 2 and claim 3 are each offered in support of claim 1. If we’re to critique this argument, pointing out, for example, that claim 2 (the ministry is facing a budget freeze) is false, that would weaken this argument, but perhaps not fatally. A separate reason (claim 3) would remain untouched.
+Joint Premises and Layered Arguments
+Sometimes, instead of providing separate premises working independently, authors offer premises that work together. For example:
+Argument I:
+We can’t send the Annual Report out because the CEO hasn’t signed off on it yet. The CEO’s signature is required before we send it out.
+Marked up, this argument would become:
+Argument I:
+1We can’t send the Annual Report out because 2the CEO hasn’t signed off on it yet. 3The CEO’s signature is required before we send it out.
+Superficially, this argument has the same structure as the last one: two premises supporting one conclusion. But in this argument, the premises aren’t independent of each other. If claim 2 was false (the CEO actually did sign the report already), then claim 3 would not provide any support for the conclusion, and vice versa.
+We therefore need to keep in mind that arguments can contain two different kinds of premises:
+Two separate
+Two separate premises premises supporting a single supporting a single conclusion.conclusion.
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+16
+Independent premises: premises that the author intends to work separately in support of the conclusion.
+Joint premises: premises that the author intends to work together in support of the conclusion.
+Figuring out whether premises are joint or independent is an important part of reconstructing an argument. In doing so, we need to apply the principles of fidelity and charity. Sometimes, the arguer will give us a hint (for example, they may signal an independent premise by saying something like an unrelated reason…), in which case the principle of fidelity dictates that we stick with the arguer’s intention. But often, there are no such clues, in which case we apply the principle of charity, and figure out whether the premises make most sense conceived as independent or joint premises. There’s a simple test we can apply here (that we’ve already implicitly used in the last paragraph). Here’s how it works: Assume that the opposite of one of the premises is true, then ask yourself whether the other premise still provides any reasonable support for the conclusion. If the answer is no, you’re dealing with joint premises; if the answer is yes, the premises are independent.
+You can see how this worked for argument I: once we assume that the CEO has signed off on the annual report, the fact that her signature is required provides no reason to think the report can’t be sent out. And, conversely, once we assume the signature isn’t required, the fact that she has not signed provides, again, no reason to think we shouldn’t send the report out. Contrast this with argument H: Even if we assume the government has no budget issues, the absence of any expression of concern about a product is still reason to think no regulations will be forthcoming; conversely, even if they did express concern, the budget freeze would still provide some reason to think they won’t regulate. Thus, these premises operate independently. Now, this doesn’t mean that each premise by itself provides sufficient support for the conclusion—maybe they do, maybe they don’t. The point, rather, is that whatever support they do provide (weak or strong) is not dependent on the acceptability of another premise.1
+1 Joint premises don’t always show up in twos. Some arguments may have three or even more premises depending on each other to support the conclusion. And some arguments may feature a combination of independent and joint premises. A final complication is that sometimes premises can be asymmetrically related—premise A needs premise B, but premise B can stand on its own. For example: 1You should take the job, since 2it has a higher salary than your current one. And 3a higher salary will help you pay off your student debt. Here, claim 2 provides independent support for the conclusion (claim 1), but claim 3’s status as a reasonable premise is dependent on claim 2 (it wouldn’t provide any support if claim 2 turned out to be false).
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+17
+Here’s how we diagram joint premises:
+This is the diagram for argument I. We draw a line under the squares for claims 2 and 3 to show that these two premises are working together in support of the conclusion (claim 1). We then draw only one arrow from this line to the conclusion, to indicate that there’s only one logical link from these combined premises to the conclusion.
+Earlier, we introduced the concept of an intermediate conclusion—that is, a claim that’s supported by some claims in the argument, while also providing support for another claim. Arguments with this structure are what we call
+Layered Arguments: Arguments that contain at least one intermediate conclusion, that is a claim that is supported by at least one other claim in the argument, and also itself supports at least one other claim in the argument.
+Take a look at this example:
+Argument J:
+Look, Carla isn’t an engineer. So she doesn’t have an engineer’s expertise, and so she can’t be left to run our IT system on her own.
+Let’s begin by numbering the claims:
+Argument J:
+Look, 1Carla isn’t an engineer. So 2she doesn’t have an engineer’s expertise, and so 3she can’t be left to run our IT system on her own.
+Joint premises
+Joint premises, working , working together to suppotogether to support a rt a conclusion, are underlined.conclusion, are underlined.
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+18
+How should we diagram this argument? The first thing we notice is that claim 1 is a premise being offered in support of claim 2 (this is suggested by the indicator word so that comes right after claim 1). The fact that Carla isn’t an engineer is offered as reason to believe she doesn’t have an engineer’s expertise.
+So if we look only at the first two parts and think of them for a moment in isolation, a diagram for the first parts of this argument would look like this:
+This diagram shows that the first claim (Carla isn’t an engineer) is being offered in support of the second claim (she doesn’t have an engineer’s expertise). So far, so good!
+But this argument is one step more complicated than that. The second so (in and so she can’t be left…) suggests that claim 2 is playing a further role, acting as a premise in support of claim 3. In other words, this argument is presenting a chain of logic, in which claim 1 supports claim 2, which in turn supports claim 3. Claim 2, then, is both a conclusion (supported by claim 1) and a premise (in support of claim 3). So a fully marked-up version of the argument would have claim 3 underlined as the overall conclusion, and claim 2 underlined with a dashed line as an intermediate conclusion.
+Argument J:
+Look, 1Carla isn’t an engineer. So 2she doesn’t have an engineer’s expertise, and so 3she can’t be left to run our IT system on her own.
+Since a single claim can be both a premise and a conclusion, we need to enrich the set of symbols used in our diagrams. Whenever a single claim is acting as both a premise and a conclusion within a single argument, we’ll represent it in our diagrams by a circle inside a square to indicate its dual role.
+So, our diagram for argument J will look like this:
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+19
+When an argument has multiple layers like this, we can refer to the smaller arguments as sub-arguments. So for the argument above, claim 1 leading to claim 2 would be one sub-argument, and claim 2 leading to claim 3 would be another. The concept of a sub-argument is useful when we’re trying to determine whether a claim really is an intermediate conclusion. Sometimes, we might not be immediately certain whether two claims we’ve identified as connected premises are joint premises, or whether one of them is an intermediate conclusion. Here, again, we need to apply the principles of argument reconstruction. In argument J, for example, there were conclusion indicators used, which suggests that the arguer wants us to interpret claim 2 as an intermediate conclusion. Not doing so would violate the principle of fidelity.
+But when we don’t have such clues, we need to use the principle of charity and reconstruct the argument in the strongest way possible. Here again, the concept of a sub-argument is useful. When in doubt as to whether two claims are related as joint premises or as premise and intermediate conclusion, you need to ask yourself whether the sub-argument consisting only of those two claims is a reasonable argument. If the answer’s yes, you’re most likely looking at a premise–intermediate conclusion structure. This was the case, as we saw, in argument J (the relevant sub-argument is Carla isn’t an engineer. So she doesn’t have an engineer’s expertise, which is reasonable enough). By contrast, applying this test to the premises in argument I results in sub-arguments that aren’t reasonable at all (the fact the CEO has not signed yet is no reason to believe that her signature is required, or vice versa).
+A single claim that’s both
+A single claim that’s both aa premise and a conclusion premise and a conclusion
+is represented by a
+is represented by a
+circle inside a square.
+circle inside a square.
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+20
+This is as far as this book will go with the diagramming method. We can use it to diagram literally any argument of any size, limited only by our patience and by the size of a piece of paper! For examples of arguments of varying complexities see the four diagrams below:
+Diagrams and Formulating Arguments
+So far, we’ve focused on argument analysis and diagramming as a way of helping you understand other people’s arguments. But the same tools can also be useful in formulating, verifying, and presenting your own arguments.
+Imagine you’ve been asked to present, at a team meeting tomorrow morning, the case for expanding your company’s product line, or for expanding into the Asian market, or for hiring additional staff. How can the tools we’ve discussed for argument analysis and diagramming help you with this important presentation?
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+21
+First, the tools of argument analysis and diagramming help you formulate your argument. Let’s say you see two different kinds of reasons in favour of the advice you’ll offer. Write them down. From this, you can get a rough idea of what a diagram of your argument would look like. It’s going to have two halves—two sets of premises—one for each kind of reason you see in support of your conclusion about this issue. Of course, the internal structure of those two halves—whether they consist of joint premises or multiple independent premises, for example—will depend on the details of the particular case.
+Second, argument analysis and diagramming can be a way of double-checking your own arguments. Let’s say you’ve written out your argument in paragraph form, or perhaps just have it laid out in your head. Analyzing and diagramming your argument, using the method illustrated above in the same way you might use it to analyze and diagram someone else’s argument, is also a great way of detecting weaknesses. This gives you the ability to either reconsider your point of view or seek out new evidence in support of your conclusion. At the very least, it gives you insight into your argument’s weaknesses (Hmmm, I haven’t provided a premise for that conclusion!), so you can anticipate criticisms and objections others might raise when you present your case.
+Finally, these tools can be useful in helping you actually present your argument—in other words, in effectively advocating for your point of view. If you’ve gone through the process of argument analysis and diagramming prior to presenting your case, you’re likely to be much more confident and well organized in presenting it.
+It’s also worth pointing out, from an educational point of view, that all we’ve just said applies equally to the writing of essays and preparing of presentations for university courses or case competitions. If your essay or presentation has a clear underlying structure—one that demonstrates a clear pattern of providing evidence in support of a main thesis—you’re almost certain to receive a higher mark than you would for a “stream of consciousness,” even if the latter were very clever.
+Diagrams and Argument Evaluation
+Let’s review. We learned that an argument is a set of claims, arranged such that some of those claims (called premises) are offered as reasons to believe another of those claims (known as the conclusion). And we learned that we can better understand how an argument is structured—how the author intended the flow of logic to run from premises to conclusion—by drawing an argument diagram. In our simple diagramming language, we used numbered squares to represent premises, circles to represent conclusions, and arrows to show the flow of logic. And we emphasized that, at this initial stage, all we are interested in is figuring out what the author of the
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+22
+argument is trying to say. What main point or conclusion is she putting forward? What reasons to believe that conclusion—what premises—are being offered in support? How many premises are there? Are they working independently or jointly? At this initial stage, we’re interested only in figuring out what the author is up to, determining the nature of the argument they’re trying to advance—not in figuring out whether the argument they’ve put forward is a good one!
+Now we’re ready to go further. Once we’ve constructed a diagram of a particular argument, we have a much better appreciation of what it would take to evaluate that argument.
+Consider the following argument diagram (it doesn’t matter right now what the argument actually says):
+Diagram A:
+Based on this diagram alone, what can we determine? We immediately see that this argument has three premises. The author, in other words, is giving us three different reasons to believe his or her conclusion. And two of them (claims 1 and 2) are joint premises, working together to support the conclusion (4). These are premises that need each other if they’re to work at all. And premise 3 is being offered on its own as a separate reason in support of 4. What does all of this tell us in terms of assessing this argument?
+First, the argument has three premises, and each of these premises may turn out, upon further examination, to be true or false. If we suspect, perhaps only intuitively, that there’s something wrong with this argument, we now know that its foundations could be factually incorrect in one of exactly three places. So we know we have three claims that need to be investigated. Is each of them reasonable to believe?
+We also see two arrows, which means two different flows of logic are being offered. The premises at the head of each of these flows must be not just true, but relevant in providing
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+23
+support for the conclusion. So, again, if we think there’s something wrong with the argument, we know where to look in terms of examining the relevance of the premises. Next, diagram A also tells us that claims 1 and 2 are joint premises. They need each other, or at least are being presented by the author as needing each other. That means that if either claim 1 or 2 turns out to be unacceptable, then the entire left half of the argument collapses.
+Finally, we see from the diagram that the author is providing two separate sets of reasons in support of his or her conclusion, represented by the two arrows. That means that if one set of reasons fails (perhaps because the premises are either untrue or irrelevant) then the argument as a whole is weakened. On the other hand, this also means that even if one set of reasons fails, there is still another whole set of reasons which, if strong, may do a very good job of supporting the conclusion all on their own. In the case of the diagram shown above, if claim 1 turns out to be unacceptable, then the entire left portion of the argument falls apart, but there remains at least one premise—claim 3—standing in support of the conclusion.
+Strong and Weak Arguments
+We’ve now arrived at an all-important question. What makes a good argument? A good argument is one in which the premises provide sufficient support for the conclusion. To see what this means, it’s easiest to start by noting that an argument can be weak in just two key ways:
+1) It can have premises that aren’t acceptable.
+2) It can use poor logic.
+Exploring each of these problems in some depth is the task of later chapters. Here, we simply want to stress that these two are quite separate issues. An argument can have good premises (claims that are acceptable) but those premises might not do much to support the conclusion being offered. Consider this argument:
+Argument K:
+Premise 1: Toronto is in Ontario.
+Premise 2: Timmins is in Ontario.
+Conclusion: Therefore, all cities in Ontario start with T.
+Both premises of this argument are acceptable: they’re easily verified. But do they logically support the conclusion? They’re both probably relevant: Toronto and Timmins are both cities starting with T, so they belong to the class of things referred to in the conclusion. So they’re on topic. But of course, the logic of this argument is deeply flawed. Those two premises, despite being acceptable and relevant, do very little to support such a grand conclusion. There are, after all, many cities in Ontario and these are just two of them; in other words, these premises are not
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+24
+sufficient to justify the conclusion. In a later lesson, we’ll examine more specifically just what the error here is. All you need to recognize at this point is that these premises are fine (they are both true!) but the logic of the argument is not.
+On the other hand, consider:
+Argument L:
+Premise 1: Toronto is the capital of Canada.
+Premise 2: The capital of Canada is located in Nova Scotia.
+Conclusion: Therefore, Toronto is in Nova Scotia.
+The problem here is the reverse of the problem seen in the previous argument. Here, the premises are not acceptable—both are false. However, if they were true, those premises would provide strong logical support for the conclusion that Toronto is in Nova Scotia. Because, if it were true that Toronto is the capital of Canada, and that the capital of Canada is located in Nova Scotia, then it would absolutely be certain that Toronto is in Nova Scotia. Those premises, together, provide very good reason to believe the conclusion.
+The point here, again, is merely that the acceptability of an argument’s premises is a question almost entirely separate from the question of whether the logical link from those premises to the argument’s conclusion is strong. This means, among other things, that we can’t establish whether an argument is strong or weak simply by looking at the argument’s premises. The acceptability of an argument’s premises is typically a good place to start when evaluating an argument, but it isn’t the only thing you need to look at. You also need to look at the flow of logic from premises to conclusion. And this is part of why diagramming arguments is so useful. A diagram demonstrates just how many premises there are—how many premises need to be evaluated for acceptability—and how many flows of logic must be assessed.
+Conclusion
+We have covered a lot of ground already. We discussed what arguments are, what parts they have, and how they can be diagrammed. We also looked at the principles of fidelity and charity that we need to follow when reconstructing arguments. Finally, we distinguished between two ways in which an argument can fail: it may rest on unacceptable premises, or it may use faulty logic. In the coming weeks, we will look more closely at how to evaluate the premises and logic of arguments.

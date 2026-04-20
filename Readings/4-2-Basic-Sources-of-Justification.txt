@@ -1,0 +1,592 @@
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, uploading, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+1
+Basic Sources of Justification
+Introduction
+Before we get to the various ways of justifying basic premises, we need to make an
+important note: a premise having “basic justification” doesn’t mean it’s beyond doubt.
+Basic justification is always relative to some argumentative context. As an example,
+suppose your friend claims that Steve Jobs’s decision to make Siri the flagship feature of
+the iPhone 4 was influenced by having seen the movie Her with Joaquin Phoenix, and
+you make the following argument against that claim:
+Premise 1: People cannot be influenced by events that happen after their death.
+Premise 2: Her was released after Steve Jobs’s death.
+Conclusion: None of Steve Jobs’s decisions were influenced by the movie Her.
+Let’s say your friend accepts premise 1, but thinks you’re wrong about premise 2. You
+present the following argument to convince them:
+Premise 1: Steve Jobs died in 2011.
+Premise 2: The movie Her was released in 2013.
+Conclusion: The movie Her was released after Steve Jobs’s death.
+Now, if your friend doubts either of the premises in this last argument, it would be natural
+to look up the information on, say, Wikipedia. Wikipedia is a pretty reliable source for this
+type of information, and, if your friend is reasonable, they’ll accept those premises once
+Wikipedia confirms them. Wikipedia can serve as a basic source of justification (BSJ) in
+this case. But this doesn’t mean that information provided by Wikipedia is beyond all
+doubt. It simply means there are many contexts in which reasonable people will stop
+disputing premises, once they can verify those premises with a source like Wikipedia. It’s
+the same with all sources of basic justification: they’re not supposed to provide some
+profound metaphysical certainty, but rather a good enough starting point. They’re what
+often establishes what we called common ground before: claims that everyone in a given
+context finds acceptable. And when they fail to provide such common ground, they’re at
+least a way of shifting the burden of proof. It’s now up to the other party to show that the
+justification doesn’t work in this case.
+Let’s turn now to examining some BSJs and how they are able to justify various claims.
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, uploading, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+2
+BSJ1: Definitions and Logic
+In some cases, we can tell a claim is true because its truth is a matter of definition. Consider
+the following two claims:
+• All bachelors are unmarried.
+• All triangles have three sides.
+We know these claims are true simply due to the standard definitions of the words involved.
+A bachelor is an unmarried adult male; that’s what the English word bachelor means. So
+if someone says (for whatever reason), “All bachelors are unmarried,” you don’t need to
+go out and check by interviewing a bunch of bachelors about their marital status. Similarly,
+you don’t need to count the sides of a triangle to determine whether it’s true that All
+triangles have three sides, because having three sides is part of the definition of the English
+word triangle.
+Further, some claims are justified because they’re logical truths: they’re true simply
+because of the way logic connects ideas. Consider this claim: Ling is either an accountant
+or she’s not an accountant. Whether Ling is an accountant or not is a question of fact that
+might be worth investigating. But the claim that she must be one or the other is logically
+guaranteed: there’s no third possibility. Or consider this example: If no As are Bs, then no
+Bs are As. (Think about that one: for any example you can think of—that is, for anything
+you can substitute for A and B—if none of the As are Bs, then it must also be true that none
+of the Bs are As.)
+Definitions and logic provide excellent basic justification. But for most claims—and
+certainly for many interesting and important claims—definitions and logic won’t be
+enough.
+BSJ2: Your Senses
+In many cases, the justification for our beliefs is that we saw, heard, or felt it ourselves. Is
+it true there’s a coffee cup on my desk? Yes, it is. I can see it with my own eyes. Did our
+competitor really offer me a job? Yes, I heard them say it! Is some form of odorous
+substance leaking from our production facility? Yes, I can smell it myself! Is such evidence
+reliable?
+In some cases, it’s nearly impossible for claims about our experiences to be false. If I think
+It’s dark here because that’s what I’m experiencing, or if I tell you I ate lunch at Subway
+about an hour ago; I remember doing it, those claims are very, very likely to be true. Some
+philosophers refer to such beliefs in terms of entitlement: you’re immediately entitled to
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, uploading, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+3
+believe them. The point isn’t that such claims couldn’t be false—after all, it’s possible that
+you’re hallucinating! Rather, the point here is merely that such observations, and the claims
+that result from them, are so basic, so fundamental to how we conduct ourselves, that no
+one could blame you for believing them, even if you haven’t made any special effort to
+verify them.
+But our senses can let us down. Our eyes can deceive us if we’re tired, or if it’s dark or
+foggy. We can be mistaken about what we think we heard someone say when we’re in
+noisy environments. And intoxication (whether due to alcohol, prescription drugs, or street
+drugs) can have a significant impact on how trustworthy our senses and memories are.
+We should also doubt our senses when they tell us things that are contrary to what we have,
+on other grounds, good reason to believe. For example, when you see a stage magician “cut
+a woman in half,” it isn’t reasonable to believe that he really cut a woman in half.
+Everything you know about how the world works—including how the human body
+works—tells you that cutting someone in half and their living through the experience is
+impossible. If your senses tell you that’s happening, you should doubt them, and admire
+the magician’s clever illusion. Likewise, if you believe the robbers drove off in a black car,
+but four other reliable witnesses all claim it was a blue car that doesn’t necessarily mean
+you are wrong, but it does mean you have reason for doubt.
+Further, there are some situations in which we’re simply not very good at describing just
+what we’ve seen. Imagine someone tells you “That car zoomed past here at over 100
+km/h!” How reliable is that? Most civilians aren’t especially good at judging the speed of
+a passing car. Can you really be sure the car was going 110 km/h, not 90 km/h?
+We can roughly sort the reasons to doubt our senses into three categories. First, we can
+distinguish between reasons to think your senses may not have been working properly and
+reasons to believe that what you think you saw (or heard, or felt…) simply cannot be true.
+Let’s call this second category conflicting evidence. The first category can be further
+divided by distinguishing between factors to do with you and factors to do with the
+environment. Let’s call this first subcategory personal factors and the second
+environmental factors.
+This gives us the following checklist we should go through before trusting our senses (or
+trusting somebody else who’s relying on their senses).
+1a) Personal factors: I was drunk, I was tired, I wasn’t wearing my glasses, etc.
+1b) Environmental factors: It’s dark, It’s foggy, I was too far away, etc.
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, uploading, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+4
+2) Conflicting evidence: Other reliable people saw something different, What I
+seem to have seen conflicts with “common knowledge,” etc.
+Note that this list is just a guide to those factors that may give you reason to doubt your
+senses. It will usually not be necessary to determine the category into which such reasons
+fall (and sometimes the category to which a reason belongs will be unclear). What’s
+important is to be able to tell when you’re in the kind of situation where you have at least
+some reason for doubt.
+BSJ3: Eyewitness Testimony
+In some cases, the best evidence we have in support of a particular claim is that it was told
+to us by someone who has first-hand knowledge.
+Imagine your friend Maggie says, “Martin was at Walmart this morning; I saw him there.”
+Should you believe Martin was really at Walmart this morning (perhaps when he should’ve
+been at work)? The evidence we have is that Maggie says she saw him there with her own
+eyes. Is that enough? What reasons might we have to believe or to doubt Maggie? For most
+purposes, such testimony is pretty reliable. People generally know what they’ve seen, and
+they generally tell the truth about it. But ‘generally’ isn’t the same as ‘always’. It’s possible,
+that Maggie is mistaken about having seen Martin. Her senses are subject to the same
+limitations discussed in the section above, including personal factors and environmental
+factors. Maybe she wasn’t wearing her glasses or she was quite far away, and it was
+someone who merely looked a lot like Martin. It’s also possible that she’s not telling you
+the truth, although that would only be likely in special circumstances (circumstances in
+which you have reason to believe Maggie is lying, or bending the truth.)
+One set of circumstances in which you have reason to doubt people’s truthfulness is
+important in business, and so deserves special mention here. People are more likely to tell
+you a lie, or omit some part of the truth, when they stand to gain something from doing so.
+Imagine you’re thinking about buying new speakers for your car and your friend says to
+you “I have this new speaker system in my car and you can really hear the difference this
+new technology makes; it’s an entirely new and much improved listening experience.”
+Generally, you’d be inclined to think your friend is telling you the truth. Now imagine
+hearing this from a salesperson at a store that sells that speaker system. You’d be justifiably
+suspicious. The salesperson has a vested interest: they stand to gain, financially, if you
+accept their advice and buy the speakers. Note that a person with such a vested interest
+might still be telling the truth. So you shouldn’t conclude that the speaker system must be
+bad. It’s just that it’s usually better to avoid relying solely on the report of someone with a
+vested interest. It makes sense to seek some independent confirmation.
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, uploading, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+5
+How Reliable Is Eyewitness Testimony in Court?
+Interview with Dr. John Turtle*
+1) What, in general, does the expert literature say about the reliability of eyewitness
+reports?
+There is no overall measure of eyewitness accuracy or inaccuracy. Nor is anyone trying
+to develop one; but research shows that people's memory for events they see for
+relatively short periods of time is susceptible to a number of factors that limit its
+accuracy and completeness. One way to gauge the effect of these limitations is to
+analyze cases in which people have been exonerated of crimes they were thought to
+have committed, usually on the basis of DNA testing of evidence retained from a crime
+scene. Out of hundreds of such cases of error reviewed over decades of research,
+mistaken eyewitness identification was involved about 70% of the time—more than
+any other factor, by far. So we know people make mistakes, and that criminal
+investigation procedures and the court system often don't catch these
+mistakes. Knowing that eyewitness evidence is so prone to error, and that it can be
+overly relied upon by judges and jurors, has led some to say that it should never be
+used in criminal investigations and trials. The reality, however, is that sometimes it's
+the only evidence available to get an investigation started, or it's important
+corroborating evidence, but most eyewitness researchers would recommend it not be
+used as the sole or main evidence in a case.
+2) What are some of the main factors thought to account for the low reliability of
+eyewitness reports?
+A helpful way to organize the factors that affect eyewitness memory is to think of two
+categories: estimator variables and system variables. People new to the eyewitness
+memory area often focus on estimator variables at first—factors whose effect on
+memory we can only estimate, such as exposure time, viewing conditions, stress, age,
+retention interval, and others. Estimator variables are especially difficult to work with,
+because something like exposure time is often estimated to begin with (e.g., “I think I
+saw the guy for about 10 seconds.”), plus its effect on memory can also only be
+estimated because so many other factors are involved that likely interact with each
+other. So, we assume that overall, more exposure time is likely better than less, shorter
+retention intervals are likely better than longer ones, more light is probably better than
+less light. Knowing your memory for an event will be tested later probably improves
+memory performance, but nobody can answer the question of whether or not a
+particular fifteen-year-old female witness who saw a forty-year-old male stranger for
+fifteen seconds at night from six metres away is likely to be accurate in her description
+or identification of the offender three weeks after the event.
+The other category of factors that affect eyewitness memory is system variables—
+factors over which the legal system has at least some degree of control, such as
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, uploading, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+6
+how witnesses will be interviewed, how photos for a police lineup will be selected,
+how those photos will be presented, who conducts the lineup, and how the information
+will be used in an investigation or trial. For example, a witness's memory can be
+distorted if an interviewer includes in a question information about something
+the witness did not see; an investigator who knows which photo in a lineup is the
+suspect's can inadvertently suggest to a witness that they are “right” or “wrong”—and
+a witness who is told they are “right” after their lineup decision can come to have more
+confidence in their choice than someone who is not given that information.
+*Dr. John Turtle is an Associate Professor in Toronto Metropolitan University’s
+Department of Psychology, and an acknowledged expert on eyewitness testimony.
+BSJ4: Common Sense
+One key source of information—one we use every day—is our own, admittedly loose,
+understanding of how the world works. We use this built-in understanding constantly; we
+need to simply to get through the day. We know without thinking, for example, that if we
+tip a cup of water over, the water will flow all over the desk. We know, without thinking it
+through, that if we put a pot of water on the stove, and turn the stove to high, the water will
+get hot. And we understand, without having to be told, that if we criticize an acquaintance’s
+taste in clothes, we’ll hurt their feelings. All of this is automatic: we don’t need to gather
+detailed information about this cup of water or this stove, or this acquaintance. We
+understand fairly well how things and people work, and so we’re able to understand and
+even predict their behaviours.
+This intuitive understanding of the world has complex origins. Part of it may be biological.
+There’s evidence, for example, that even newborn babies have some understanding of the
+fact that solid objects can’t pass through each other, and that an object hidden from view
+has not disappeared but is simply unseen. Babies don’t need to learn this stuff by exploring
+the world themselves. They are apparently born with that knowledge. Babies are also
+apparently born knowing that faces belong to a special category of things with special
+meaning in the world. Babies are also born with at least some innate understanding of
+numbers, even though they don’t have the words to express it.
+Other elements of this common sense have to be learned. We have to learn, sometimes
+through painful experience, that fire will burn us; that’s not something we’re born knowing.
+We have to learn how various mechanical devices (like doorknobs) work. And we have to
+learn many aspects of how our fellow human beings think and react to various
+circumstances. But the net result is that, due in part to inherited capacities and in part to
+learning, we all have an intuitive understanding of crucial elements of our world, and this
+understanding helps us navigate the world in countless important ways.
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, uploading, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+7
+The three examples above (the cup, the stove, the acquaintance) were chosen with three
+important categories of common sense in mind: elementary physics, simple design
+knowledge, and folk psychology.
+Elementary physics is the knowledge of how physical objects generally behave here on
+earth. Here are a handful of claims that belong to our shared sense of elementary physics:
+• Objects fall to the ground if not held up by anything.
+• Fire burns many things.
+• Water runs downhill.
+• Steel is stronger than glass.
+• People cannot pass through solid objects.
+Elementary physics is incredibly important in getting through the day. It helps us make
+simple, yet important, decisions such as not leaving a building by walking out the window
+on the fifteenth floor, not making a spare key made of wax, and so on.
+Note that knowing elementary physics doesn’t imply that you could pass as much as a
+grade six physics test. Knowing that water flows downhill doesn’t mean we know the
+relevant theories and equations. We all know these elementary facts about the physical
+world, even though we might be utterly mistaken about the best current theories about what
+lies behind these simple claims. For example, everyone knows that if you drop a feather
+and a heavy suitcase off the top of a tower, the suitcase will fall to the ground faster. But
+many people think this is because heavy objects generally fall faster than lighter ones. This
+was proven false over four hundred years ago. The real answer has to do with air resistance,
+but that part isn’t intuitive.
+Similarly, we have a shared sense of how certain man-made objects and structures
+generally function. If you get into a car you’ve never driven before, how do you know that
+pressing the pedal on the right will make the car go faster? Because that’s how cars are
+designed—the gas pedal is on the right. Everybody knows that. When you pick up a
+hammer, you know it’ll be effective at driving nails because you know that’s what hammers
+are designed to do. And if you’re visiting a friend you will probably need no special
+instructions for how to flush the toilet or how to use their toaster.
+It’s worth noting that this common-sense design approach can work even with regard to
+our understanding of organizations. When you arrive at the front desk of a law firm, you
+expect to be greeted by a secretary or receptionist, because you know that that’s how law
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, uploading, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+8
+firms work. If you’re unhappy with the service at a restaurant, you may ask to see the
+manager, knowing that there’s likely to be such a person, and that they’re likely to try to
+accommodate you to some degree. Almost all restaurants are designed to operate that way.
+As these examples make clear, design knowledge is tied to having grown up in a particular
+culture. (If you grew up in Australia, for instance, it would be obvious to you that you’re
+supposed to drive on the left, rather than the right.) Thus, simple design knowledge can
+serve as a basic source of justification only where everyone involved has strong familiarity
+with the cultural context in question. When travelling to places with significantly different
+cultural norms, for example, it’s not advisable to rely on your own expectations of how
+things are designed or organized.
+Finally, there’s folk psychology,1 the body of knowledge we all have that allows us to
+correctly attribute to other people (and sometimes animals) moods, beliefs, desires,
+intentions, memories, and other psychological phenomena and experiences. This body of
+knowledge is useful because it allows us to make use of the fact that other people have
+such psychological states, which enables us to explain and predict their behaviour. This is
+an invaluable skill in interacting with others, whether in a bar, in an office, or when
+negotiating a deal.
+Our capacity for folk psychology is truly essential; it’s what allows us to live and work
+together in groups. Folk psychology is what lets us know that punching someone will make
+them mad, that gossiping about them will hurt their feelings, and that flirting with their
+romantic partner might make them jealous. We know intuitively how their minds work in
+such situations. And we can often predict how they might act in response. Folk psychology
+is also what allows us to motivate them to alter their behaviour: we know that they’ll tend
+to do more of something if we reward them and less if we punish them for it (although this
+isn’t always true).
+Our capacity for folk psychology is, however, imperfect. In some cases, there may be
+cultural differences that make it hard to interpret someone’s behaviour (Huh? Why did he
+bow? What does that mean?). More generally, sometimes we just don’t know what’s on
+someone else’s mind. Sometimes people make no sense to us: we see their behaviour, but
+can’t map it onto any particular understanding of what’s on their mind. Sometimes that’s
+the result of lack of imagination on our part. Other times, it may simply reflect the fact that
+people are different—we don’t all think identically. So we may find ourselves truly puzzled
+and ask ourselves What on earth are they doing? But the very fact we sometimes ask this
+1 The term folk psychology was coined by philosopher Daniel Dennett in 1981, and discussed in his 2013
+book, Intuition Pumps and Other Tools for Thinking.
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, uploading, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+9
+question reinforces the fact that we understand other people as creatures with minds, beings
+that have beliefs and act upon them. If we didn’t see other people that way, that is as doing
+things intentionally, we wouldn’t bother to wonder why they do what they do.
+Sometimes we’re unable to predict a particular person in a particular situation because we
+know that the person is subject to different motives at the same time. Consider the
+ultimatum game, in which one player is asked to divide an amount of money between
+herself and the other player. The other player gets to decide whether to take the deal or
+reject it (in which case the “dealer” keeps all the cash). If the first player offers a very
+uneven split, it’s hard to predict what the second player will decide because we know she’s
+subject to two different motives. On one hand, she’s probably like most people in that she’d
+prefer some money to no money. On the other hand, again like most people, she probably
+wouldn’t want to accept a deal she sees as unfair. Different people will balance those
+competing values in different ways, which makes the outcome harder for us to predict.
+This last example has important implications in a business context. One of the dangers of
+studying some parts of the typical business-school curriculum is that it makes people forget
+or ignore some essential parts of folk psychology. For example, everyone knows that
+people are sometimes motivated by a sense of loyalty. This means that cultivating a sense
+of loyalty among employees is an important tool for corporate leaders. However, since
+loyalty is hard to quantify, it’s been underemphasized in comparison to monetary rewards
+by large parts of economic theory (including the decision-theoretic models discussed in
+this course). This carries the danger that leaders schooled in economics will focus on
+external rewards and punishments when devising incentive schemes, neglecting potentially
+more effective intrinsic motivating factors like loyalty.
+These three forms of knowledge—our knowledge of elementary physics, simple design
+knowledge, and folk psychology—together constitute the important basic source of
+justification we call common sense.
+You may have noticed that what we’ve called common sense here is closely related to
+system 1 thinking as described in this course’s introduction. As we said there, such thinking
+is absolutely essential for living daily life, and remarkably successful in many contexts.
+However, it’s also subject to systematic limitations and errors. For now, we need to urge
+caution: while we can often depend on common sense as a basic source of justification, it
+can also be illusory.
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, uploading, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+10
+BSJ5: Expert Testimony
+Common sense is strongest in situations that are familiar to everyone. When it comes to
+unusual situations, or unusually obscure topics, common sense regularly misfires, and it’s
+in these contexts that we might want to turn to experts.
+An expert is someone who has great knowledge and experience in a particular field, and
+who thus has greater access to relevant facts and an enhanced ability to make judgements
+about them than others. Since many people claim to be experts, it’s not always easy to
+identify those who truly are. The following are some common markers that lend initial
+plausibility to the claim that somebody is an expert:
+• Prolonged study or advanced degrees (such as PhD)
+• Extensive experience in dealing with a particular topic
+• Recognition by other knowledgeable people in their field
+But these markers aren’t entirely reliable. Somebody may have gained a PhD, for instance,
+by spending a lot of time working on a theory that’s been thoroughly disproved in the
+meantime; they may have extensive experience but a rather spotty record at it, or they may
+work in a field that’s been discredited as a whole (such as homeopathy). So when we ask
+whether we can rely on an expert, we should be looking, in addition to the markers
+mentioned above, for a track record of providing accurate information and good advice—
+or at least for the absence of a track record of providing inaccurate information and bad
+advice.
+A further note of caution concerns the fact that expertise is specific to a particular field,
+and often quite narrow. Being an expert on one topic doesn’t make you an expert on another
+topic. Most people would agree that, of course, the opinions of celebrated experts in sports,
+science, or entertainment should carry no additional weight in questions outside their
+respective domains. What’s less well known is that even medical doctors are typically
+highly unreliable in diagnosing illnesses outside their area of specialization.
+It’s also important to note that there are many fields in which experts disagree about
+important questions. In these cases, we can’t simply rely on the opinion of one expert. In
+addition, we need to be on our guard, for an expert might not bother to mention that some
+of their views are controversial. But even when experts disagree, their disagreements can
+be informative. First, an expert in a field can teach us constructive ways of thinking about
+a field, even if they can’t give us settled answers. Second, expert disagreement often occurs
+against a backdrop of large areas of agreement. And when we see experts agree on issues
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, uploading, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+11
+A, B, and C, but disagree on D, that reassures us about A, B, and C, while also helping us
+see where the complexities and uncertainties lie.
+BSJ6: Scientific Studies
+One important way we can call on experts is by relying on their published work, especially
+peer-reviewed studies. A study (or any piece of academic writing) is peer-reviewed when
+approved, before (or in some cases after) publication, by other experts in the field. Thus, if
+a medical researcher has been conducting experiments with a new drug and wants to
+publish the results in a respectable medical journal, the journal will ask other medical
+researchers (the original researcher’s peers) to check whether the study or article conforms
+“I read it on the Internet!”
+One of the most accessible and powerful sources of information available to us is the
+Internet. And while sources of information on the Internet vary enormously in terms of
+reliability, we all rely so heavily on the Internet that it deserves special mention.
+The Internet, of course, isn’t a single source of information. It’s a tool that makes
+available to us everything from newspaper stories to corporate press releases to
+government policy statements to gossip posted on social media to conspiracy theories
+to deliberately false stories and, increasingly, to AI generated summaries of all of those.
+As a result, we need to look carefully at the very different levels of reliability of the
+different parts of the Internet. Imagine you are looking for information about the
+relationship between smoking and lung cancer. The following sites might all have
+something to say about that:
+• The website of the World Health Organization
+• The website of the Heart and Stroke Foundation
+• A blog written by someone with lung cancer The website of a cigarette company
+• A research article published on the website of the British Medical Journal
+• The website of an electronic cigarette (or “smokeless” cigarette) company
+• A story about lung cancer on the New York Times’s website
+• A friend’s Facebook posting about what she thinks really causes lung cancer
+• A blog written by a cancer researcher
+Clearly, these sources of information won’t all be equally reliable. Some of them are
+highly likely to put forward only claims supported by expert opinion and substantial
+data, with no interest in doing anything but providing you with reliable facts. Some of
+them, on the other hand, will be trying to convince you of things that are in their interest
+to have you believe (perhaps because they want to sell you something). Others may be
+well-intentioned, but simply lack the expertise required in order to reliably judge the
+existing evidence. So, make sure to exercise caution.
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, uploading, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+12
+to the highest scientific standards. Only after these reviewers have given the go-ahead can
+the study or article be published. This is generally regarded as the gold-standard of
+scientific publishing (though there are some academic fields, like law, that have developed
+different models).
+Now, it’s quite common for people to ask you to believe a claim because studies show or
+they did a study on that, and found…. Scientific studies are often an excellent source of
+justification, especially when we don’t just rely on one study but on a variety of studies on
+the same topic, all of which confirm our claim. However, in most cases the path from
+scientific studies to the premises of an argument isn’t straightforward. And it’s common
+for a lot of credibility and accuracy to be lost along the way. We can’t get into detail about
+how to evaluate scientific claims here, but the following is a very useful rough-and-ready
+guide.
+1) You can usually disregard any claim about what studies show if the person making
+that claim is incapable of citing a specific, credible source.
+There are a couple of reasons for this. First, people sometimes say studies show just to fake
+expertise when they have none. Second, for almost any claim—no matter how far from the
+truth—there’s likely to be some kind of study somewhere that supports it. So if a study is
+out there, it’s important that we’re able to check that the study was conducted in accordance
+with the highest scientific standards. And we can’t do that if we’re not given a source.
+(Note that this doesn’t mean the claim in question has to be false; it just means that studies
+show is not a source of justification in these circumstances.)
+2) Be careful as to whether the study being cited actually supports the claim being
+made or whether it instead supports a slightly different claim.
+The problem is that scientific studies are often misreported in small and big ways. Most
+people don’t get their information about scientific progress directly from scientific
+journals—they get it from social media or the popular press instead. And those sources,
+even respectable news outlets, tend to use headlines geared more towards generating
+interest from readers than accurately representing scientific results. Thus, it’s important to
+read past the headline and see what the researchers actually found. If the headline says
+Researchers Find Cure for Cancer, you may well find that what the study actually found
+is a small clue that could someday lead to a partial cure for some forms of cancer.
+3) Be careful when a study goes against established scientific consensus.
+Of course, sometimes the consensus is mistaken, and a new study is important precisely
+because it shows this is the case. But most of the time, when one or a handful of studies
+are on one side of the issue while the overwhelming majority support the other side, it’s
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, uploading, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+13
+the majority of researchers who have it right. Here, again, is a reason not to blindly trust
+popular science reporting. Social media and the popular press tends to over-report new,
+surprising, and revisionary results, because those generate exciting headlines. When it turns
+out, at some later time, that these exciting results don’t hold water after all, this is much
+less likely to be widely reported or reported at all.
+In short, when confronted with the studies show form of justification, you should (a) ask
+for the source, (b) check the source for credibility and accuracy, and (c) check whether the
+results are widely accepted in scientific circles.
+Wikipedia
+Wikipedia is a free online encyclopedia. The greatest thing about Wikipedia is that
+anybody can contribute. If you know something about French cooking, you can add
+information and insight to the many pages on that topic. If you have special knowledge
+about your favourite sports team, you can edit that page and share your knowledge with
+the world. Literally millions of people have contributed their knowledge to Wikipedia,
+making it a truly astonishing source of information.
+But Wikipedia’s greatest strength is also its greatest weakness. The fact that literally
+anybody can edit most Wikipedia pages means that even people who aren’t
+knowledgeable can make edits. And some people use Wikipedia to promote their own
+strange views or personal interests. The good news is that there are many volunteers
+constantly watching their favourite Wikipedia pages and double-checking each other’s
+work, which means that false or biased information is typically corrected quite quickly.
+Some studies by fact-checkers have suggested that, on average, the reliability of
+Wikipedia is even higher than the reliability of printed encyclopedias written and edited
+exclusively by certified experts.
+However, some Wikipedia pages are more reliable than others. In part, this reflects the
+fact that some pages simply haven’t been worked on very much by knowledgeable
+individuals. But it’s also the result of the fact that some topics are more controversial
+than others. And when topics are controversial, people on different sides may try to lend
+their own views greater credibility by presenting them as incontrovertible facts on
+Wikipedia.
+For example, pages about topics related to current politics, or long-standing ethical or
+military disputes, can be so controversial that people with strong opinions have been
+known to use the relevant Wikipedia pages as a place to make their own views known,
+or to advance causes they care about. For instance, if you want information on questions
+like Is Crimea part of Russia? Is abortion wrong? or Whose fault is the dispute between
+Israelis and Palestinians? you should be cautious about what you read on Wikipedia.
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, uploading, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+14
+The pages on basic physics, biology, geography, history, and mathematics, on the other
+hand, aren’t terribly controversial, and there’s little worry about bias or ideology
+interfering. So, if you want to find out how many bones are in the human body, or the
+population of Latvia, or what year the US passed the Foreign Corrupt Practices Act,
+Wikipedia is a pretty good source.
+Justifying Normative Claims
+For any claim to serve as an argument’s premise, it has to be acceptable to the person to
+whom the argument is addressed. This is also true for normative claims including those
+that are intended to function as bridge principles. As with descriptive claims, one way to
+ensure this is to first give an argument that has the bridge principle as a conclusion. Since
+bridge principles are themselves a type of normative claim, such an argument would have
+to have (at least some) normative premises. And, again, just as with descriptive claims, at
+some point such argumentation comes to an end and you simply have to accept some basic
+premises. Unlike in the case of descriptive claims, however, there are no easily agreed upon
+ways in which we can come to know basic normative claims. We can’t literally see, smell,
+or taste whether torturing innocent people is wrong, for example. We either agree to it as a
+starting point or we don’t.
+Thus, when there are disagreements about very basic normative claims, it’s not easy to see
+how to resolve them. However, we often don’t need to go back to the most basic forms of
+justification. More often than not, we can simply rely on the fact that the person we’re
+addressing likely accepts our basic premises. The same is true for broad, general, normative
+claims like many useful bridge principles. Most people, for example, would not ask you to
+justify the claim that it’s wrong to torture innocent people. For most purposes, such a
+premise can simply be put forward without any special effort to justify it. Many bridge
+principles will be accepted by the audience simply because they express shared moral or
+ethical principles (like stealing is wrong); others will be accepted because they express a
+shared purpose (such as we should only expand into the European market, if it is
+profitable).
+This doesn’t mean you’ll never be asked to provide an argument for a bridge principle (or
+any other normative claim) you’re using. Take one of the examples above: We should do
+whatever maximizes our profits. While this claim is often heard, you can be sure to
+encounter resistance to it in many contexts. If you want to use it, you need to be prepared
+to provide an argument for it.
+Finally, note that bridge principles are often left implicit, so they take the role of hidden
+premises in many arguments. For example:
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, uploading, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+15
+Premise: Andruw is the most qualified candidate.
+Conclusion: Andruw should get the job.
+This is an argument that apparently moves directly from a descriptive premise to a
+normative conclusion. Thus, it can’t quite work exactly as stated here. What’s missing is a
+bridge principle. In this case:
+Premise 2: The most qualified candidate should get the job.
+This is an example where leaving the bridge principle unstated in the original argument
+isn’t a big deal, because most people would accept it anyway. But other cases won’t be so
+easy. Consider this argument:
+Premise: Reducing carbon emissions would require a change to our lifestyle.
+Conclusion: We shouldn’t reduce carbon emissions.
+Again, we have a descriptive premise and a normative conclusion. What’s the bridge
+principle that would work to connect the two? Probably this one:
+Premise 2: We shouldn’t do anything that requires a change of lifestyle.
+Some people would probably accept that particular bridge principle, but many others
+wouldn’t. Thus, leaving it as an unstated or hidden premise is problematic. The argument
+leaves out an important part that’s likely to be challenged if made explicit.
+Conclusion
+We’ve laid the foundation for the identification and evaluation of premises. We’ve seen
+how beliefs and claims are related, and that the best standard to use to evaluate them is the
+justification of belief and the acceptability of claims. We’ve also briefly discussed various
+ways in which claims can meet the standard of acceptability.
