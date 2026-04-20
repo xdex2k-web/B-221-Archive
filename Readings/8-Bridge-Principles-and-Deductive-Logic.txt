@@ -1,0 +1,156 @@
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+1
+Logic, Part 1: Bridge Principles and Deductive Logic
+Introduction
+In this class we introduce and discuss the concept of logic. We begin by connecting the topic of logic back our discussion of the justification of claims, by introducing the distinction between descriptive and normative claims, and briefly discussing how justification is different for normative claims than it is for descriptive ones. We will then look at how these two types of claims can be combined in argumentative structures. We’ll introduce the general notion of logical support and discuss how this works in argument types that belong to what is called deductive logic.
+Normative Claims and Bridge Principles
+Recall from our previous discussions that both premises and conclusions consist of claims, and that when we “mark up” our arguments, we assign numbers to each claim before determining if they play the role of a premise or conclusion. In terms of argument analysis, we have thus seen the role that claims play in an argument. But in terms of claims and their evaluation as premises or conclusions, we need to introduce an important distinction between two types of claims: descriptive claims1 and normative claims. So far, we have mostly focused on descriptive claims. Roughly speaking, descriptive claims are claims that are either true or false depending on the physical facts of the world as they currently are, which we can usually observe with our senses. Of course, our senses sometimes need help from instruments like microscopes to observe these facts. And sometimes our senses can detect only the effects of some facts, rather than sensing those facts directly. If you observe a shadow, for example, you can infer both that a light is shining, and that some object is blocking part of that light, casting the shadow.
+But there’s another type of claim, namely claims about what should or ought to be the case, what someone should or ought to do, or whether something is good or bad. We call these normative claims. Normative claims are essential because most arguments in business contexts have normative conclusions—that is, arguments in business are typically about what we should do: who we should hire, what we should buy, or what we should invest in. In other words, when someone makes an argument in a business setting, they usually want to convince someone else that they should do (or not do) something.
+Here are some examples of normative claims:
+1 In some fields, such as economics, these are referred to as positive claims or statements.
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+2
+• We should open a branch in Tokyo.
+• You should fire Peter.
+• I ought to get a raise.
+• Xie ought to be promoted.
+• You should not lie to your shareholders.
+• Antonios should major in accounting.
+• Moving our factory to Mexico would be bad.
+As the last example shows, normative claims don’t have to contain the words ought or should. Sometimes, normative claims are expressed using terms like good, bad, evil, right, wrong, admirable, deplorable, fantastic, etc. Some normative claims concern ethics—matters of moral right and wrong—whereas other normative claims assert that it would be wise or prudent (i.e., in your interest) to do a particular thing. (Note that it will sometimes be unclear whether a normative claim is offered as an ethical or a prudential claim).
+Importantly, while both descriptive and normative claims can be true or false, they’re different enough that an argument can’t simply move logically from one type to the other—that is to say, a set of purely descriptive premises cannot support a normative conclusion. The reverse is true too: a set of purely normative premises cannot support a descriptive conclusion. As you will read below, descriptive premises alone cannot provide sufficient logical support for us to accept a normative conclusion. And, similarly, normative claims alone cannot provide sufficient logical support to warrant our acceptance of a descriptive conclusion. Arguments that attempt to do either of these things are always arguments that need improving, even if that just means exposing a hidden premise. Take the following argument, for example:
+Premise 1: Peter should get a raise.
+Premise 2: Peter should be promoted.
+Conclusion: Peter will be the next CEO.
+The descriptive conclusion (about what’s going to happen to Peter) isn’t supported by the normative premises (about what should happen to Peter). It might follow that Peter should be the next CEO, but that’s a normative claim, and a different matter from whether he will be CEO. Or consider this argument:
+Premise 1: Peter has been with the company for twelve years.
+Premise 2: Twelve years is a long time.
+Conclusion: We should give Peter a raise.
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+3
+The normative conclusion (about what we should do) simply doesn’t follow from the descriptive premises (things that are true about Peter). What does follow from the premises provided is that Peter has been with the company for a long time—another descriptive claim. To arrive at the conclusion that we should give Peter a raise, we’d need to add another premise—a normative one—connecting length of service with deserving a raise.
+Does this mean that normative and descriptive claims can never be used in the same argument? That would be bad because it would mean we could never support our normative conclusions with descriptive premises. And doing just that is central to good decision-making, which is always grounded in a firm grasp of the relevant descriptive facts. So how do we bridge the apparent gap between normative and descriptive claims, between what should be and what is?
+To get from descriptive premises to normative conclusions we need, as an additional premise, a type of claim that can bridge the gap between those two types of claims. Because of that we call a claim that acts in such a way a bridge principle. To function as a bridge principle a claim needs to combine descriptive and normative elements. Typically, such claims are complex normative claims that specify the descriptive conditions under which something should or should not be done, or is good or bad.
+Here are some examples of normative claims that can function as bridge principles:
+• The person with the most experience should get the promotion.
+• We should do whatever maximizes our profits.
+• Telling a lie is always wrong.
+• Before you sign a contract, you should read the fine print.
+• If you’re a criminal defence lawyer, you ought to provide the best defence for your client, even when you think they’re guilty.
+• Firing people without cause is bad.
+These claims tell you what descriptive claim you need in order to reach the normative conclusion contained in the claim. So in order to conclude that Peter should get the promotion, the first claim in the list tells you that you have to claim that Peter has the most experience. The claim connects the idea of having experience (an is) with the idea of deserving a promotion (an ought). Such a claim can function as a bridge principle in an argument for the conclusion that Peter should be promoted. Adding this premise to the argument increases the level of logical support that the premises together provide for the conclusion.
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+4
+Justifying Normative Claims
+In order for any claim to serve as an argument’s premise, it has to be acceptable to the person to whom the argument is addressed. This is also true for normative claims that are intended to function as bridge principles. As with descriptive claims, one way to ensure this is to first give an argument that has the bridge principle as a conclusion. Since bridge principles are themselves a type of normative claim, such an argument would have to have (at least some) normative premises. And, again, just as with descriptive claims, at some point such argumentation comes to an end and you simply have to accept some basic premises. Unlike in the case of descriptive claims, however, there are no easily agreed upon ways in which we can come to know basic normative claims. We can’t literally see, smell, or taste whether torturing innocent people is wrong, for example. We either agree to it as a starting point or we don’t.
+Thus, when there are disagreements about very basic normative claims, it’s not easy to know how to resolve them. However, we often don’t need to go back to the most basic forms of justification. More often than not, we can simply rely on the fact that the person we’re addressing likely accepts our basic premises. The same is true for broad, general, normative claims like many useful bridge principles. Most people, for example, would not ask you to justify the claim that it’s wrong to torture innocent people. For most purposes, such a premise can simply be put forward without any special effort to justify it. Many bridge principles will be accepted by the audience simply because they express shared moral or ethical principles (like stealing is wrong); others will be accepted because they express a shared purpose (such as we should only expand into the European market, if it is profitable).
+This doesn’t mean you’ll never be asked to provide an argument for a bridge principle (or any other normative claim) you’re using. Take one of the examples above: We should do whatever maximizes our profits. While this claim is often heard, you can be sure to encounter resistance to it in many contexts. If you want to use it, you need to be prepared to provide an argument for it.
+Finally, note that bridge principles are often left implicit, so they take the role of hidden premises in many arguments. For example:
+Premise: Andruw is the most qualified candidate.
+Conclusion: Andruw should get the job.
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+5
+This is an argument that apparently moves directly from a descriptive premise to a normative conclusion. Thus, it can’t quite work exactly as stated here. What’s missing is a bridge principle. In this case:
+Premise 2: The most qualified candidate should get the job.
+This is an example where leaving the bridge principle unstated in the original argument isn’t a big deal, because most people would accept it anyway. But other cases won’t be so easy. Consider this argument:
+Premise: Reducing carbon emissions would require a change to our lifestyle.
+Conclusion: We shouldn’t reduce carbon emissions.
+Again, we have a descriptive premise and a normative conclusion. What’s the bridge principle that would work to connect the two? Probably this one:
+Premise 2: We shouldn’t do anything that requires a change of lifestyle.
+Some people would probably accept that particular bridge principle, but many others wouldn’t. Thus, leaving it as an unstated or hidden premise is problematic. The argument leaves out an important part that’s likely to be challenged if made explicit.
+Logical Support
+Recall that according to our definition of argument, an argument’s premises are supposed to provide support for its conclusion. This is only possible if the premises are themselves acceptable. Suppose they are. What does it mean for one (acceptable) claim to support another? The general idea is that a claim logically supports another claim if learning about the first claim makes it more reasonable to accept the second. For example, if you learn that the star violinist of the symphony broke both hands in an accident today, it becomes more reasonable for you to believe that tonight’s performance will be cancelled than it was before you learned about the accident (of course, this doesn’t mean you can be sure the performance will be cancelled). The first claim—that the violinist broke his hands—makes it more reasonable than it was previously to believe the second claim—that the show will be cancelled. The first claim provides good logical support for the second.
+Logical support: Claim C is supported by a set of claims, S, if accepting S makes it more reasonable to accept C.
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+6
+One useful way to understand what it means to provide logical support for a conclusion is to consider the proceedings in criminal court. The prosecutor wants to convince the jury that the defendant is guilty. In other words, the conclusion of the prosecutor’s argument is the claim that the defendant is guilty, and whatever evidence the prosecutor presents constitutes the premises of that argument.
+Suppose the defendant’s DNA was found at the scene of a murder, that the defendant hated the victim, and that the defendant is the owner of the murder weapon. Each of these claims is introduced as a premise for the conclusion that the defendant committed the murder, and each provides some logical support for that claim. Believing these claims makes it more reasonable for the jury to believe the defendant is guilty.
+Of course, it’s not impossible that the defendant is innocent. The task of the defence lawyer is to point that out, and to argue that there’s at least reasonable doubt. In order to do that, they’ll need to either dispute the evidence (saying that the premises of the prosecutor’s argument aren’t acceptable) or claim the evidence doesn’t provide strong enough support – isn’t sufficient – to warrant a conviction. We focus on this second strategy in this chapter.
+If the evidence itself is likely to be accepted by the jury, the task of the defence is to give an alternative explanation for the evidence. In other words, they need to describe a scenario in which the premises of the prosecution’s argument are true (the strategy here is not to dispute the evidence) but the conclusion is nevertheless false (the defendant is not guilty). It’s almost always possible to describe some such scenario. The question is how far-fetched the scenario has to be to provide an alternative explanation. The less believable the alternative scenario is, the less room there is for the jury to have reasonable doubt. And the less room for reasonable doubt, the stronger the logical support the premises provide for the conclusion (in this case, the conclusion that the defendant is guilty).
+In our example, the defence may argue that the defendant visits the scene of the crime quite frequently (explaining the presence of his DNA there), that he hates many people but would nevertheless never murder any of them, and that he’d lost the murder weapon a couple of weeks prior to the crime. None of this sounds particularly far-fetched, so it would seem the prosecution’s argument leaves room for reasonable doubt—it provides some logical support for its conclusion, but that support isn’t enough to meet the standard required by the criminal justice system.
+But now imagine that the prosecution introduces additional evidence: a video from a surveillance camera showing the defendant stabbing the victim to death, and a T-shirt belonging to the defendant, soaked in the victim’s blood. The T-shirt, the prosecution
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+7
+points out, was found buried in the defendant’s yard. Of course, the defence may still present an alternative explanation for the evidence. Maybe the real murderer just happened to look exactly like the defendant or changed their appearance to lead the police astray; they just happened to bury the T-shirt in the defendant’s yard, or did it to frame him. And so on. We can see how the scenario, while not impossible, becomes increasingly implausible. This means that the logical support provided by the prosecution’s premises is getting stronger.
+As we’ll see, there are various ways of providing logical support for a conclusion—there are various types of argument. But the underlying idea of logical support stays the same: the harder it is to come up with a plausible scenario in which an argument’s premises are true and its conclusion is nevertheless false, the stronger the logical support provided by the premises (assuming, of course, the premises are acceptable).
+Deductive Logic
+In the weakest arguments, the premises are actually irrelevant—that is, the premises don’t offer any real support for their conclusion and it is very easy to imagine scenarios in which even if the premises are true, the conclusion is false. On the other extreme we find arguments structured such that it becomes impossible to imagine a scenario in which the premises are true and the conclusion is false. These are called deductive arguments. Here is an example:
+Argument E:
+Premise 1: If I can find an equity investor to provide 50% of the capital needed for my expansion, then the bank will loan me the other half.
+Premise 2: I have found an equity investor who will provide 50%.
+Conclusion: The bank will give me the loan.
+Now, is it really guaranteed that the bank will give me the loan? Is it literally impossible for the claim that the bank will give me the loan to be false? No. It’s imaginable that the person in charge at the bank might change their mind, or that the bank has gone bankrupt. But this would mean that premise 1 isn’t actually true. But as long as premises 1 and 2 are true, then the conclusion that the bank will give me the loan absolutely has to be true.
+The class of deductive argument we’ll cover in this course is called conditional arguments (Argument E is an example). Logicians have devised a number of formal methods to evaluate such arguments, but covering those would go beyond the scope of this course. What we’ll do instead is introduce the structure of some very common, successful deductive arguments (arguments in which the truth of the premises really does guarantee
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+8
+the truth of the conclusion), and the structure of some common fallacious arguments (arguments that look like deductive arguments but in which the conclusion doesn’t actually follow from the premises).
+Before we dive in, a word of warning: It might be tempting to think deductive arguments are generally better than inductive ones; after all, they offer the promise of logical certainty, while inductive arguments only ever make their conclusions likely. This, however, would be a mistake. Inductive and deductive are simply different forms of argument, each with distinctive strengths and weaknesses. For example, while the logical link between premises and conclusions is absolutely watertight in (good) deductive arguments, this is often achieved at the expense of using at least one premise that’s somewhat doubtful (such as premise 1 in Argument E).
+Conditional Arguments
+Conditional arguments are called that because they use premises that specify conditions under which something is true. This may sound familiar from our earlier discussion of bridge principles. Indeed, bridge principles often (though not always) take this form because they specify the descriptive condition that needs to be true for a normative conclusion to follow. For example, “If you want a raise, you should be sure to show up to work on time.”
+Generally speaking, such conditions in conditional arguments come in two forms: necessary and sufficient. To say that A is a necessary condition for B means that B will definitely not happen (or not be true) unless A happens (or is true). For example, having four sides is a necessary condition for a geometric shape to be a square. For a shape to be a square, it has to have four sides. But having four sides isn’t a sufficient condition for a shape to be a square (since a diamond shape also has four sides but isn’t a square). To say that A is a sufficient condition for B means that if A happens (or is true), then B will definitely also happen (or be true). For instance, if you deprive someone of oxygen for twenty-four hours, they will definitely die. Being deprived of oxygen for twenty-four hours is a sufficient condition for dying.
+Necessary conditions are typically expressed with sentences using the phrase only if. You can become a lawyer only if you pass the bar, so passing the bar is a necessary condition for becoming a lawyer. Sufficient conditions are standardly expressed using sentences in the form of if A, then B (though speakers often omit the word then). These latter types of conditional claims are our focus here because the most common conditional arguments use such conditional claims as one premise. A typical conditional argument starts from a claim specifying that A is a sufficient condition for B. It then proceeds, as a second premise, to
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+9
+affirm or deny that either A or B is actually true, then concludes that the other must be true or false. Here is another example:
+Argument F:
+Premise 1: If sales drop this season, then we’ll need fewer employees.
+Premise 2: Sales are dropping this season.
+Conclusion: We need fewer employees.
+Notice something important about a conditional claim like the one made in premise 1 of Argument F: The arguer here is making a claim about the conditions under which they’ll need fewer employees. They aren’t claiming that sales will drop, nor are they claiming that they will need fewer employees. They’re simply saying that if one thing happens, then the other thing will happen. That’s the nature of a conditional claim: it’s a claim about the logical relationship between two other claims.
+Sometimes, conditional arguments support their conclusion by stating a set of conditions under which a certain further claim is sure to be true, and by then denying that the further claim is true. The conclusion then reached is a negative one: the conditions initially considered as possible in the premise are said to not be true. Take a look at this example:
+Argument G:
+Premise 1: If our sales were strong, we’d receive bonuses.
+Premise 2: We’re not receiving bonuses.
+Conclusion: Our sales aren’t strong.
+Arguments F and G above are properly structured conditional arguments. Strong conditional arguments employ deductive logic, which means as long as the premises are true, there’s no way the conclusions could possibly be false. You may think you can come up with a counterexample, but when you do, you’ll always find you have actually denied or altered one of the premises. In the language of logic, arguments like these—ones that are structured so that they reliably lead from premises to conclusion—are known as valid arguments. (If a valid argument also has premises that are all true, we call it a sound argument). Arguments F and G illustrate the two most common types of deductively valid conditional arguments. Because they’re so common, logicians have given these types special names: modus ponens and modus tollens. Here is the general structure of these two arguments, with examples:
+Textbook: Business Decision-Making, © 2022 Chris MacDonald & Hasko von Kriegstein
+For use only in BUS221, Toronto Metropolitan University.
+Posting, copying, or distribution anywhere without permission is forbidden.
+ct4biz2022
+----------------------------
+10
+Modus ponens:
+If P, then Q. If the numbers don’t add up, we should ask for more details.
+P. The numbers don’t add up.
+Therefore, Q. Therefore, we should ask for more details.
+Modus tollens:
+If P, then Q. If I needed your help, I’d have called you.
+Not Q. I didn’t call you.
+Therefore, not P. Therefore, I didn’t need your help.
+Since the logical linkage in arguments of these forms is bulletproof, the hard work is in establishing the acceptability of the premises. In particular, it’s often quite hard to get people to accept a conditional claim as true. But that is a matter or premise evaluation rather than logical evaluation.
